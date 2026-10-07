@@ -90,43 +90,43 @@ The following visualizations were created in Tableau based on the SQL analysis.
 
 Shows the clubs whose players scored the most goals during the FIFA World Cup 2026.
 
-![Top 10 Clubs by Goals](images/01_top_clubs_by_goals.png)
+![Top 10 Clubs by Goals](./images/01_top_clubs_by_goals.png.png)
 
 ### 2. Clubs with the Most Goal Scorers
 
 Shows which clubs had the largest number of different players scoring goals.
 
-![Clubs with the Most Goal Scorers](images/02_clubs_with_most_goal_scorers.png)
+![Clubs with the Most Goal Scorers](./images/02_clubs_with_most_goal_scorers.png.png)
 
 ### 3. Goals-to-xG Ratio by Team
 
 Compares actual goals with expected goals (xG) and highlights teams that outperformed their expected scoring level.
 
-![Goals-to-xG Ratio by Team](images/03_goals_to_xg_ratio.png)
+![Goals-to-xG Ratio by Team](./images/03_goals_to_xg_ratio.png.png)
 
 ### 4. Top Scorer's Contribution to Team Goals
 
 Shows the percentage of a team's goals scored by its top goalscorer.
 
-![Top Scorer's Contribution to Team Goals](images/04_top_scorer_contribution.png)
+![Top Scorer's Contribution to Team Goals](./images/04_top_scorer_contribution.png.png)
 
 ### 5. World Cup Groups: Goals vs Team Market Value
 
 Compares total goals scored with the average team market value across World Cup groups.
 
-![World Cup Groups: Goals vs Team Market Value](images/05_groups_goals_vs_market_value.png)
+![World Cup Groups: Goals vs Team Market Value](./images/05_groups_goals_vs_market_value.png.png)
 
 ### 6. Share of Total Goals by League
 
 Shows how the goals scored by players are distributed across their domestic leagues.
 
-![Share of Total Goals by League](images/06_goals_share_by_league.png)
+![Share of Total Goals by League](./images/06_goals_share_by_league.png.png)
 
 ### 7. Goals-to-Players Ratio by League
 
 Compares the number of goals with the number of players represented by each league.
 
-![Goals-to-Players Ratio by League](images/07_goals_to_players_ratio_by_league.png)
+![Goals-to-Players Ratio by League](./images/07_goals_to_players_ratio_by_league.png.png)
 
 ## Data
 
