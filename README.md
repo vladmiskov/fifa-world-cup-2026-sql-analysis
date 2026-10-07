@@ -123,5 +123,38 @@ FIFA-World-Cup-2026-SQL-Analysis/
 ├── sql/
 │   ├── world_cup_analysis.sql
 │   └── README.md
+
+
+## Visualizations
+
+The following visualizations were created in Tableau based on the SQL analysis.
+
+### 1. Top 10 Clubs by Goals
+
+![Top 10 Clubs by Goals](images/01_top_clubs_by_goals.png)
+
+### 2. Clubs with the Most Goal Scorers
+
+![Clubs with the Most Goal Scorers](images/02_clubs_with_most_goal_scorers.png)
+
+### 3. Goals-to-xG Ratio by Team
+
+![Goals-to-xG Ratio by Team](images/03_goals_to_xg_ratio.png)
+
+### 4. Top Scorer's Contribution to Team Goals
+
+![Top Scorer's Contribution to Team Goals](images/04_top_scorer_contribution.png)
+
+### 5. World Cup Groups: Goals vs Team Market Value
+
+![World Cup Groups: Goals vs Team Market Value](images/05_groups_goals_vs_market_value.png)
+
+### 6. Share of Total Goals by League
+
+![Share of Total Goals by League](images/06_goals_share_by_league.png)
+
+### 7. Goals-to-Players Ratio by League
+
+![Goals-to-Players Ratio by League](images/07_goals_to_players_ratio_by_league.png)
 │
 └── README.md
