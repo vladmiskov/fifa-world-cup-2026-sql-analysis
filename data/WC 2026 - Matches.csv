@@ -1,0 +1,105 @@
+match_id,match_date,stage,group_round,group,home_team_id,away_team_id,winner_team_id,match_result_type,home_goals,away_goals,home_xg,away_xg,home_possession,away_possession,home_shots,away_shots,home_shots_on_target,away_shots_on_target,home_corners,away_corners,home_fouls,away_fouls,home_yellow_cards,away_yellow_cards,home_red_cards,away_red_cards,Capacity,attendance,stadium,city,weather_temperature
+1,11.06.2026,Group Stage,1,A,25,31,25,Regular Time,2,0,"1,46","0,08",61,39,16,3,4,2,3,1,12,11,1,2,1,2,80 824,80 824,Mexico City Stadium,Mexico City,25
+2,12.06.2026,Group Stage,1,A,33,44,33,Regular Time,2,1,"2,30","0,83",61,39,15,7,6,4,4,5,9,16,1,0,0,0,45 664,44 985,Guadalajara Stadium,Guadalajara,22
+3,12.06.2026,Group Stage,1,B,19,7,,Regular Time,1,1,"1,23","0,98",61,39,13,8,4,3,9,4,10,20,2,3,0,0,43 036,43 002,Toronto Stadium,Toronto,24
+4,13.06.2026,Group Stage,1,D,37,32,37,Regular Time,4,1,"1,34","0,47",65,35,16,9,6,1,3,1,13,17,1,5,0,0,70 492,70 492,Los Angeles Stadium,Los Angeles,19
+5,13.06.2026,Group Stage,1,B,20,45,,Regular Time,1,1,"0,60","3,20",32,68,6,26,3,7,3,10,12,11,2,1,0,0,68 827,67 966,San Francisco Bay Area Stadium,San Francisco Bay Area,29
+6,14.06.2026,Group Stage,1,C,8,24,,Regular Time,1,1,"1,26","1,36",51,49,12,14,5,3,6,2,16,14,2,0,0,0,80 663,80 663,New York/New Jersey Stadium,New Jersey,30
+7,14.06.2026,Group Stage,1,C,9,47,47,Regular Time,0,1,"1,04","1,05",54,46,15,9,2,2,4,3,23,21,1,3,0,0,64 146,64 146,Boston Stadium,Boston,20
+8,14.06.2026,Group Stage,1,D,1,39,1,Regular Time,2,0,"1,18","1,36",58,42,9,30,4,8,5,8,12,4,0,1,0,0,52 497,52 497,BC Place Vancouver,Vancouver,21
+9,14.06.2026,Group Stage,1,E,27,23,27,Regular Time,7,1,"4,22","0,41",65,35,26,8,12,2,8,1,18,11,0,0,0,0,68 777,68 021,Houston Stadium,Houston,29
+10,14.06.2026,Group Stage,1,F,26,48,,Regular Time,2,2,"0,79","0,59",60,40,10,10,6,3,5,4,7,7,3,0,0,0,70 649,69 285,Dallas Stadium,Dallas,28
+11,15.06.2026,Group Stage,1,E,22,12,22,Regular Time,1,0,"1,52","1,02",48,52,15,12,4,1,3,5,10,13,3,1,0,0,68 324,68 274,Philadelphia Stadium,Philadelphia,27
+12,15.06.2026,Group Stage,1,F,46,38,46,Regular Time,5,1,"1,34","0,27",49,51,13,6,7,2,4,2,10,8,0,1,0,0,51 243,50 987,Monterrey Stadium,Monterrey,26
+13,15.06.2026,Group Stage,1,H,16,18,,Regular Time,0,0,"2,10","0,21",74,26,27,6,7,1,11,1,10,1,1,1,0,0,68 239,67 640,Atlanta Stadium,Atlanta,27
+14,15.06.2026,Group Stage,1,G,6,13,,Regular Time,1,1,"1,35","1,08",54,46,15,14,3,3,2,7,15,15,2,2,0,0,66 925,66 775,Seattle Stadium,Seattle,30
+15,16.06.2026,Group Stage,1,H,35,41,,Regular Time,1,1,"0,66","1,72",33,67,7,27,3,10,4,14,11,6,0,1,0,0,64 478,62 764,Miami Stadium,Miami,31
+16,16.06.2026,Group Stage,1,G,15,28,,Regular Time,2,2,"1,50","1,24",48,52,17,14,4,8,4,1,10,8,1,0,0,0,70 492,70 108,Los Angeles Stadium,Los Angeles,19
+17,16.06.2026,Group Stage,1,I,42,36,42,Regular Time,3,1,"1,78","0,53",53,47,11,6,8,2,6,4,5,9,0,0,0,0,80 663,80 545,New York/New Jersey Stadium,New Jersey,26
+18,17.06.2026,Group Stage,1,I,14,29,29,Regular Time,1,4,"0,80","2,52",39,61,11,12,1,5,2,5,12,13,1,0,0,0,64 146,63 106,Boston Stadium,Boston,22
+19,17.06.2026,Group Stage,1,J,5,3,5,Regular Time,3,0,"1,26","0,33",48,52,10,7,6,0,2,2,13,8,0,0,0,0,69 045,69 045,Kansas City Stadium,Kansas City,23
+20,17.06.2026,Group Stage,1,J,2,17,3,Regular Time,3,1,"1,69","0,46",63,37,11,11,4,0,4,3,12,7,1,0,0,0,68 827,68 527,San Francisco Bay Area Stadium,San Francisco Bay Area,16
+21,17.06.2026,Group Stage,1,K,34,11,34,Regular Time,1,1,"0,65","0,87",75,25,7,8,1,2,5,4,9,10,3,1,0,0,68 777,68 777,Houston Stadium,Houston,31
+22,17.06.2026,Group Stage,1,L,4,43,4,Regular Time,4,2,"3,21","0,70",52,48,22,10,11,5,8,2,10,12,0,0,0,0,70 649,70 389,Dallas Stadium,Dallas,33
+23,18.06.2026,Group Stage,1,L,10,30,10,Regular Time,1,0,"1,31","0,73",38,62,7,11,2,4,2,2,9,11,1,2,0,0,43 036,42 942,Toronto Stadium,Toronto,16
+24,18.06.2026,Group Stage,1,K,40,21,21,Regular Time,1,3,"1,16","1,61",39,61,8,15,2,4,3,4,14,11,1,1,0,0,80 824,80 824,Mexico City Stadium,Mexico City,17
+25,18.06.2026,Group Stage,2,A,44,31,,Regular Time,1,1,"1,02","1,38",38,62,14,17,3,4,5,5,12,10,1,2,0,0,68 239,67 442,Atlanta Stadium,Atlanta,28
+26,18.06.2026,Group Stage,2,B,45,7,45,Regular Time,4,1,"2,06","0,23",62,38,13,5,7,3,7,3,7,18,1,2,0,1,70 492,70 026,Los Angeles Stadium,Los Angeles,22
+27,19.06.2026,Group Stage,2,B,19,20,19,Regular Time,6,0,"4,60","0,22",79,21,32,2,10,0,19,1,9,10,1,1,0,2,52 497,52 497,BC Place Vancouver,Vancouver,23
+28,19.06.2026,Group Stage,2,A,25,33,25,Regular Time,1,0,"0,52","0,91",42,58,8,9,4,2,0,2,9,7,0,2,0,0,45 664,45 522,Guadalajara Stadium,Guadalajara,23
+29,19.06.2026,Group Stage,2,D,37,1,37,Regular Time,2,0,"1,08","0,34",62,38,10,5,2,2,7,4,12,16,3,4,0,0,66 925,66 925,Seattle Stadium,Seattle,25
+30,20.06.2026,Group Stage,2,C,47,24,24,Regular Time,0,1,"0,52","1,00",41,59,6,12,0,2,2,5,11,8,1,1,0,0,64 146,64 146,Boston Stadium,Boston,23
+31,20.06.2026,Group Stage,2,C,8,9,8,Regular Time,3,0,"1,75","0,23",57,43,8,7,5,3,4,4,13,14,1,3,0,0,68 324,68 324,Philadelphia Stadium,Philadelphia,24
+32,20.06.2026,Group Stage,2,D,39,32,32,Regular Time,0,1,"2,17","0,33",79,21,32,7,5,2,12,0,14,15,1,1,0,1,68 827,68 827,San Francisco Bay Area Stadium,San Francisco Bay Area,18
+33,20.06.2026,Group Stage,2,F,26,46,26,Regular Time,5,1,"2,60","1,01",52,49,10,16,7,8,2,5,9,12,0,3,0,0,68 777,68 777,Houston Stadium,Houston,28
+34,20.06.2026,Group Stage,2,E,27,22,27,Regular Time,2,1,"1,89","1,22",59,41,16,9,7,2,8,3,5,7,0,0,0,0,43 036,43 036,Toronto Stadium,Toronto,22
+35,21.06.2026,Group Stage,2,E,12,23,,Regular Time,0,0,"2,84","0,50",75,25,27,10,15,3,9,0,7,10,1,5,0,0,69 045,68 598,Kansas City Stadium,Kansas City,26
+36,21.06.2026,Group Stage,2,F,38,48,48,Regular Time,0,4,"0,04","2,13",38,62,2,11,0,5,3,5,8,15,0,0,0,0,51 243,51 243,Monterrey Stadium,Monterrey,26
+37,21.06.2026,Group Stage,2,H,16,35,16,Regular Time,4,0,"2,30","0,13",67,33,22,3,8,1,6,1,10,2,0,2,0,0,68 239,68 239,Atlanta Stadium,Atlanta,28
+38,21.06.2026,Group Stage,2,G,6,15,,Regular Time,0,0,"1,79","0,62",70,30,23,7,7,3,4,2,7,9,1,1,1,0,70 492,70 137,Los Angeles Stadium,Los Angeles,22
+39,22.06.2026,Group Stage,2,H,41,18,,Regular Time,2,2,"2,31","0,88",65,35,17,12,2,4,11,4,11,4,2,2,0,0,64 478,64 003,Miami Stadium,Miami,29
+40,22.06.2026,Group Stage,2,G,28,13,13,Regular Time,1,3,"1,24","1,87",44,56,11,19,5,7,4,3,14,8,2,1,0,0,52 497,52 497,BC Place Vancouver,Vancouver,23
+41,22.06.2026,Group Stage,2,J,5,2,5,Regular Time,2,0,"2,36","0,53",54,46,12,6,5,1,1,3,13,13,2,2,0,0,70 649,70 649,Dallas Stadium,Dallas,33
+42,23.06.2026,Group Stage,2,I,42,14,42,Regular Time,3,0,"2,67","0,62",56,44,19,4,5,0,4,2,8,4,0,1,0,0,68 324,68 324,Philadelphia Stadium,Philadelphia,23
+43,23.06.2026,Group Stage,2,I,29,36,29,Regular Time,3,2,"2,19","1,71",42,58,13,16,7,4,5,4,15,5,0,0,0,0,80 663,80 663,New York/New Jersey Stadium,New Jersey,21
+44,23.06.2026,Group Stage,2,J,17,3,3,Regular Time,1,2,"0,64","1,89",28,72,8,17,4,8,1,10,11,6,1,1,0,0,68 827,68 371,San Francisco Bay Area Stadium,San Francisco Bay Area,16
+45,23.06.2026,Group Stage,2,K,34,40,34,Regular Time,5,0,"2,60","0,25",66,34,17,7,9,2,3,2,14,15,1,1,0,0,68 777,68 777,Houston Stadium,Houston,33
+46,23.06.2026,Group Stage,2,L,4,10,,Regular Time,0,0,"1,36","0,17",79,21,19,2,3,1,9,2,14,24,1,1,0,0,64 146,63 983,Boston Stadium,Boston,19
+47,24.06.2026,Group Stage,2,L,30,43,43,Regular Time,0,1,"0,55","1,65",42,58,8,6,1,2,7,2,19,12,1,1,0,0,43 036,43 036,Toronto Stadium,Toronto,22
+48,24.06.2026,Group Stage,2,K,21,11,21,Regular Time,1,0,"0,98","0,37",64,36,20,7,9,1,5,4,12,16,2,1,0,0,45 664,45 358,Guadalajara Stadium,Guadalajara,22
+49,24.06.2026,Group Stage,3,B,45,19,45,Regular Time,2,1,"1,12","1,66",55,45,6,13,4,7,2,7,19,13,1,2,0,0,52 497,52 497,BC Place Vancouver,Vancouver,28
+50,24.06.2026,Group Stage,3,B,7,20,7,Regular Time,3,1,"0,68","0,77",54,46,14,9,5,3,1,3,9,14,1,1,0,0,66 925,66 925,Seattle Stadium,Seattle,28
+51,25.06.2026,Group Stage,3,C,47,8,8,Regular Time,0,3,"1,05","4,34",46,54,14,21,5,9,7,6,10,11,1,2,0,0,64 478,64 478,Miami Stadium,Miami,27
+52,25.06.2026,Group Stage,3,C,24,9,24,Regular Time,4,2,"3,76","1,22",69,31,22,9,11,2,9,1,10,18,0,3,0,0,68 239,68 239,Atlanta Stadium,Atlanta,29
+53,25.06.2026,Group Stage,3,A,44,25,25,Regular Time,0,3,"0,48","0,75",52,48,13,11,0,5,5,1,9,13,0,1,0,0,80 824,80 824,Mexico City Stadium,Mexico City,19
+54,25.06.2026,Group Stage,3,A,31,33,31,Regular Time,1,0,"1,16","0,91",32,68,13,8,4,3,4,6,7,9,1,1,0,0,51 243,50 987,Monterrey Stadium,Monterrey,30
+55,25.06.2026,Group Stage,3,E,23,22,22,Regular Time,0,2,"0,50","1,31",37,63,11,7,2,3,4,6,11,6,2,1,0,0,68 324,68 324,Philadelphia Stadium,Philadelphia,29
+56,25.06.2026,Group Stage,3,E,12,27,12,Regular Time,2,1,"1,27","0,65",39,61,7,11,3,3,3,2,15,10,3,1,0,0,80 663,80 663,New York/New Jersey Stadium,New Jersey,28
+57,26.06.2026,Group Stage,3,F,48,46,,Regular Time,1,1,"1,21","0,64",52,48,8,11,3,5,2,8,20,11,1,2,0,0,70 649,70 137,Dallas Stadium,Dallas,33
+58,26.06.2026,Group Stage,3,F,38,26,26,Regular Time,1,3,"0,62","1,84",29,71,10,20,4,7,4,6,11,10,0,0,0,0,69 045,68 391,Kansas City Stadium,Kansas City,21
+59,26.06.2026,Group Stage,3,D,39,37,39,Regular Time,3,2,"3,00","2,12",47,53,9,18,3,7,2,9,13,13,0,1,0,0,70 492,70 492,Los Angeles Stadium,Los Angeles,17
+60,26.06.2026,Group Stage,3,D,32,1,,Regular Time,0,0,"0,24","0,55",44,56,7,12,2,5,1,3,9,6,1,1,0,0,68 827,68 827,San Francisco Bay Area Stadium,San Francisco Bay Area,17
+61,26.06.2026,Group Stage,3,I,36,14,36,Regular Time,5,0,"3,01","0,14",69,31,28,6,12,1,12,3,10,11,2,2,0,1,43 036,43 036,Toronto Stadium,Toronto,22
+62,26.06.2026,Group Stage,3,I,29,42,42,Regular Time,1,4,"1,70","1,50",43,57,10,18,4,9,4,5,9,11,1,1,0,0,64 146,64 146,Boston Stadium,Boston,24
+63,27.06.2026,Group Stage,3,H,18,35,,Regular Time,0,0,"1,39","0,39",51,49,15,7,2,3,4,2,10,16,1,3,0,0,68 777,68 278,Houston Stadium,Houston,30
+64,27.06.2026,Group Stage,3,H,41,16,16,Regular Time,0,1,"0,20","0,86",33,67,5,6,1,1,1,6,14,14,3,1,1,0,45 664,45 065,Guadalajara Stadium,Guadalajara,23
+65,27.06.2026,Group Stage,3,G,13,15,,Regular Time,1,1,"0,84","1,97",61,39,15,13,3,4,8,2,11,16,3,4,0,0,66 925,66 925,Seattle Stadium,Seattle,16
+66,27.06.2026,Group Stage,3,G,28,6,6,Regular Time,1,5,"0,24","3,64",46,54,6,35,2,10,5,8,10,7,2,0,0,0,52 497,52 497,BC Place Vancouver,Vancouver,16
+67,28.06.2026,Group Stage,3,L,43,10,43,Regular Time,2,1,"0,42","0,64",53,47,8,6,4,1,3,2,9,13,1,1,0,0,68 324,68 324,Philadelphia Stadium,Philadelphia,21
+68,28.06.2026,Group Stage,3,L,30,4,4,Regular Time,0,2,"0,66","1,57",33,67,13,17,2,6,3,7,16,13,2,1,0,0,80 663,80 663,New York/New Jersey Stadium,New Jersey,22
+69,28.06.2026,Group Stage,3,K,11,40,11,Regular Time,3,1,"2,17","0,20",58,42,19,3,4,1,2,4,6,16,3,2,0,0,68 239,68 239,Atlanta Stadium,Atlanta,30
+70,28.06.2026,Group Stage,3,K,21,34,,Regular Time,0,0,"1,70","0,92",55,45,24,13,6,2,5,2,12,6,1,0,0,0,64 478,64 478,Miami Stadium,Miami,29
+71,28.06.2026,Group Stage,3,J,3,2,,Regular Time,3,3,"1,67","1,49",65,35,12,10,5,3,0,3,3,7,0,1,0,0,69 045,69 045,Kansas City Stadium,Kansas City,27
+72,28.06.2026,Group Stage,3,J,17,5,5,Regular Time,1,3,"0,76","2,13",27,73,5,12,1,4,2,6,13,7,0,0,0,0,70 649,70 137,Dallas Stadium,Dallas,33
+73,28.06.2026,Round of 32,,,31,19,19,Regular Time,0,1,"0,14","1,38",58,42,6,12,1,7,1,4,10,16,0,2,0,0,70 492,69 237,Los Angeles Stadium,Los Angeles,22
+74,29.06.2026,Round of 32,,,8,48,8,Regular Time,2,1,"2,07","0,33",69,31,19,5,7,2,6,2,4,13,2,3,0,0,68 777,68 777,Houston Stadium,Houston,35
+75,29.06.2026,Round of 32,,,27,32,32,Penalties,1,1,"1,57","0,35",76,24,21,7,6,3,16,6,18,12,2,2,0,0,64 146,63 945,Boston Stadium,Boston,25
+76,30.06.2026,Round of 32,,,26,24,24,Penalties,1,1,"0,24","1,38",30,70,6,11,2,5,5,8,18,15,0,1,0,0,51 243,51 243,Monterrey Stadium,Monterrey,29
+77,30.06.2026,Round of 32,,,22,29,29,Regular Time,1,2,"1,49","1,91",47,53,14,9,5,4,14,3,6,7,0,1,0,0,70 649,69 995,Dallas Stadium,Dallas,34
+78,01.07.2026,Round of 32,,,42,46,42,Regular Time,3,0,"3,24","0,70",61,39,25,8,12,3,9,1,14,10,0,0,0,0,80 663,80 663,New York/New Jersey Stadium,New Jersey,32
+79,01.07.2026,Round of 32,,,25,12,25,Regular Time,2,0,"1,05","0,75",43,57,15,7,3,1,3,8,10,14,0,3,0,1,80 824,80 824,Mexico City Stadium,Mexico City,14
+80,01.07.2026,Round of 32,,,4,11,4,Regular Time,2,1,"2,15","0,77",60,40,16,7,7,2,5,3,10,12,1,1,0,0,68 239,68 239,Atlanta Stadium,Atlanta,35
+81,01.07.2026,Round of 32,,,6,36,6,Extra Time,3,2,"1,75","3,58",52,48,19,19,5,5,4,2,22,12,1,1,0,0,66 925,66 925,Seattle Stadium,Seattle,19
+82,02.07.2026,Round of 32,,,37,7,37,Regular Time,2,0,"0,88","0,25",48,52,8,10,2,3,4,3,7,13,0,1,1,0,68 827,68 827,San Francisco Bay Area Stadium,San Francisco Bay Area,22
+83,02.07.2026,Round of 32,,,16,2,16,Regular Time,3,0,"2,80","0,32",64,36,23,5,10,0,9,0,8,15,0,1,0,0,70 492,70 492,Los Angeles Stadium,Los Angeles,23
+84,03.07.2026,Round of 32,,,34,43,34,Regular Time,2,1,"2,20","1,34",60,40,15,13,3,6,9,5,6,12,1,2,0,0,43 036,43 036,Toronto Stadium,Toronto,24
+85,03.07.2026,Round of 32,,,45,3,45,Regular Time,2,0,"2,45","0,74",45,55,11,8,5,2,4,2,10,12,0,2,0,0,52 497,52 497,BC Place Vancouver,Vancouver,14
+86,03.07.2026,Round of 32,,,1,13,13,Penalties,1,1,"0,84","1,33",42,58,16,14,1,3,4,7,12,14,0,2,0,0,70 649,70 244,Dallas Stadium,Dallas,36
+87,04.07.2026,Round of 32,,,5,18,5,Extra Time,3,2,"2,26","0,47",64,36,22,16,10,5,8,8,13,12,1,1,0,0,64 478,64 478,Miami Stadium,Miami,26
+88,04.07.2026,Round of 32,,,21,10,21,Regular Time,1,0,"2,04","0,27",61,39,20,8,8,0,3,2,14,10,2,3,0,0,69 045,69 045,Kansas City Stadium,Kansas City,29
+89,04.07.2026,Round of 16,,,19,24,24,Regular Time,0,3,"0,85","0,79",45,55,10,5,3,4,11,1,24,14,4,4,0,0,68 777,68 777,Houston Stadium,Houston,35
+90,05.07.2026,Round of 16,,,32,42,42,Regular Time,0,1,"0,13","1,46",24,76,5,15,0,5,2,12,13,11,0,3,0,0,68 324,68 324,Philadelphia Stadium,Philadelphia,37
+91,05.07.2026,Round of 16,,,8,29,29,Regular Time,1,2,"2,62","1,06",34,66,14,9,4,5,5,3,7,6,1,0,0,0,80 663,80 663,New York/New Jersey Stadium,New Jersey,27
+92,06.07.2026,Round of 16,,,25,4,4,Regular Time,2,3,"1,88","1,61",67,33,20,6,5,5,12,2,14,7,2,4,0,1,80 824,80 824,Mexico City Stadium,Mexico City,16
+93,06.07.2026,Round of 16,,,34,16,16,Regular Time,0,1,"0,63","1,68",45,55,10,15,2,6,3,7,9,13,2,1,0,0,70 649,70 649,Dallas Stadium,Dallas,38
+94,07.07.2026,Round of 16,,,37,6,6,Regular Time,1,4,"0,63","2,01",56,44,7,15,2,7,3,5,11,9,2,0,0,0,66 925,66 925,Seattle Stadium,Seattle,27
+95,07.07.2026,Round of 16,,,5,13,5,Extra Time,3,2,"2,84","0,89",64,36,19,5,7,2,6,1,13,11,0,4,0,0,68 239,68 239,Atlanta Stadium,Atlanta,32
+96,07.07.2026,Round of 16,,,45,21,21,Penalties,0,0,"0,38","1,09",53,47,7,15,2,3,3,7,21,22,3,2,0,0,52 497,52 497,BC Place Vancouver,Vancouver,24
+97,09.07.2026,Quarterfinal,,,42,24,42,Regular Time,2,0,"3,68","0,14",48,52,22,5,8,1,5,5,10,13,0,1,0,0,64 146,63 811,Boston Stadium,Boston,29
+98,10.07.2026,Quarterfinal,,,16,6,16,Regular Time,2,1,"1,96","0,35",68,32,17,5,8,2,5,1,13,18,2,2,0,0,70 492,70 492,Los Angeles Stadium,Los Angeles,24
+99,12.07.2026,Quarterfinal,,,29,4,4,Extra Time,1,2,"0,68","1,04",48,52,13,14,4,8,7,4,10,8,1,0,0,0,64 478,64 478,Miami Stadium,Miami,31
+100,12.07.2026,Quarterfinal,,,5,45,5,Extra Time,3,1,"1,94","0,46",59,41,22,11,7,5,8,2,14,18,3,2,0,1,69 045,69 045,Kansas City Stadium,Kansas City,26
+101,14.07.2026,Semifinal,,,42,16,16,Regular Time,0,2,"0,31","1,63",49,51,10,10,3,2,7,1,11,12,2,1,0,0,70 649,70 176,Dallas Stadium,Dallas,32
+102,15.07.2026,Semifinal,,,4,5,5,Regular Time,1,2,"0,52","1,59",36,64,5,15,2,5,1,6,11,15,1,3,0,0,68 239,68 239,Atlanta Stadium,Atlanta,32
+103,19.07.2026,Third Place Play-off,,,42,4,4,Regular Time,4,6,"2,88","2,88",46,54,19,19,9,11,3,4,14,8,0,0,0,0,64 478,64 478,Miami Stadium,Miami,31
+104,19.07.2026,Final,,,16,5,16,Extra Time,1,0,"2,29","0,22",65,35,20,2,12,0,9,4,21,25,0,6,0,1,80 663,80 663,New York/New Jersey Stadium,New Jersey,27

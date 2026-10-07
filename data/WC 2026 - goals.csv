@@ -1,0 +1,309 @@
+goal_id,match_id,player_id,player_name,team_id,team_name,minute,assist_player_name,assist_player_id,goal_type,body_part
+1,1,24,Julián Quiñones,25,Mexico,9,Érik Lira,12,Open Play,Right Foot
+2,1,25,Raúl Jiménez,25,Mexico,67,Roberto Alvarado,21,Open Play,Head
+3,2,82,Ladislav Krejčí,44,Czech Republic,59,Vladimír Coufal,89,Open Play,Head
+4,2,64,In-beom Hwang,33,South Korea,67,Kang-in Lee,69,Open Play,Right Foot
+5,2,76,Hyeon-gyu Oh,33,South Korea,80,In-beom Hwang,64,Open Play,Left Foot
+6,3,128,Jovo Lukić,7,Bosnia and Herzegovina,21,Sead Kolasinac,109,Corner,Head
+7,3,156,Cyle Larin,19,Canada,78,Cyle Larin,156,Open Play,Right Foot
+8,4,197,Damián Bobadilla,37,USA,7,,,Own Goal,Right Foot
+9,4,180,Folarin Balogun,37,USA,31,Christian Pulisic,178,Open Play,Right Foot
+10,4,180,Folarin Balogun,37,USA,45,Malik Tillman,174,Open Play,Left Foot
+11,4,200,Mauricio,32,Paraguay,73,Julio Enciso,199,Open Play,Right Foot
+12,4,176,Giovanni Reyna,37,USA,90,Alex Freeman,168,Open Play,Right Foot
+13,5,258,Breel Embolo,45,Switzerland,17,,,Penalty,Right Foot
+14,5,243,Miro Muheim,20,Qatar,90,,,Own Goal,Head
+15,6,304,Ismael Saibari,24,Morocco,21,Brahim Díaz,307,Open Play,Right Foot
+16,6,279,Vinicius Junior,8,Brazil,32,Bruno Guimarães,274,Open Play,Right Foot
+17,7,406,John McGinn,47,Scotland,28,,,Open Play,Left Foot
+18,8,362,Nestory Irankunda,1,Australia,27,Paul Okon-Engstler,353,Open Play,Right Foot
+19,8,355,Connor Metcalfe,1,Australia,75,,,Open Play,Right Foot
+20,9,430,Felix Nmecha,27,Germany,6,Florian Wirtz,436,Open Play,Right Foot
+21,9,454,Livano Comenencia,23,Curacao,21,,,Open Play,Left Foot
+22,9,420,Nico Schlotterbeck,27,Germany,38,Nathaniel Brown,425,Corner,Head
+23,9,439,Kai Havertz,27,Germany,45,,,Penalty,Left Foot
+24,9,435,Jamal Musiala,27,Germany,47,Joshua Kimmich,429,Open Play,Right Foot
+25,9,425,Nathaniel Brown,27,Germany,68,Deniz Undav,442,Open Play,Right Foot
+26,9,442,Deniz Undav,27,Germany,78,Joshua Kimmich,429,Open Play,Right Foot
+27,9,439,Kai Havertz,27,Germany,88,Deniz Undav,442,Open Play,Left Foot
+28,10,474,Virgil van Dijk,26,Netherlands,51,Ryan Gravenberch,480,Open Play,Head
+29,10,511,Keito Nakamura,48,Japan,57,Takefusa Kubo,512,Open Play,Right Foot
+30,10,489,Crysencio Summerville,26,Netherlands,64,Ryan Gravenberch,480,Open Play,Left Foot
+31,10,509,Daichi Kamada,48,Japan,88,Koki Ogawa,520,Corner,Head
+32,11,541,Amad Diallo,22,Ivory Coast,90,Wilfried Singo,530,Open Play,Right Foot
+33,12,587,Yasin Ayari,46,Sweden,7,,,Open Play,Right Foot
+34,12,596,Alexander Isak,46,Sweden,30,Viktor Gyökeres,597,Open Play,Right Foot
+35,12,606,Omar Rekik,38,Tunisia,43,Hannibal,614,Open Play,Head
+36,12,597,Viktor Gyökeres,46,Sweden,59,Alexander Isak,596,Open Play,Right Foot
+37,12,588,Mattias Svanberg,46,Sweden,84,Alexander Isak,596,Open Play,Right Foot
+38,12,587,Yasin Ayari,46,Sweden,90,Lucas Bergvall,586,Open Play,Right Foot
+39,14,719,Emam Ashour,13,Egypt,19,Mohamed Salah,724,Open Play,Right Foot
+40,14,713,Mohamed Hany,6,Belgium,66,,,Own Goal,Left Foot
+41,15,733,Abdulelah Al-Amri,35,Saudi Arabia,41,,,Open Play,Right Foot
+42,15,762,Maxi Araújo,41,Uruguay,80,,,Open Play,Left Foot
+43,16,828,Elijah Just,28,New Zealand,7,Chris Wood,830,Open Play,Right Foot
+44,16,792,Ramin Rezaeian,15,Iran,32,Shahriar Moghanlou,806,Open Play,Right Foot
+45,16,828,Elijah Just,28,New Zealand,54,Chris Wood,830,Open Play,Right Foot
+46,16,799,Mohammad Mohebi,15,Iran,64,Ramin Rezaeian,792,Open Play,Head
+47,17,855,Kylian Mbappé,42,France,66,Michael Olise,852,Open Play,Right Foot
+48,17,851,Bradley Barcola,42,France,82,Adrien Rabiot,849,Open Play,Right Foot
+49,17,881,Ibrahim Mbaye,36,Senegal,90,Iliman Ndiaye,879,Open Play,Right Foot
+50,17,855,Kylian Mbappé,42,France,90,,,Open Play,Right Foot
+51,18,934,Erling Haaland,29,Norway,29,David Møller Wolfe,919,Open Play,Left Foot
+52,18,909,Aymen Hussein,14,Iraq,39,Amir Al-Ammari,897,Open Play,Head
+53,18,934,Erling Haaland,29,Norway,43,,,Open Play,Left Foot
+54,18,915,Leo Østigård,29,Norway,76,Martin Ødegaard,928,Corner,Head
+55,18,909,Aymen Hussein,29,Norway,90,,,Own Goal,Other
+56,19,959,Lionel Messi,5,Argentina,17,Rodrigo De Paul,953,Open Play,Left Foot
+57,19,959,Lionel Messi,5,Argentina,60,,,Open Play,Left Foot
+58,19,959,Lionel Messi,5,Argentina,76,Nico González,956,Open Play,Left Foot
+59,20,1010,Romano Schmid,2,Austria,21,Xaver Schlager,1006,Open Play,Right Foot
+60,20,1040,Ali Olwan,17,Jordan,50,Noor Al-Rawabdeh,1031,Open Play,Right Foot
+61,20,1018,Yazan Al-Arab,2,Austria,76,,,Own Goal,Head
+62,20,1013,Marko Arnautovic,2,Austria,90,,,Penalty,Right Foot
+63,21,1056,João Neves,34,Portugal,6,Pedro Neto,1062,Open Play,Head
+64,21,1088,Yoane Wissa,11,DR Congo,45,Arthur Masuaku,1075,Open Play,Head
+65,22,1116,Harry Kane,4,England,12,,,Penalty,Right Foot
+66,22,1136,Martin Baturina,43,Croatia,36,Petar Sučić,1131,Open Play,Right Foot
+67,22,1116,Harry Kane,4,England,42,Declan Rice,1106,Corner,Head
+68,22,1143,Petar Musa,43,Croatia,45,Ivan Perišić,1140,Open Play,Right Foot
+69,22,1109,Jude Bellingham,4,England,47,Elliot Anderson,1107,Open Play,Right Foot
+70,22,1113,Marcus Rashford,4,England,85,Bukayo Saka,1114,Open Play,Right Foot
+71,23,1159,Caleb Yirenkyi,10,Ghana,90,Brandon Thomas-Asante,1168,Open Play,Right Foot
+72,24,1232,Daniel Muñoz,21,Colombia,40,Luis Díaz,1242,Open Play,Right Foot
+73,24,1218,Abbosbek Fayzullaev,40,Uzbekistan,60,Eldor Shomurodov,1220,Open Play,Left Foot
+74,24,1242,Luis Díaz,21,Colombia,65,Gustavo Puerta,1237,Open Play,Right Foot
+75,24,1244,Jaminton Campaz,21,Colombia,90,Cucho Hernández,1247,Open Play,Other
+76,25,91,Michal Sadielek,44,Czech Republic,6,Alexandr Sojka,94,Open Play,Left Foot
+77,25,41,Teboho Mokoena,31,South Africa,83,,,Penalty,Right Foot
+78,26,249,Johan Manzambi,45,Switzerland,74,,,Open Play,Right Foot
+79,26,255,Rubén Vargas,45,Switzerland,84,Breel Embolo,258,Open Play,Right Foot
+80,26,249,Johan Manzambi,45,Switzerland,90,Rubén Vargas,255,Open Play,Right Foot
+81,26,123,Ermin Mahmic,7,Bosnia and Herzegovina,90,,,Open Play,Right Foot
+82,26,248,Granit Xhaka,45,Switzerland,90,,,Penalty,Left Foot
+83,27,156,Cyle Larin,19,Canada,16,,,Open Play,Left Foot
+84,27,153,Jonathan David,19,Canada,29,,,Open Play,Right Foot
+85,27,153,Jonathan David,19,Canada,45,,,Open Play,Right Foot
+86,27,144,Nathan-Dylan Saliba,19,Canada,64,,,Free Kick,Right Foot
+87,27,224,Mohamed Manai,19,Canada,75,,,Own Goal,Right Foot
+88,27,153,Jonathan David,19,Canada,90,Nathan-Dylan Saliba,144,Open Play,Left Foot
+89,28,6,Luis Romo,25,Mexico,50,,,Open Play,Right Foot
+90,29,345,Cameron Burgess,37,USA,11,,,Own Goal,Left Foot
+91,29,168,Alex Freeman,37,USA,43,Sergiño Dest,166,Open Play,Head
+92,30,304,Ismael Saibari,24,Morocco,2,Brahim Díaz,307,Open Play,Right Foot
+93,31,284,Matheus Cunha,8,Brazil,23,,,Open Play,Right Foot
+94,31,284,Matheus Cunha,8,Brazil,36,Vinicius Junior,279,Open Play,Left Foot
+95,31,279,Vinicius Junior,8,Brazil,45,Lucas Paquetá,277,Open Play,Right Foot
+96,32,198,Matías Galarza,32,Paraguay,2,Julio Enciso,199,Open Play,Left Foot
+97,33,492,Brian Brobbey,26,Netherlands,5,Cody Gakpo,488,Open Play,Right Foot
+98,33,492,Brian Brobbey,26,Netherlands,17,Denzel Dumfries,478,Open Play,Right Foot
+99,33,488,Cody Gakpo,26,Netherlands,47,Denzel Dumfries,478,Open Play,Left Foot
+100,33,488,Cody Gakpo,26,Netherlands,54,Crysencio Summerville,489,Open Play,Right Foot
+101,33,594,Anthony Elanga,46,Sweden,59,Alexander Isak,596,Open Play,Left Foot
+102,33,489,Crysencio Summerville,26,Netherlands,89,Memphis Depay,493,Open Play,Right Foot
+103,34,535,Franck Kessié,22,Ivory Coast,30,,,Open Play,Right Foot
+104,34,442,Deniz Undav,27,Germany,68,Nadiem Amiri,432,Open Play,Left Foot
+105,34,442,Deniz Undav,27,Germany,90,Felix Nmecha,430,Open Play,Left Foot
+106,36,509,Daichi Kamada,48,Japan,4,Keito Nakamura,511,Open Play,Left Foot
+107,36,516,Ayase Ueda,48,Japan,31,Ko Itakura,500,Open Play,Right Foot
+108,36,514,Junya Ito,48,Japan,69,Ayase Ueda,516,Open Play,Right Foot
+109,36,516,Ayase Ueda,48,Japan,83,Kaishu Sano,507,Open Play,Head
+110,37,646,Lamine Yamal,16,Spain,10,Mikel Oyarzabal,649,Open Play,Right Foot
+111,37,649,Mikel Oyarzabal,16,Spain,21,Aymeric Laporte,631,Open Play,Left Foot
+112,37,649,Mikel Oyarzabal,16,Spain,24,Dani Olmo,642,Open Play,Left Foot
+113,37,732,Hassan Tambakti,16,Spain,49,,,Own Goal,Right Foot
+114,39,662,Kevin Pina,18,Cape Verde,21,,,Free Kick,Right Foot
+115,39,762,Maxi Araújo,41,Uruguay,44,,,Open Play,Head
+116,39,776,Agustín Canobbio,41,Uruguay,45,Maxi Araújo,762,Open Play,Right Foot
+117,39,668,Hélio Varela,18,Cape Verde,61,,,Open Play,Right Foot
+118,40,811,Finn Surman,28,New Zealand,15,Tim Payne,819,Corner,Head
+119,40,723,Mostafa Ziko,13,Egypt,58,Mohamed Hany,713,Open Play,Head
+120,40,724,Mohamed Salah,13,Egypt,67,Mostafa Ziko,723,Open Play,Left Foot
+121,40,721,Trezeguet,13,Egypt,82,Mohamed Salah,724,Corner,Head
+122,41,959,Lionel Messi,5,Argentina,38,Facundo Medina,943,Open Play,Left Foot
+123,41,959,Lionel Messi,5,Argentina,90,,,Open Play,Left Foot
+124,42,855,Kylian Mbappé,42,France,14,Michael Olise,852,Open Play,Left Foot
+125,42,855,Kylian Mbappé,42,France,54,Ousmane Dembélé,856,Open Play,Right Foot
+126,42,856,Ousmane Dembélé,42,France,66,Michael Olise,852,Open Play,Right Foot
+127,43,922,Marcus Pedersen,29,Norway,43,,,Open Play,Right Foot
+128,43,934,Erling Haaland,29,Norway,48,Martin Ødegaard,928,Open Play,Left Foot
+129,43,880,Ismaïla Sarr,36,Senegal,53,Sadio Mané,878,Open Play,Right Foot
+130,43,934,Erling Haaland,29,Norway,58,Patrick Berg,924,Open Play,Right Foot
+131,43,880,Ismaïla Sarr,36,Senegal,90,Nicolas Jackson,882,Open Play,Right Foot
+132,44,1029,Nizar Al-Rashdan,17,Jordan,36,Mousa Tamari,1037,Open Play,Right Foot
+133,44,988,Nadhir Benbouali,3,Algeria,69,Riyad Mahrez,985,Corner,Head
+134,44,986,Amine Gouiri,3,Algeria,82,,,Open Play,Right Foot
+135,45,1066,Cristiano Ronaldo,34,Portugal,6,João Cancelo,1051,Open Play,Right Foot
+136,45,1048,Nuno Mendes,34,Portugal,17,,,Free Kick,Left Foot
+137,45,1066,Cristiano Ronaldo,34,Portugal,39,Bruno Fernandes,1058,Open Play,Right Foot
+138,45,1197,Abduvokhid Nematov,34,Portugal,60,,,Own Goal,Other
+139,45,1060,Rafael Leão,34,Portugal,87,,,Open Play,Right Foot
+140,47,1144,Ante Budimir,43,Croatia,54,Josip Stanisic,1128,Open Play,Left Foot
+141,48,1232,Daniel Muñoz,21,Colombia,76,Juan Fernando Quintero,1240,Open Play,Left Foot
+142,49,255,Rubén Vargas,45,Switzerland,46,Johan Manzambi,249,Open Play,Right Foot
+143,49,249,Johan Manzambi,45,Switzerland,57,Breel Embolo,258,Open Play,Right Foot
+144,49,154,Promise David,19,Canada,76,Nathan-Dylan Saliba,144,Open Play,Right Foot
+145,50,124,Kerim Alajbegovic,7,Bosnia and Herzegovina,29,Ivan Basic,121,Open Play,Right Foot
+146,50,210,Mahmoud Abunada,7,Bosnia and Herzegovina,34,,,Own Goal,Right Foot
+147,50,226,Hasan Al-Haydos,20,Qatar,42,Edmilson Junior,228,Open Play,Right Foot
+148,50,123,Ermin Mahmic,7,Bosnia and Herzegovina,80,Dennis Hadzikadunic,113,Open Play,Right Foot
+149,51,279,Vinicius Junior,8,Brazil,7,Rayan,282,Open Play,Right Foot
+150,51,279,Vinicius Junior,8,Brazil,45,Bruno Guimarães,274,Open Play,Head
+151,51,284,Matheus Cunha,8,Brazil,60,Bruno Guimarães,274,Open Play,Right Foot
+152,52,287,Yassine Bounou,9,Haiti,10,,,Own Goal,Other
+153,52,296,Achraf Hakimi,24,Morocco,39,,,Open Play,Left Foot
+154,52,334,Wilson Isidor,9,Haiti,43,Jean-Kévin Duverne,317,Open Play,Right Foot
+155,52,304,Ismael Saibari,24,Morocco,45,Achraf Hakimi,296,Open Play,Right Foot
+156,52,311,Soufiane Rahimi,24,Morocco,78,Chadi Riad,290,Open Play,Right Foot
+157,52,309,Gessime Yassine,24,Morocco,89,Soufiane Rahimi,311,Open Play,Right Foot
+158,53,49,Thapelo Maseko,31,South Africa,63,Tshepang Moremi,48,Open Play,Right Foot
+159,54,7,Mateo Chávez,25,Mexico,55,Luis Romo,6,Open Play,Left Foot
+160,54,24,Julián Quiñones,25,Mexico,61,Jorge Sánchez,10,Open Play,Right Foot
+161,54,16,Álvaro Fidalgo,25,Mexico,90,Roberto Alvarado,21,Open Play,Right Foot
+162,55,438,Leroy Sané,27,Germany,2,Florian Wirtz,436,Open Play,Left Foot
+163,55,564,Nilson Angulo,12,Ecuador,9,Pedro Vite,563,Open Play,Right Foot
+164,55,565,Gonzalo Plata,12,Ecuador,77,Kevin Rodríguez,570,Open Play,Left Foot
+165,56,543,Nicolas Pépé,22,Ivory Coast,7,Yan Diomande,537,Open Play,Left Foot
+166,56,543,Nicolas Pépé,22,Ivory Coast,64,Ibrahim Sangaré,532,Open Play,Left Foot
+167,57,611,Ellyes Skhiri,26,Netherlands,3,,,Own Goal,Left Foot
+168,57,492,Brian Brobbey,26,Netherlands,7,Virgil van Dijk,474,Corner,Right Foot
+169,57,623,Hazem Mastouri,38,Tunisia,54,Hannibal,614,Open Play,Head
+170,57,473,Jan Paul van Hecke,26,Netherlands,62,Tijjani Reijnders,483,Corner,Head
+171,58,510,Daizen Maeda,48,Japan,56,Ritsu Doan,513,Open Play,Right Foot
+172,58,594,Anthony Elanga,46,Sweden,62,Viktor Gyökeres,597,Open Play,Left Foot
+173,60,162,Auston Trusty,37,USA,3,Sebastian Berhalter,171,Corner,Left Foot
+174,60,382,Arda Güler,39,Turkey,10,Barış Alper Yılmaz,385,Open Play,Left Foot
+175,60,385,Barış Alper Yılmaz,39,Turkey,31,Orkun Kökçü,381,Open Play,Right Foot
+176,60,171,Sebastian Berhalter,37,USA,49,,,Open Play,Right Foot
+177,60,380,Kaan Ayhan,39,Turkey,90,Can Uzun,383,Open Play,Right Foot
+178,61,856,Ousmane Dembélé,42,France,7,Kylian Mbappé,855,Open Play,Right Foot
+179,61,856,Ousmane Dembélé,42,France,20,Kylian Mbappé,855,Open Play,Left Foot
+180,61,929,Thelo Aasgaard,29,Norway,21,Andreas Schjelderup,931,Open Play,Right Foot
+181,61,856,Ousmane Dembélé,42,France,32,Aurélien Tchouaméni,845,Open Play,Left Foot
+182,61,853,Désiré Doué,42,France,90,Bradley Barcola,851,Open Play,Head
+183,62,872,Habib Diarra,36,Senegal,4,Abdoulaye Seck,866,Open Play,Right Foot
+184,62,880,Ismaïla Sarr,36,Senegal,56,Lamine Camara,870,Open Play,Right Foot
+185,62,871,Pape Gueye,36,Senegal,59,Ismaïla Sarr,880,Open Play,Left Foot
+186,62,871,Pape Gueye,36,Senegal,71,Iliman Ndiaye,879,Open Play,Left Foot
+187,62,879,Iliman Ndiaye,36,Senegal,42,Pape Gueye,871,Open Play,Right Foot
+188,63,643,Álex Baena,16,Spain,82,Marcos Llorente,635,Open Play,Right Foot
+189,65,720,Mahmoud Saber,13,Egypt,5,Trezeguet,721,Open Play,Left Foot
+190,65,792,Ramin Rezaeian,15,Iran,14,,,Open Play,Right Foot
+191,66,699,Leandro Trossard,6,Belgium,28,,,Open Play,Right Foot
+192,66,699,Leandro Trossard,6,Belgium,50,,,Open Play,Right Foot
+193,66,696,Kevin De Bruyne,6,Belgium,66,Leandro Trossard,699,Open Play,Left Foot
+194,66,828,Elijah Just,28,New Zealand,84,,,Open Play,Left Foot
+195,66,702,Romelu Lukaku,6,Belgium,86,Nicolas Raskin,690,Open Play,Head
+196,66,693,Alexis Saelemaekers,6,Belgium,90,Romelu Lukaku,702,Open Play,Right Foot
+197,67,1109,Jude Bellingham,4,England,62,Bukayo Saka,1114,Open Play,Left Foot
+198,67,1116,Harry Kane,4,England,67,Jude Bellingham,1109,Open Play,Head
+199,68,1131,Petar Sučić,43,Croatia,31,Mateo Kovacic,1132,Open Play,Right Foot
+200,68,1153,Derrick Luckassen,10,Ghana,73,Ernest Nuamah,1166,Open Play,Left Foot
+201,68,1137,Nikola Vlašić,43,Croatia,83,Luka Modrić,1135,Corner,Head
+202,70,1220,Eldor Shomurodov,40,Uzbekistan,10,Akmal Mozgovoy,1213,Open Play,Left Foot
+203,70,1088,Yoane Wissa,11,DR Congo,68,,,Penalty,Right Foot
+204,70,1090,Fiston Mayele,11,DR Congo,78,Meschack Elia,1091,Open Play,Right Foot
+205,70,1088,Yoane Wissa,11,DR Congo,90,Meschack Elia,1091,Open Play,Right Foot
+206,71,955,Giovani Lo Celso,5,Argentina,19,,,Free Kick,Left Foot
+207,71,961,Lautaro Martínez,5,Argentina,31,,,Penalty,Right Foot
+208,71,1037,Mousa Tamari,17,Jordan,55,Ehsan Haddad,1027,Open Play,Left Foot
+209,71,959,Lionel Messi,5,Argentina,80,,,Free Kick,Left Foot
+210,72,1013,Marko Arnautovic,2,Austria,28,David Alaba,998,Open Play,Right Foot
+211,72,974,Rafik Belghali,3,Algeria,45,,,Open Play,Left Foot
+212,72,1007,Marcel Sabitzer,2,Austria,55,Konrad Laimer,1000,Open Play,Right Foot
+213,72,985,Riyad Mahrez,3,Algeria,60,Houssem Aouar,981,Open Play,Left Foot
+214,72,985,Riyad Mahrez,3,Algeria,90,Houssem Aouar,981,Open Play,Right Foot
+215,72,1012,Sasa Kalajdzic,2,Austria,90,Michael Gregoritsch,1014,Open Play,Head
+216,73,145,Stephen Eustaquio,19,Canada,90,,,Open Play,Right Foot
+217,74,507,Kaishu Sano,48,Japan,29,,,Open Play,Right Foot
+218,74,273,Casemiro,8,Brazil,56,Gabriel,264,Open Play,Head
+219,74,281,Gabriel Martinelli,8,Brazil,90,Bruno Guimarães,274,Open Play,Right Foot
+220,75,199,Julio Enciso,32,Paraguay,42,Matías Galarza,198,Open Play,Head
+221,75,439,Kai Havertz,27,Germany,54,Florian Wirtz,436,Open Play,Head
+222,76,488,Cody Gakpo,26,Netherlands,72,Crysencio Summerville,489,Open Play,Right Foot
+223,76,291,Issa Diop,24,Morocco,90,Chemsdine Talbi,308,Open Play,Head
+224,77,930,Antonio Nusa,29,Norway,39,Martin Ødegaard,928,Open Play,Right Foot
+225,77,541,Amad Diallo,22,Ivory Coast,74,Nicolas Pépé,543,Open Play,Left Foot
+226,77,934,Erling Haaland,29,Norway,86,Patrick Berg,924,Open Play,Left Foot
+227,78,855,Kylian Mbappé,42,France,45,Ousmane Dembélé,856,Open Play,Right Foot
+228,78,851,Bradley Barcola,42,France,53,Michael Olise,852,Open Play,Right Foot
+229,78,855,Kylian Mbappé,42,France,74,Michael Olise,852,Open Play,Right Foot
+230,79,24,Julián Quiñones,25,Mexico,22,Roberto Alvarado,21,Open Play,Right Foot
+231,79,25,Raúl Jiménez,25,Mexico,31,Julián Quiñones,24,Open Play,Right Foot
+232,80,1086,Brian Cipenga,11,DR Congo,7,Chancel Mbemba,1072,Open Play,Right Foot
+233,80,1116,Harry Kane,4,England,75,Anthony Gordon,1112,Open Play,Head
+234,80,1116,Harry Kane,4,England,86,Anthony Gordon,1112,Open Play,Right Foot
+235,81,872,Habib Diarra,36,Senegal,25,Ismaïla Sarr,880,Open Play,Right Foot
+236,81,880,Ismaïla Sarr,36,Senegal,51,Moussa Niakhaté,863,Open Play,Right Foot
+237,81,702,Romelu Lukaku,6,Belgium,86,Thomas Meunier,688,Open Play,Right Foot
+238,81,692,Youri Tielemans,6,Belgium,89,Leandro Trossard,699,Open Play,Head
+239,81,692,Youri Tielemans,6,Belgium,120,,,Penalty,Right Foot
+240,82,180,Folarin Balogun,37,USA,45,,,Open Play,Left Foot
+241,82,174,Malik Tillman,37,USA,82,,,Free Kick,Right Foot
+242,83,649,Mikel Oyarzabal,16,Spain,36,Marc Cucurella,632,Open Play,Left Foot
+243,83,634,Pedro Porro,16,Spain,66,Álex Baena,643,Open Play,Head
+244,83,649,Mikel Oyarzabal,16,Spain,89,Marc Cucurella,632,Open Play,Right Foot
+245,84,1140,Ivan Perišić,43,Croatia,53,,,Open Play,Left Foot
+246,84,1066,Cristiano Ronaldo,34,Portugal,68,,,Penalty,Right Foot
+247,84,1065,Gonçalo Ramos,34,Portugal,90,Rafael Leão,1060,Open Play,Head
+248,85,258,Breel Embolo,45,Switzerland,10,Johan Manzambi,249,Open Play,Left Foot
+249,85,256,Dan Ndoye,45,Switzerland,46,,,Open Play,Right Foot
+250,86,719,Emam Ashour,13,Egypt,13,Karim Hafez,712,Open Play,Head
+251,86,713,Mohamed Hany,1,Australia,55,,,Own Goal,Head
+252,87,959,Lionel Messi,5,Argentina,29,Lisandro Martínez,941,Open Play,Left Foot
+253,87,665,Deroy Duarte,18,Cape Verde,59,Ryan Mendes,671,Open Play,Right Foot
+254,87,941,Lisandro Martínez,5,Argentina,92,Alexis Mac Allister,950,Open Play,Left Foot
+255,87,659,Sidny Lopes Cabral,18,Cape Verde,103,Yannick Semedo,667,Open Play,Right Foot
+256,87,655,Diney Borges,5,Argentina,111,,,Own Goal,Head
+257,88,1245,Jhon Arias,21,Colombia,14,Luis Suárez,1246,Open Play,Right Foot
+258,89,303,Azzedine Ounahi,24,Morocco,50,Achraf Hakimi,296,Open Play,Right Foot
+259,89,303,Azzedine Ounahi,24,Morocco,82,Brahim Díaz,307,Open Play,Right Foot
+260,89,311,Soufiane Rahimi,24,Morocco,90,Brahim Díaz,307,Open Play,Left Foot
+261,90,855,Kylian Mbappé,42,France,70,,,Penalty,Right Foot
+262,91,934,Erling Haaland,29,Norway,79,Andreas Schjelderup,931,Open Play,Head
+263,91,934,Erling Haaland,29,Norway,90,Andreas Schjelderup,931,Open Play,Left Foot
+264,91,278,Neymar,8,Brazil,90,,,Penalty,Right Foot
+265,92,1109,Jude Bellingham,4,England,36,Bukayo Saka,1114,Open Play,Head
+266,92,1109,Jude Bellingham,4,England,38,Harry Kane,1116,Open Play,Right Foot
+267,92,24,Julián Quiñones,25,Mexico,42,,,Open Play,Right Foot
+268,92,1116,Harry Kane,4,England,60,,,Penalty,Right Foot
+269,92,25,Raúl Jiménez,25,Mexico,69,,,Penalty,Right Foot
+270,93,641,Mikel Merino,16,Spain,90,Ferran Torres,648,Open Play,Left Foot
+271,94,695,Charles De Ketelaere,6,Belgium,9,Nicolas Raskin,690,Open Play,Right Foot
+272,94,174,Malik Tillman,37,USA,31,,,Free Kick,Right Foot
+273,94,695,Charles De Ketelaere,6,Belgium,33,Leandro Trossard,699,Open Play,Head
+274,94,697,Hans Vanaken,6,Belgium,57,Charles De Ketelaere,695,Open Play,Right Foot
+275,94,702,Romelu Lukaku,6,Belgium,90,Hans Vanaken,697,Open Play,Right Foot
+276,95,710,Yasser Ibrahim,13,Egypt,15,Marwan Ateya,715,Corner,Head
+277,95,723,Mostafa Ziko,13,Egypt,67,Haissem Hassan,725,Open Play,Right Foot
+278,95,940,Cristian Romero,5,Argentina,79,Lionel Messi,959,Open Play,Head
+279,95,959,Lionel Messi,5,Argentina,83,Gonzalo Montiel,947,Open Play,Left Foot
+280,95,949,Enzo Fernández,5,Argentina,90,Lautaro Martínez,961,Open Play,Head
+281,97,855,Kylian Mbappé,42,France,60,Désiré Doué,853,Open Play,Right Foot
+282,97,856,Ousmane Dembélé,42,France,66,Kylian Mbappé,855,Open Play,Right Foot
+283,98,639,Fabián Ruiz,16,Spain,30,,,Open Play,Right Foot
+284,98,695,Charles De Ketelaere,6,Belgium,41,Timothy Castagne,687,Open Play,Head
+285,98,641,Mikel Merino,16,Spain,88,,,Open Play,Left Foot
+286,99,931,Andreas Schjelderup,29,Norway,36,Martin Ødegaard,928,Open Play,Left Foot
+287,99,1109,Jude Bellingham,4,England,45,Anthony Gordon,1112,Open Play,Left Foot
+288,99,1109,Jude Bellingham,4,England,93,Morgan Rogers,1110,Open Play,Right Foot
+289,100,950,Alexis Mac Allister,5,Argentina,10,Lionel Messi,959,Corner,Head
+290,100,256,Dan Ndoye,45,Switzerland,67,,,Open Play,Right Foot
+291,100,960,Julián Alvarez,5,Argentina,112,José Manuel López,,Open Play,Right Foot
+292,100,961,Lautaro Martínez,5,Argentina,120,Thiago Almada,957,Open Play,Right Foot
+293,101,649,Mikel Oyarzabal,16,Spain,22,,,Penalty,Left Foot
+294,101,634,Pedro Porro,16,Spain,58,Dani Olmo,642,Open Play,Right Foot
+295,102,1112,Anthony Gordon,4,England,55,Morgan Rogers,1110,Open Play,Right Foot
+296,102,949,Enzo Fernández,5,Argentina,85,Lionel Messi,959,Open Play,Right Foot
+297,102,961,Lautaro Martínez,5,Argentina,90,Lionel Messi,959,Open Play,Head
+298,103,1106,Declan Rice,4,England,3,,,Open Play,Right Foot
+299,103,1098,Ezri Konsa,4,England,18,Declan Rice,1106,Corner,Head
+300,103,1114,Bukayo Saka,4,England,37,Marcus Rashford,1113,Open Play,Left Foot
+301,103,1114,Bukayo Saka,4,England,45,Eberechi Eze,1111,Open Play,Left Foot
+302,103,855,Kylian Mbappé,42,France,48,Michael Olise,852,Open Play,Left Foot
+303,103,851,Bradley Barcola,42,France,54,Kylian Mbappé,855,Open Play,Right Foot
+304,103,855,Kylian Mbappé,42,France,66,Michael Olise,852,Open Play,Left Foot
+305,103,1114,Bukayo Saka,4,England,87,,,Penalty,Left Foot
+306,103,856,Ousmane Dembélé,42,France,90,Dayot Upamecano,837,Open Play,Left Foot
+307,103,1109,Jude Bellingham,4,England,90,,,Open Play,Right Foot
+308,104,648,Ferran Torres,16,Spain,106,Nico Williams,644,Open Play,Left Foot

@@ -1,0 +1,1249 @@
+player_id,player_name,position,team_id,age,club,league,player_market_value_eur
+1,Raúl Rangel,Goalkeeper,25,26,Deportivo Guadalajara,Mexican League MX Apertura,€6 500 000
+2,Carlos Acevedo,Goalkeeper,25,30,Santos Laguna,Mexican League MX Apertura,€2 800 000
+3,Guillermo Ochoa,Goalkeeper,25,40,AEL Limassol,Cyprus League,€250 000
+4,Johan Vásquez,Defender,25,27,Genoa,Italian Serie A,€12 000 000
+5,César Montes,Defender,25,29,Locomotive Moscow,Russian Premier League,€7 500 000
+6,Luis Romo,Defender,25,31,Deportivo Guadalajara,Mexican League MX Apertura,€3 000 000
+7,Mateo Chávez,Defender,25,22,AZ Alkmaar,Dutch Eredivisie,€4 000 000
+8,Jesús Gallardo,Defender,25,31,Deportivo Toluca,Saudi Pro League,€2 800 000
+9,Israel Reyes,Defender,25,26,Club America,Mexican League MX Apertura,€6 500 000
+10,Jorge Sánchez,Defender,25,28,PAOK Thessaloniki,Greek Super League 1,€2 000 000
+11,Edson Álvarez,Half-Back,25,28,Fenerbahce,Turkish Super League,€15 000 000
+12,Érik Lira,Half-Back,25,26,Cruz Azul,Mexican League MX Apertura,€12 000 000
+13,Luis Chávez,Half-Back,25,30,Dynamo Moscow,Russian Premier League,€6 000 000
+14,Obed Vargas,Half-Back,25,20,Atletico Madrid,Spanish LaLiga,€10 000 000
+15,Orbelín Pineda,Half-Back,25,30,AEK Athens,Greek Super League 1,€7 000 000
+16,Álvaro Fidalgo,Half-Back,25,29,Betis,Spanish LaLiga,€6 000 000
+17,Gilberto Mora,Half-Back,25,17,Club Tijuana,Mexican League MX Apertura,€10 000 000
+18,Brian Gutiérrez,Half-Back,25,22,Deportivo Guadalajara,Mexican League MX Apertura,€8 000 000
+19,Alexis Vega,Attacker,25,28,Deportivo Toluca,Mexican League MX Apertura,€8 000 000
+20,César Huerta,Attacker,25,25,Anderlecht,Belgian Jupiler Pro League,€3 500 000
+21,Roberto Alvarado,Attacker,25,27,Deportivo Guadalajara,Mexican League MX Apertura,€7 500 000
+22,Santiago Gimenez,Attacker,25,25,Milan,Italian Serie A,€18 000 000
+23,Armando González,Attacker,25,23,Deportivo Guadalajara,Mexican League MX Apertura,€15 000 000
+24,Julián Quiñones,Attacker,25,29,Al-Qadsia Al-Khubar,Saudi Pro League,€14 000 000
+25,Raúl Jiménez,Attacker,25,35,Fulham,English Premier League,€3 000 000
+26,Guillermo Martínez,Attacker,25,31,UNAM Pumas,Mexican League MX Apertura,€1 500 000
+27,Sipho Chaine,Goalkeeper,31,29,Orlando Pirates,South Africa Premier League,€1 600 000
+28,Ronwen Williams,Goalkeeper,31,34,Mamelodi Sundowns FC,South Africa Premier League,€800 000
+29,Ricardo Goss,Goalkeeper,31,32,Siwelele,South Africa Premier League,€350 000
+30,Mbekezeli Mbokazi,Defender,31,20,Chicago Fire FC,American MLS,€3 500 000
+31,Ime Okon,Defender,31,22,Hannover 96,Germany 2.Bundesliga,€2 000 000
+32,Olwethu Makhanya,Defender,31,22,Philadelphia Union,American MLS,€2 000 000
+33,Nkosinathi Sibisi,Defender,31,30,Orlando Pirates,South Africa Premier League,€1 600 000
+34,Khulumani Ndamane,Defender,31,22,Mamelodi Sundowns FC,South Africa Premier League,€1 200 000
+35,Samukele Kabini,Defender,31,22,Molde,Norwegian Eliteserien,€2 500 000
+36,Aubrey Modiba,Defender,31,30,Mamelodi Sundowns FC,South Africa Premier League,€1 800 000
+37,Bradley Cross,Defender,31,25,Kaizer Chiefs,South Africa Premier League,€1 000 000
+38,Thabang Matuludi,Defender,31,27,Polokwane City,South Africa Premier League,€1 200 000
+39,Khuliso Mudau,Defender,31,31,Mamelodi Sundowns FC,South Africa Premier League,€1 200 000
+40,Kamogelo Sebelebele,Defender,31,23,Orlando Pirates,South Africa Premier League,€1 200 000
+41,Teboho Mokoena,Half-Back,31,29,Mamelodi Sundowns FC,South Africa Premier League,€2 800 000
+42,Thalente Mbatha,Half-Back,31,26,Orlando Pirates,South Africa Premier League,€2 000 000
+43,Jayden Adams,Half-Back,31,25,Mamelodi Sundowns FC,South Africa Premier League,€1 800 000
+44,Yaya Sithole,Half-Back,31,27,Tondela,Liga Portugal,€600 000
+45,Themba Zwane,Half-Back,31,36,Mamelodi Sundowns FC,South Africa Premier League,€250 000
+46,Relebohile Mofokeng,Attacker,31,21,Orlando Pirates,South Africa Premier League,€3 000 000
+47,Oswin Appollis,Attacker,31,24,Orlando Pirates,South Africa Premier League,€2 500 000
+48,Tshepang Moremi,Attacker,31,25,Orlando Pirates,South Africa Premier League,€1 400 000
+49,Thapelo Maseko,Attacker,31,22,AEL Limassol,Cyprus League,€750 000
+50,Lyle Foster,Attacker,31,25,Burnley,English Premier League,€8 000 000
+51,Iqraam Rayners,Attacker,31,30,Mamelodi Sundowns FC,South Africa Premier League,€2 800 000
+52,Evidence Makgopa,Attacker,31,26,Orlando Pirates,South Africa Premier League,€1 400 000
+53,Bum-keun Song,Goalkeeper,33,28,Jeonbuk Hyundai Motors FC,South Korean K-1 League,€1 000 000
+54,Hyeon-woo Jo,Goalkeeper,33,34,Ulsan HD FC,South Korean K-1 League,€650 000
+55,Seung-gyu Kim,Goalkeeper,33,35,FC Tokyo,J.League Japan,€500 000
+56,Min-jae Kim,Defender,33,29,Bayern München,Germany Bundesliga,€20 000 000
+57,Han-beom Lee,Defender,33,24,FC Midtjylland,Danish Super League,€3 000 000
+58,Tae-hyeon Kim,Defender,33,25,Kashima Antlers,J.League Japan,€1 200 000
+59,Gi-hyuk Lee,Defender,33,25,Gangwon FC,South Korean K-1 League,€800 000
+60,Wi-je Cho,Defender,33,24,Jeonbuk Hyundai Motors FC,South Korean K-1 League,€550 000
+61,Tae-seok Lee,Defender,33,23,Austria Wien,Austria Bundesliga,€2 000 000
+62,Young-woo Seol,Defender,33,27,FK Crvena Zvezda,Serbian Super Liga,€6 500 000
+63,Moon-hwan Kim,Defender,33,30,Daejeon Hana Citizen,South Korean K-1 League,€750 000
+64,In-beom Hwang,Half-Back,33,29,Feyenoord,Dutch Eredivisie,€7 000 000
+65,Jin-seob Park,Half-Back,33,30,Zhejiang Professional,China Zhejiang Professional,€1 000 000
+66,Jens Castrop,Half-Back,33,22,Borussia Mönchengladbach,Germany Bundesliga,€10 000 000
+67,Seung-ho Paik,Half-Back,33,29,Birmingham City,English Championship,€2 000 000
+68,Jin-gyu Kim,Half-Back,33,29,Jeonbuk Hyundai Motors FC,South Korean K-1 League,€1 200 000
+69,Kang-in Lee,Half-Back,33,25,Paris Saint-Germain,French Ligue 1,€28 000 000
+70,Jun-ho Bae,Half-Back,33,22,Stoke City,English Championship,€4 000 000
+71,Jae-sung Lee,Half-Back,33,33,Mainz 05,Germany Bundesliga,€2 000 000
+72,Dong-gyeong Lee,Half-Back,33,28,Ulsan HD FC,South Korean K-1 League,€1 600 000
+73,Heung-min Son,Attacker,33,33,Los Angeles FC,American MLS,€15 000 000
+74,Ji-sung Eom,Attacker,33,24,Swansea City,English Championship,€1 800 000
+75,Hyun-jun Yang,Attacker,33,24,Celtic,Scotland Premiership,€5 000 000
+76,Hyeon-gyu Oh,Attacker,33,25,Beşiktaş,Turkish Super League,€15 000 000
+77,Hee-chan Hwang,Attacker,33,30,Wolverhampton Wanderers,English Premier League,€6 000 000
+78,Gue-sung Cho,Attacker,33,28,FC Midtjylland,Danish Super League,€2 500 000
+79,Lukas Hornicek,Goalkeeper,44,23,Braga,Liga Portugal,€18 000 000
+80,Matej Kovar,Goalkeeper,44,26,PSV Eindhoven,Dutch Eredivisie,€8 000 000
+81,Jindrich Stanek,Goalkeeper,44,30,Slavia Prague,Czech 1. Liga,€2 000 000
+82,Ladislav Krejčí,Defender,44,27,Wolverhampton Wanderers,English Premier League,€22 000 000
+83,Robin Hranac,Defender,44,26,Hoffenheim,Germany Bundesliga,€10 000 000
+84,Stepan Chaloupek,Defender,44,23,Slavia Prague,Czech 1. Liga,€10 000 000
+85,David Zima,Defender,44,25,Slavia Prague,Czech 1. Liga,€7 000 000
+86,Tomas Holes,Defender,44,33,Slavia Prague,Czech 1. Liga,€1 000 000
+87,Jaroslav Zelený,Defender,44,33,Sparta Prague,Czech 1. Liga,€600 000
+88,David Jurásek,Defender,44,25,Slavia Prague,Czech 1. Liga,€5 000 000
+89,Vladimír Coufal,Defender,44,33,Hoffenheim,Germany Bundesliga,€2 500 000
+90,Tomáš Souček,Half-Back,44,31,West Ham United,English Premier League,€10 000 000
+91,Michal Sadielek,Half-Back,44,27,Slavia Prague,Czech 1. Liga,€8 000 000
+92,Lukas Cerv,Half-Back,44,25,Viktoria Plzen,Czech 1. Liga,€6 000 000
+93,Hugo Sochurek,Half-Back,44,18,Sparta Prague,Czech 1. Liga,€3 500 000
+94,Alexandr Sojka,Half-Back,44,23,Viktoria Plzen,Czech 1. Liga,€2 300 000
+95,Vladimír Darida,Half-Back,44,35,Hradec Kralove,Czech 1. Liga,€375 000
+96,David Doudera,Half-Back,44,28,Sparta Prague,Czech 1. Liga,€3 500 000
+97,Pavel Sulc,Half-Back,44,25,Lyon,French Ligue 1,€20 000 000
+98,Denis Visinsky,Half-Back,44,23,Viktoria Plzen,Czech 1. Liga,€3 000 000
+99,Lukas Provod,Attacker,44,29,Slavia Prague,Czech 1. Liga,€8 000 000
+100,Patrik Schick,Attacker,44,30,Bayer Leverkusen,Germany Bundesliga,€18 000 000
+101,Adam Hlozek,Attacker,44,23,Hoffenheim,Germany Bundesliga,€10 000 000
+102,Mojmír Chytil,Attacker,44,27,Slavia Prague,Czech 1. Liga,€4 000 000
+103,Jan Kuchta,Attacker,44,29,Sparta Prague,Czech 1. Liga,€2 700 000
+104,Tomas Chory,Attacker,44,31,Slavia Prague,Czech 1. Liga,€2 700 000
+105,Nikola Vasilj,Goalkeeper,7,30,St. Pauli,Germany Bundesliga,€4 500 000
+106,Martin Zlomislic,Goalkeeper,7,27,Rijeka,Croatian NHL,€2 000 000
+107,Mladen Jurkas,Goalkeeper,7,18,Borac Banja Luka,Bosnia and Herzegovina Borac Banja Luka,€700 000
+108,Tarik Muharemović,Defender,7,23,Sassuolo,Italian Serie A,€25 000 000
+109,Sead Kolasinac,Defender,7,33,Atalanta,Italian Serie A,€4 000 000
+110,Stjepan Radeljic,Defender,7,28,Rijeka,Croatian NHL,€2 800 000
+111,Nikola Katic,Defender,7,29,Schalke 04,Germany 2.Bundesliga,€1 800 000
+112,Nihad Mujakic,Defender,7,28,Gaziantep FK,Turkish Super League,€1 200 000
+113,Dennis Hadzikadunic,Defender,7,27,Sampdoria,Italian Serie B,€1 200 000
+114,Amar Dedić,Defender,7,23,Benfica,Liga Portugal,€16 000 000
+115,Arjan Malic,Defender,7,20,Sturm Graz,Austria Bundesliga,€1 800 000
+116,Amir Hadziahmetovic,Half-Back,7,29,Hull City,English Championship,€4 000 000
+117,Ivan Šunjić,Half-Back,7,29,Pafos FC,Cyprus League,€2 000 000
+118,Dzenis Burnic,Half-Back,7,28,Karlsruher SC,Germany 2.Bundesliga,€1 200 000
+119,Benjamin Tahirović,Half-Back,7,23,Brøndby IF,Danish Super League,€4 500 000
+120,Armin Gigovic,Half-Back,7,24,Young Boys,Swiss Super League,€2 500 000
+121,Ivan Basic,Half-Back,7,24,FC Astana,Kazakhstan Premier League,€1 500 000
+122,Amar Memić,Half-Back,7,25,Viktoria Plzen,Czech 1. Liga,€4 500 000
+123,Ermin Mahmic,Half-Back,7,21,Slovan Liberec,Czech 1. Liga,€5 000 000
+124,Kerim Alajbegovic,Attacker,7,18,Salzburg,Austria Bundesliga,€22 000 000
+125,Esmir Bajraktarevic,Attacker,7,21,PSV Eindhoven,Dutch Eredivisie,€8 000 000
+126,Ermedin Demirovic,Attacker,7,28,VfB Stuttgart,Germany Bundesliga,€22 000 000
+127,Haris Tabakovic,Attacker,7,32,Borussia Mönchengladbach,Germany Bundesliga,€3 500 000
+128,Jovo Lukić,Attacker,7,27,Universitatea Cluj,Romanian Liga I,€2 200 000
+129,Samed Bazdar,Attacker,7,22,Jagiellonia Białystok,Polish Ekstraklasa,€1 500 000
+130,Edin Dzeko,Attacker,7,40,Schalke 04,Germany 2.Bundesliga,€1 000 000
+131,Dayne St. Clair,Goalkeeper,19,29,Inter Miami CF,American MLS,€3 500 000
+132,Maxime Crépeau,Goalkeeper,19,32,Orlando City,American MLS,€1 800 000
+133,Owen Goodman,Goalkeeper,19,22,Barnsley,English League One,€550 000
+134,Moise Bombito,Defender,19,26,Nice,French Ligue 1,€7 000 000
+135,Alfie Jones,Defender,19,28,Middlesbrough,English Championship,€6 000 000
+136,Derek Cornelius,Defender,19,28,Rangers,Scotland Premiership,€2 500 000
+137,Joel Waterman,Defender,19,30,Chicago Fire FC,American MLS,€2 000 000
+138,Luc De Fougerolles,Defender,19,20,FCV Dender EH,Belgian Jupiler Pro League,€1 000 000
+139,Alphonso Davies,Defender,19,25,Bayern München,Germany Bundesliga,€40 000 000
+140,Alistair Johnston,Defender,19,27,Celtic,Scotland Premiership,€8 000 000
+141,Richie Laryea,Defender,19,31,Toronto FC,American MLS,€1 000 000
+142,Niko Sigur,Half-Back,19,22,Hajduk Split,Croatian NHL,€4 000 000
+143,Ismaël Koné,Half-Back,19,24,Sassuolo,Italian Serie A,€25 000 000
+144,Nathan-Dylan Saliba,Half-Back,19,22,Anderlecht,Belgian Jupiler Pro League,€7 500 000
+145,Stephen Eustaquio,Half-Back,19,29,Los Angeles FC,American MLS,€6 000 000
+146,Jonathan Osorio,Half-Back,19,34,Toronto FC,American MLS,€1 000 000
+147,Mathieu Choinière,Half-Back,19,27,Los Angeles FC,American MLS,€800 000
+148,Ali Ahmed,Half-Back,19,25,Norwich City,English Championship,€5 000 000
+149,Liam Millar,Attacker,19,26,Hull City,English Championship,€3 000 000
+150,Jacob Shaffelburg,Attacker,19,26,Los Angeles FC,American MLS,€2 500 000
+151,Jayden Nelson,Attacker,19,23,Austin FC,American MLS,€2 000 000
+152,Tajon Buchanan,Attacker,19,27,Villarreal,Spanish LaLiga,€12 000 000
+153,Jonathan David,Attacker,19,26,Juventus,Italian Serie A,€30 000 000
+154,Promise David,Attacker,19,24,Union St.Gilloise,Belgian Jupiler Pro League,€17 000 000
+155,Tani Oluwaseyi,Attacker,19,26,Villarreal,Spanish LaLiga,€7 000 000
+156,Cyle Larin,Attacker,19,31,Southampton,English Championship,€2 500 000
+157,Matt Turner,Goalkeeper,37,31,New England Revolution,American MLS,€2 500 000
+158,Chris Brady,Goalkeeper,37,22,Chicago Fire FC,American MLS,€2 500 000
+159,Matt Freese,Goalkeeper,37,27,New York City FC,American MLS,€2 000 000
+160,Chris Richards,Defender,37,26,Crystal Palace,English Premier League,€28 000 000
+161,Mark McKenzie,Defender,37,27,Toulouse,French Ligue 1,€7 000 000
+162,Auston Trusty,Defender,37,27,Celtic,Scotland Premiership,€6 000 000
+163,Miles Robinson,Defender,37,29,FC Cincinnati,American MLS,€3 500 000
+164,Tim Ream,Defender,37,38,Charlotte FC,American MLS,€150 000
+165,Antonee Robinson,Defender,37,28,Fulham,English Premier League,€22 000 000
+166,Sergiño Dest,Defender,37,25,PSV Eindhoven,Dutch Eredivisie,€18 000 000
+167,Joe Scally,Defender,37,23,Borussia Mönchengladbach,Germany Bundesliga,€7 000 000
+168,Alex Freeman,Defender,37,21,Villarrea,Spanish LaLiga,€3 500 000
+169,Tyler Adams,Half-Back,37,27,AFC Bournemouth,English Premier League,€25 000 000
+170,Weston McKennie,Half-Back,37,27,Juventus,Italian Serie A,€30 000 000
+171,Sebastian Berhalter,Half-Back,37,25,Vancouver Whitecaps,American MLS,€8 000 000
+172,Cristian Roldán,Half-Back,37,31,Seattle Sounders FC,American MLS,€3 500 000
+173,Timothy Weah,Half-Back,37,26,Marseille,French Ligue 1,€20 000 000
+174,Malik Tillman,Half-Back,37,24,Bayer Leverkusen,Germany Bundesliga,€30 000 000
+175,Brenden Aaronson,Half-Back,37,25,Leeds United,English Premier League,€22 000 000
+176,Giovanni Reyna,Half-Back,37,23,Borussia Mönchengladbach,Germany Bundesliga,€4 000 000
+177,Max Arfsten,Attacker,37,25,Columbus Crew,American MLS,€5 000 000
+178,Christian Pulisic,Attacker,37,27,Milan,Italian Serie A,€40 000 000
+179,Álex Zendejas,Attacker,37,28,CF America,Mexican League MX Apertura,€10 000 000
+180,Folarin Balogun,Attacker,37,24,Monaco,French Ligue 1,€40 000 000
+181,Ricardo Pepi,Attacker,37,23,PSV Eindhoven,Dutch Eredivisie,€30 000 000
+182,Haji Wright,Attacker,37,28,Coventry City,English Championship,€16 000 000
+183,Orlando Gill,Goalkeeper,32,26,San Lorenzo,Argentinian Liga Profesional,€6 000 000
+184,Gastón Olveira,Goalkeeper,32,33,Olimpia,Paraguayan Division Profesional,€500 000
+185,Roberto Fernández,Goalkeeper,32,38,Cerro Porteno,Paraguayan Division Profesional,€100 000
+186,Omar Alderete,Defender,32,29,Sunderland,English Premier League,€13 000 000
+187,Gustavo Gómez,Defender,32,33,Palmeiras,Brazilian Serie A,€3 500 000
+188,José Canale,Defender,32,29,Lanus,Argentinian Liga Profesional,€2 200 000
+189,Júnior Alonso,Defender,32,33,Atletico MG,Brazilian Serie A,€1 500 000
+190,Fabián Balbuena,Defender,32,34,Gremio,Brazilian Serie A,€900 000
+191,Gustavo Velázquez,Defender,32,35,Cerro Porteno,Paraguayan Division Profesional,€400 000
+192,Alexandro Maidana,Defender,32,20,Talleres,Argentinian Liga Profesional,€2 500 000
+193,Juan José,Defender,32,26,Dinamo Moscow,Russian Premier League,€5 000 000
+194,Andrés Cubas,Half-Back,32,30,Vancouver Whitecaps,American MLS,€4 500 000
+195,Braian Ojeda,Half-Back,32,25,Orlando City,American MLS,€3 500 000
+196,Diego Gómez,Half-Back,32,23,Brighton & Hove Albion,English Premier League,€25 000 000
+197,Damián Bobadilla,Half-Back,32,24,Sao Paulo,Brazilian Serie A,€6 000 000
+198,Matías Galarza,Half-Back,32,24,Atlanta United,American MLS,€3 000 000
+199,Julio Enciso,Half-Back,32,22,Strasbourg,French Ligue 1,€25 000 000
+200,Mauricio,Half-Back,32,25,Palmeiras,Brazilian Serie A,€15 000 000
+201,Kaku,Half-Back,32,31,Al-Ain,UAE Pro League,€4 500 000
+202,Gustavo Caballero,Attacker,32,24,Portsmouth,English Championship,€1 000 000
+203,Miguel Almirón,Attacker,32,32,Atlanta United,American MLS,€7 000 000
+204,Ramón Sosa,Attacker,32,26,Palmeiras,Brazilian Serie A,€10 000 000
+205,Isidro Pitta,Attacker,32,26,Red Bull Bragantino,Brazilian Serie A,€7 500 000
+206,Álex Arce,Attacker,32,31,Independiente Rivadavia,Argentinian Liga Profesional,€3 500 000
+207,Antonio Sanabria,Attacker,32,30,Cremonese,Italian Serie A,€1 800 000
+208,Gabriel Ávalos,Attacker,32,35,Independiente,Argentinian Liga Profesional,€750 000
+209,Meshaal Barsham,Goalkeeper,20,28,Al-Sadd,Qatar Stars League,€700 000
+210,Mahmoud Abunada,Goalkeeper,20,26,Al-Rayyan,Qatar Stars League,€400 000
+211,Salah Zakaria,Goalkeeper,20,27,Al-Duhail SC,Qatar Stars League,€400 000
+212,Lucas Mendes,Defender,20,35,Al-Wakrah,Qatar Stars League,€350 000
+213,Al-Hashmi Al-Hussain,Defender,20,22,Al-Arabi,Qatar Stars League,€250 000
+214,Issa Laye,Defender,20,28,Al-Arabi,Qatar Stars League,€200 000
+215,Boualem Khoukhi,Defender,20,35,Al-Sadd,Qatar Stars League,€200 000
+216,Pedro Miguel,Defender,20,35,Al-Sadd,Qatar Stars League,€150 000
+217,Homam Al-Amin,Defender,20,26,Cultural Leonesa,Qatar Stars League,€500 000
+218,Sultan Al-Brake,Defender,20,30,Al-Duhail SC,Qatar Stars League,€300 000
+219,Ayoub Al-Oui,Defender,20,21,Al-Gharafa,Qatar Stars League,€375 000
+220,Jassem Gaber,Half-Back,20,24,Al-Rayyan,Qatar Stars League,€500 000
+221,Assim Madibo,Half-Back,20,29,Al-Wakrah,Qatar Stars League,€350 000
+222,Ahmed Fathi,Half-Back,20,33,Al-Arabi,Qatar Stars League,€250 000
+223,Karim Boudiaf,Half-Back,20,35,Al-Duhail SC,Qatar Stars League,€175 000
+224,Mohamed Manai,Half-Back,20,23,Al-Shamal,Qatar Stars League,€500 000
+225,Abdulaziz Hatim,Half-Back,20,35,Al-Rayyan,Qatar Stars League,€250 000
+226,Hasan Al-Haydos,Half-Back,20,35,Al-Sadd,Qatar Stars League,€300 000
+227,Akram Afif,Attacker,20,29,Al-Sadd,Qatar Stars League,€8 000 000
+228,Edmilson Junior,Attacker,20,31,Al-Duhail SC,Qatar Stars League,€1 800 000
+229,Tahsin Mohammed Jamshid,Attacker,20,20,Al-Duhail SC,Qatar Stars League,€200 000
+230,Ahmed Al-Ganehi,Attacker,20,25,Al-Gharafa,Qatar Stars League,€500 000
+231,Yusuf Abdurisag,Attacker,20,26,Al-Wakrah,Qatar Stars League,€275 000
+232,Almoez Ali,Attacker,20,29,Al-Duhail SC,Qatar Stars League,€2 500 000
+233,Ahmed Alaaeldin,Attacker,20,33,Al-Rayyan,Qatar Stars League,€300 000
+234,Mohammed Muntari,Attacker,20,32,Al-Gharafa,Qatar Stars League,€200 000
+235,Gregor Kobel,Goalkeeper,45,28,Borussia Dortmund,Germany Bundesliga,€40 000 000
+236,Marvin Keller,Goalkeeper,45,23,Young Boys,Swiss Super League,€6 000 000
+237,Yvon Mvogo,Goalkeeper,45,32,Lorient,French Ligue 1,€2 500 000
+238,Manuel Akanji,Defender,45,30,Inter,Italian Serie A,€17 000 000
+239,Aurèle Amenda,Defender,45,22,Eintracht Frankfurt,Germany Bundesliga,€10 000 000
+240,Luca Jaquez,Defender,45,23,VfB Stuttgart,Germany Bundesliga,€10 000 000
+241,Nico Elvedi,Defender,45,29,Borussia Mönchengladbach,Germany Bundesliga,€8 000 000
+242,Eray Cömert,Defender,45,28,Valencia,Spanish LaLiga,€2 500 000
+243,Miro Muheim,Defender,45,28,Hamburger SV,Germany Bundesliga,€5 000 000
+244,Ricardo Rodríguez,Defender,45,33,Real Betis,Spanish LaLiga,€1 400 000
+245,Silvan Widmer,Defender,45,33,Mainz 05,Germany Bundesliga,€800 000
+246,Denis Zakaria,Half-Back,45,29,Monaco,French Ligue 1,€25 000 000
+247,Ardon Jashari,Half-Back,45,23,Milan,Italian Serie A,€25 000 000
+248,Granit Xhaka,Half-Back,45,33,Sunderland,English Premier League,€8 000 000
+249,Johan Manzambi,Half-Back,45,20,Freiburg,Germany Bundesliga,€50 000 000
+250,Djibril Sow,Half-Back,45,29,Sevilla,Spanish LaLiga,€7 500 000
+251,Michel Aebischer,Half-Back,45,29,Pisa,Italian Serie A,€4 000 000
+252,Remo Freuler,Half-Back,45,34,Bologna,Italian Serie A,€3 000 000
+253,Fabian Rieder,Half-Back,45,24,Augsburg,Germany Bundesliga,€12 000 000
+254,Noah Okafor,Attacker,45,26,Leeds United,English Premier League,€25 000 000
+255,Rubén Vargas,Attacker,45,27,Sevilla,Spanish LaLiga,€12 000 000
+256,Dan Ndoye,Attacker,45,25,Nottingham Forest,English Premier League,€32 000 000
+257,Christian Fassnacht,Attacker,45,32,Young Boys,Swiss Super League,€2 000 000
+258,Breel Embolo,Attacker,45,29,Rennes,French Ligue 1,€15 000 000
+259,Zeki Amdouni,Attacker,45,25,Burnley,English Premier League,€7 000 000
+260,Cedric Itten,Attacker,45,29,Werder Bremen,Germany Bundesliga,€1 800 000
+261,Alisson,Goalkeeper,8,33,Liverpool,English Premier League,€15 000 000
+262,Ederson,Goalkeeper,8,32,Fenerbahçe,Turkish Super League,€10 000 000
+263,Weverton,Goalkeeper,8,38,Gremio,Brazilian Serie A,€700 000
+264,Gabriel,Defender,8,28,Arsenal,English Premier League,€75 000 000
+265,Bremer,Defender,8,29,Juventus,Italian Serie A,€35 000 000
+266,Marquinhos,Defender,8,32,Paris Saint-Germain,French Ligue 1,€28 000 000
+267,Roger Ibañez,Defender,8,27,Al Ahli,Saudi Pro League,€18 000 000
+268,Léo Pereira,Defender,8,30,Flamengo,Brazilian Serie A,€12 000 000
+269,Danilo,Defender,8,34,Flamengo,Brazilian Serie A,€2 000 000
+270,Douglas Santos,Defender,8,32,Zenit St. Petersburg,Russian Premier League,€7 500 000
+271,Alex Sandro,Defender,8,35,Flamengo,Brazilian Serie A,€1 000 000
+272,Fabinho,Half-Back,8,32,Al Ittihad,Saudi Pro League,€12 000 000
+273,Casemiro,Half-Back,8,34,Manchester United,English Premier League,€6 000 000
+274,Bruno Guimarães,Half-Back,8,28,Newcastle United,English Premier League,€70 000 000
+275,Едерсон,Half-Back,8,26,Atalanta,Italian Serie A,€45 000 000
+276,Danilo,Half-Back,8,25,Botafogo RJ,Brazilian Serie A,€32 000 000
+277,Lucas Paquetá,Half-Back,8,28,Flamengo,Brazilian Serie A,€32 000 000
+278,Neymar,Half-Back,8,34,Santos FC,Brazilian Serie A,€8 000 000
+279,Vinicius Junior,Attacker,8,25,Real Madrid,Spanish LaLiga,€140 000 000
+280,Raphinha,Attacker,8,29,Barcelona,Spanish LaLiga,€70 000 000
+281,Gabriel Martinelli,Attacker,8,25,Arsenal,English Premier League,€45 000 000
+282,Rayan,Attacker,8,19,AFC Bournemouth,English Premier League,€60 000 000
+283,Luiz Henrique,Attacker,8,25,Zenit St. Petersburg,Russian Premier League,€24 000 000
+284,Matheus Cunha,Attacker,8,27,Manchester United,English Premier League,€75 000 000
+285,Igor Thiago,Attacker,8,24,Brentford,English Premier League,€65 000 000
+286,Endrick,Attacker,8,19,Lyon,French Ligue 1,€40 000 000
+287,Yassine Bounou,Goalkeeper,24,35,Al Hilal,Saudi Pro League,€3 000 000
+288,Ahmed Reda Tagnaouti,Goalkeeper,24,30,RSB Berkane,Moroccan Botola Pro,€1 000 000
+289,Munir El Kajoui,Goalkeeper,24,37,FAR Rabat,Moroccan Botola Pro,€600 000
+290,Chadi Riad,Defender,24,23,Crystal Palace,English Premier League,€15 000 000
+291,Issa Diop,Defender,24,29,Fulham,English Premier League,€8 000 000
+292,Redouane Halhal,Defender,24,23,KV Mechelen,Belgian Jupiler Pro League,€5 000 000
+293,Marwane Saadane,Defender,24,34,Al Fateh FC,Saudi Pro League,€400 000
+294,Anass Salah-Eddine,Defender,24,24,PSV Eindhoven,Dutch Eredivisie,€12 000 000
+295,Youssef Belammari,Defender,24,27,Al Ahly SC,Egyptian Premier League,€1 200 000
+296,Achraf Hakimi,Defender,24,27,Paris Saint-Germain,French Ligue 1,€80 000 000
+297,Noussair Mazraoui,Defender,24,28,Manchester United,English Premier League,€18 000 000
+298,Zakaria El Ouahdi,Defender,24,24,Genk,Belgian Jupiler Pro League,€17 000 000
+299,Sofyan Amrabat,Half-Back,24,29,Real Betis,Spanish LaLiga,€10 000 000
+300,Ayyoub Bouaddi,Half-Back,24,18,Lille,French Ligue 1,€50 000 000
+301,Neil El Aynaoui,Half-Back,24,24,Roma,Italian Serie A,€23 000 000
+302,Samir El Mourabet,Half-Back,24,20,Strasbourg,French Ligue 1,€22 000 000
+303,Azzedine Ounahi,Half-Back,24,26,Girona,Spanish LaLiga,€10 000 000
+304,Ismael Saibari,Half-Back,24,25,PSV Eindhoven,Dutch Eredivisie,€40 000 000
+305,Bilal El Khannouss,Half-Back,24,22,VfB Stuttgart,Germany Bundesliga,€35 000 000
+306,Amine Sbaï,Attacker,24,25,Angers,French Ligue 1,€4 000 000
+307,Brahim Díaz,Attacker,24,26,Real Madrid,Spanish LaLiga,€35 000 000
+308,Chemsdine Talbi,Attacker,24,21,Sunderland,English Premier League,€25 000 000
+309,Gessime Yassine,Attacker,24,20,Strasbourg,French Ligue 1,€12 000 000
+310,Ayoube Amaimouni-Echghouyab,Attacker,24,21,Eintracht Frankfurt,Germany Bundesliga,€10 000 000
+311,Soufiane Rahimi,Attacker,24,30,Al-Ain,UAE Pro League,€6 000 000
+312,Ayoub El Kaabi,Attacker,24,32,Olympiacos,Greek Super League 1,€4 500 000
+313,Alexandre Pierre,Goalkeeper,9,25,Sochaux,French Ligue 1,€700 000
+314,Johny Placide,Goalkeeper,9,38,SC Bastia,French Ligue 2,€150 000
+315,Josué Duverger,Goalkeeper,9,26,,,€50 000
+316,Hannes Delcroix,Defender,9,27,Lugano,Swiss Super League,€2 000 000
+317,Jean-Kévin Duverne,Defender,9,28,Gent,Belgian Jupiler Pro League,€2 000 000
+318,Ricardo Adé,Defender,9,36,LDU de Quito,Ecuadorian Serie A,€300 000
+319,Garven Metusala,Defender,9,26,Colorado Springs Switchbacks FC,American USL Championship,€200 000
+320,Keeto Thermoncy,Defender,9,20,Young Boys,Swiss Super League,€100 000
+321,Martin Expérience,Defender,9,27,Nancy,French Ligue 2,€350 000
+322,Duke Lacroix,Defender,9,32,Colorado Springs Switchbacks FC,American USL Championship,€125 000
+323,Carlens Arcus,Defender,9,29,Angers,French Ligue 1,€1 800 000
+324,Wilguens Paugain,Defender,9,24,Zulte Waregem,Belgian Jupiler Pro League,€800 000
+325,Danley Jean Jacques,Half-Back,9,26,Philadelphia Union,American MLS,€3 000 000
+326,Dominique Simon,Half-Back,9,25,Tatran Presov,Slovak 1. liga,€200 000
+327,Carl Sainté,Half-Back,9,23,El Paso Locomotive FC,American USL Championship,€125 000
+328,Woodensky Pierre,Half-Back,9,21,,,€100 000
+329,Jean-Ricner Bellegarde,Half-Back,9,27,Wolverhampton Wanderers,English Premier League,€16 000 000
+330,Derrick Etienne Jr.,Half-Back,9,29,Toronto FC,American MLS,€800 000
+331,Ruben Providence,Attacker,9,24,Almere City FC,Dutch Eerste Divisie,€300 000
+332,Josué Casimir,Attacker,9,24,Auxerre,French Ligue 1,€3 000 000
+333,Louicius Deedson,Attacker,9,25,FC Dallas,American MLS,€1 200 000
+334,Wilson Isidor,Attacker,9,25,Sunderland,English Premier League,€18 000 000
+335,Lenny Joseph,Attacker,9,25,Ferencvaros,Hungarian Nemzeti Bajnokság I,€2 000 000
+336,Frantzdy Pierrot,Attacker,9,31,Rizespor,Turkish Super League,€1 500 000
+337,Duckens Nazon,Attacker,9,32,Esteghlal,Iranian Persian Gulf,€800 000
+338,Yassin Fortuné,Attacker,9,27,Vizela,Liga Portugal 2,€300 000
+339,Mathew Ryan,Goalkeeper,1,34,Levante,Spanish LaLiga,€1 800 000
+340,Patrick Beach,Goalkeeper,1,22,Melbourne City FC,Australian A-League,€1 000 000
+341,Paul Izzo,Goalkeeper,1,31,Randers FC,Danish Super League,€500 000
+342,Alessandro Circati,Defender,1,22,Parma,Italian Serie A,€12 000 000
+343,Lucas Herrington,Defender,1,18,Colorado Rapids,American MLS,€4 500 000
+344,Harry Souttar,Defender,1,27,Leicester City,English Premier League,€3 500 000
+345,Cameron Burgess,Defender,1,30,Swansea City,English Championship,€1 500 000
+346,Milos Degenek,Defender,1,32,APOEL Nicosia,Cyprus League,€450 000
+347,Jordan Bos,Defender,1,23,Feyenoord,Dutch Eredivisie,€12 000 000
+348,Aziz Behich,Defender,1,35,Melbourne City FC,Australian A-League,€250 000
+349,Jacob Italiano,Defender,1,24,Grazer AK,Austria Bundesliga,€600 000
+350,Jason Geria,Defender,1,33,Albirex Niigata,J.League Japan,€350 000
+351,Aiden O'Neill,Half-Back,1,27,New York City FC,American MLS,€3 000 000
+352,Kai Trewin,Half-Back,1,25,New York City FC,American MLS,€1 800 000
+353,Paul Okon-Engstler,Half-Back,1,21,Sydney FC,Australian A-League,€1 200 000
+354,Cammy Devlin,Half-Back,1,28,Hearts,Scotland Premiership,€2 000 000
+355,Connor Metcalfe,Half-Back,1,26,St. Pauli,Germany Bundesliga,€1 500 000
+356,Jackson Irvine,Half-Back,1,33,St. Pauli,Germany Bundesliga,€1 000 000
+357,Ajdin Hrustic,Half-Back,1,29,Heracles,Dutch Eredivisie,€600 000
+358,Cristian Volpato,Half-Back,1,22,Sassuolo,Italian Serie A,€10 000 000
+359,Nishan Velupillay,Attacker,1,25,Melbourne Victory,Australian A-League,€650 000
+360,Awer Mabil,Attacker,1,30,Castellon,Spanish LaLiga 2,€500 000
+361,Mathew Leckie,Attacker,1,35,Melbourne City FC,Australian A-League,€300 000
+362,Nestory Irankunda,Attacker,1,20,Watford,English Premier League,€8 000 000
+363,Mohamed Touré,Attacker,1,22,Norwich City,English Championship,€8 000 000
+364,Tete Yengi,Attacker,1,25,Machida Zelvia,J.League Japan,€450 000
+365,Uğurcan Çakır,Goalkeeper,39,30,Galatasaray,Turkish Super League,€15 000 000
+366,Altay Bayındır,Goalkeeper,39,28,Manchester United,English Premier League,€5 000 000
+367,Mert Günok,Goalkeeper,39,37,Fenerbahçe,Turkish Super League,€500 000
+368,Ozan Kabak,Defender,39,26,Hoffenheim,Germany Bundesliga,€15 000 000
+369,Merih Demiral,Defender,39,28,Al Ahli,Saudi Pro League,€12 000 000
+370,Abdülkerim Bardakcı,Defender,39,31,Galatasaray,Turkish Super League,€6 500 000
+371,Çağlar Söyüncü,Defender,39,30,Fenerbahçe,Turkish Super League,€3 500 000
+372,Samet Akaydin,Defender,39,32,Rizespor,Turkish Super League,€1 200 000
+373,Ferdi Kadıoğlu,Defender,39,26,Brighton & Hove Albion,English Premier League,€35 000 000
+374,Eren Elmalı,Defender,39,25,Galatasaray,Turkish Super League,€5 000 000
+375,Zeki Çelik,Defender,39,29,Roma,Italian Serie A,€14 000 000
+376,Mert Müldür,Defender,39,27,Fenerbahçe,Turkish Super League,€7 000 000
+377,Hakan Çalhanoğlu,Half-Back,39,32,Inter,Italian Serie A,€16 000 000
+378,İsmail Yüksek,Half-Back,39,27,Fenerbahçe,Turkish Super League,€15 000 000
+379,Salih Özcan,Half-Back,39,28,Borussia Dortmund,Germany Bundesliga,€3 500 000
+380,Kaan Ayhan,Half-Back,39,31,Galatasaray,Turkish Super League,€1 500 000
+381,Orkun Kökçü,Half-Back,39,25,Beşiktaş,Turkish Super League,€25 000 000
+382,Arda Güler,Half-Back,39,21,Real Madrid,Spanish LaLiga,€90 000 000
+383,Can Uzun,Half-Back,39,20,Eintracht Frankfurt,Germany Bundesliga,€45 000 000
+384,Kenan Yıldız,Attacker,39,21,Juventus,Italian Serie A,€75 000 000
+385,Barış Alper Yılmaz,Attacker,39,26,Galatasaray,Turkish Super League,€30 000 000
+386,Kerem Aktürkoğlu,Attacker,39,27,Fenerbahçe,Turkish Super League,€20 000 000
+387,Yunus Akgün,Attacker,39,25,Galatasaray,Turkish Super League,€18 000 000
+388,Oğuz Aydın,Attacker,39,25,Fenerbahçe,Turkish Super League,€7 000 000
+389,İrfan Can Kahveci,Attacker,39,30,Kasımpaşa,Turkish Super League,€3 000 000
+390,Deniz Gül,Attacker,39,21,FC Porto,Liga Portugal,€5 000 000
+391,Angus Gunn,Goalkeeper,47,30,Nottingham Forest,English Premier League,€1 000 000
+392,Liam Kelly,Goalkeeper,47,30,Rangers,Scotland Premiership,€800 000
+393,Craig Gordon,Goalkeeper,47,43,Hearts,Scotland Premiership,€50 000
+394,Scott McKenna,Defender,47,29,Dinamo Zagreb,Croatian NHL,€4 000 000
+395,Jack Hendry,Defender,47,31,Al-Ettifaq,Saudi Pro League,€2 500 000
+396,John Souttar,Defender,47,29,Rangers,Scotland Premiership,€2 000 000
+397,Dominic Hyam,Defender,47,30,Wrexham,English Championship,€2 000 000
+398,Grant Hanley,Defender,47,34,Hibernian,Scotland Premiership,€200 000
+399,Kieran Tierney,Defender,47,29,Celtic,Scotland Premiership,€8 000 000
+400,Andrew Robertson,Defender,47,32,Liverpool,English Premier League,€7 000 000
+401,Aaron Hickey,Defender,47,24,Brentford,English Premier League,€16 000 000
+402,Nathan Patterson,Defender,47,24,Everton,English Premier League,€10 000 000
+403,Anthony Ralston,Defender,47,27,Celtic,Scotland Premiership,€1 500 000
+404,Scott McTominay,Half-Back,47,29,Napoli,Italian Serie A,€40 000 000
+405,Lewis Ferguson,Half-Back,47,26,Bologna,Italian Serie A,€14 000 000
+406,John McGinn,Half-Back,47,31,Aston Villa,English Premier League,€13 000 000
+407,Ryan Christie,Half-Back,47,31,AFC Bournemouth,English Premier League,€8 000 000
+408,Tyler Fletcher,Half-Back,47,19,Manchester United U21,English Premier League,€1 500 000
+409,Kenny McLean,Half-Back,47,34,Norwich City,English Premier League,€400 000
+410,Findlay Curtis,Attacker,47,20,Rangers,Scotland Premiership,€2 000 000
+411,Ben Gannon-Doak,Attacker,47,20,AFC Bournemouth,English Premier League,€15 000 000
+412,George Hirst,Attacker,47,27,Ipswich Town,English Championship,€10 000 000
+413,Ché Adams,Attacker,47,29,Torino,Italian Serie A,€5 000 000
+414,Lawrence Shankland,Attacker,47,30,Hearts,Scotland Premiership,€3 000 000
+415,Ross Stewart,Attacker,47,29,Southampton,English Premier League,€2 500 000
+416,Lyndon Dykes,Attacker,47,30,Charlton Athletic,English Championship,€800 000
+417,Alexander Nübel,Goalkeeper,27,29,VfB Stuttgart,Germany Bundesliga,€12 000 000
+418,Manuel Neuer,Goalkeeper,27,40,Bayern München,Germany Bundesliga,€4 000 000
+419,Oliver Baumann,Goalkeeper,27,36,Hoffenheim,Germany Bundesliga,€2 500 000
+420,Nico Schlotterbeck,Defender,27,26,Borussia Dortmund,Germany Bundesliga,€55 000 000
+421,Malick Thiaw,Defender,27,24,Newcastle United,English Premier League,€45 000 000
+422,Jonathan Tah,Defender,27,30,Bayern München,Germany Bundesliga,€28 000 000
+423,Waldemar Anton,Defender,27,29,Borussia Dortmund,Germany Bundesliga,€18 000 000
+424,Antonio Rüdiger,Defender,27,33,Real Madrid,Spanish LaLiga,€6 000 000
+425,Nathaniel Brown,Defender,27,23,Eintracht Frankfurt,Germany Bundesliga,€40 000 000
+426,David Raum,Defender,27,28,RB Leipzig,Germany Bundesliga,€25 000 000
+427,Aleksandar Pavlovic,Half-Back,27,22,Bayern München,Germany Bundesliga,€90 000 000
+428,Angelo Stiller,Half-Back,27,25,VfB Stuttgart,Germany Bundesliga,€45 000 000
+429,Joshua Kimmich,Half-Back,27,31,Bayern München,Germany Bundesliga,€35 000 000
+430,Felix Nmecha,Half-Back,27,25,Borussia Dortmund,Germany Bundesliga,€50 000 000
+431,Assan Ouédraogo,Half-Back,27,20,RB Leipzig,Germany Bundesliga,€28 000 000
+432,Nadiem Amiri,Half-Back,27,29,Mainz 05,Germany Bundesliga,€17 000 000
+433,Leon Goretzka,Half-Back,27,31,Bayern München,Germany Bundesliga,€12 000 000
+434,Pascal Groß,Half-Back,27,35,Brighton & Hove Albion,English Premier League,€2 500 000
+435,Jamal Musiala,Half-Back,27,23,Bayern München,Germany Bundesliga,€100 000 000
+436,Florian Wirtz,Half-Back,27,23,Liverpool,English Premier League,€100 000 000
+437,Jamie Leweling,Attacker,27,25,VfB Stuttgart,Germany Bundesliga,€40 000 000
+438,Leroy Sané,Attacker,27,30,Bayern München,Germany Bundesliga,€20 000 000
+439,Kai Havertz,Attacker,27,27,Arsenal,English Premier League,€55 000 000
+440,Nick Woltemade,Attacker,27,24,Newcastle United,English Premier League,€55 000 000
+441,Maximilian Beier,Attacker,27,23,Borussia Dortmund,Germany Bundesliga,€40 000 000
+442,Deniz Undav,Attacker,27,29,VfB Stuttgart,Germany Bundesliga,€22 000 000
+443,Eloy Room,Goalkeeper,23,37,Miami FC,American USL Championship,€150 000
+444,Trevor Doornbusch,Goalkeeper,23,26,VVV-Venlo,Dutch Eerste Divisie,€50 000
+445,Tyrick Bodak,Goalkeeper,23,24,Telstar,Dutch Eredivisie,€25 000
+446,Armando Obispo,Defender,23,27,PSV Eindhoven,Dutch Eredivisie,€4 000 000
+447,Riechedly Bazoer,Defender,23,29,Konyaspor,Turkish Super League,€1 500 000
+448,Deveron Fonville,Defender,23,23,NEC Nijmegen,Dutch Eredivisie,€1 500 000
+449,Roshon van Eijma,Defender,23,28,RKC Waalwijk,Dutch Eerste Divisie,€375 000
+450,Juriën Gaari,Defender,23,32,Abha,Saudi Pro League,€350 000
+451,Sherel Floranus,Defender,23,27,PEC Zwolle,Dutch Eredivisie,€800 000
+452,Shurandy Sambo,Defender,23,24,Sparta Rotterdam,Dutch Eredivisie,€1 300 000
+453,Joshua Brenet,Defender,23,32,Kayserispor,Turkish Super League,€1 000 000
+454,Livano Comenencia,Defender,23,22,FC Zürich,Swiss Super League,€500 000
+455,Kevin Felida,Half-Back,23,26,FC Den Bosch,Dutch Eerste Divisie,€400 000
+456,Godfried Roemeratoe,Half-Back,23,26,RKC Waalwijk,Dutch Eerste Divisie,€350 000
+457,Juninho Bacuna,Half-Back,23,28,FC Volendam,Dutch Eredivisie,€1 700 000
+458,Leandro Bacuna,Half-Back,23,34,Igdir FK,Turkish 1. League,€250 000
+459,Tyrese Noslin,Half-Back,23,23,Telstar,Dutch Eredivisie,€750 000
+460,Tahith Chong,Half-Back,23,26,Sheffield United,English Championship,€3 500 000
+461,Jearl Margaritha,Attacker,23,26,SK Beveren,Belgian First Division B,€1 000 000
+462,Jeremy Antonisse,Attacker,23,24,Kifisia FC,Greek Super League 1,€800 000
+463,Kenji Gorré,Attacker,23,31,Maccabi Haifa,Israeli Ligat ha'Al,€600 000
+464,Sontje Hansen,Attacker,23,24,Middlesbrough,English Championship,€3 500 000
+465,Ar'jany Martha,Attacker,23,22,Rotherham United,English League One,€700 000
+466,Brandley Kuwas,Attacker,23,33,FC Volendam,Dutch Eredivisie,€250 000
+467,Gervane Kastaneer,Attacker,23,30,Terengganu,Malaysian Liga Super,€225 000
+468,Jürgen Locadia,Attacker,23,32,Miami FC,American USL Championship,€200 000
+469,Bart Verbruggen,Goalkeeper,26,23,Brighton & Hove Albion,English Premier League,€40 000 000
+470,Robin Roefs,Goalkeeper,26,23,Sunderland,English Premier League,€28 000 000
+471,Mark Flekken,Goalkeeper,26,33,Bayer Leverkusen,Germany Bundesliga,€6 000 000
+472,Micky van de Ven,Defender,26,25,Tottenham Hotspur,English Premier League,€50 000 000
+473,Jan Paul van Hecke,Defender,26,26,Tottenham Hotspur,English Premier League,€45 000 000
+474,Virgil van Dijk,Defender,26,34,Liverpool,English Premier League,€15 000 000
+475,Nathan Aké,Defender,26,31,Manchester City,English Premier League,€12 000 000
+476,Jorrel Hato,Defender,26,20,Chelsea,English Premier League,€40 000 000
+477,Mats Wieffer,Defender,26,26,Brighton & Hove Albion,English Premier League,€25 000 000
+478,Denzel Dumfries,Defender,26,30,Inter,Italian Serie A,€25 000 000
+479,Lutsharel Geertruida,Defender,26,25,Sunderland,English Premier League,€20 000 000
+480,Ryan Gravenberch,Half-Back,26,24,Liverpool,English Premier League,€80 000 000
+481,Teun Koopmeiners,Half-Back,26,28,Juventus,Italian Serie A,€14 000 000
+482,Marten de Roon,Half-Back,26,35,Atalanta,Italian Serie A,€3 200 000
+483,Tijjani Reijnders,Half-Back,26,27,Manchester City,English Premier League,€50 000 000
+484,Frenkie de Jong,Half-Back,26,29,Barcelona,Spanish LaLiga,€35 000 000
+485,Quinten Timber,Half-Back,26,25,Marseille,French Ligue 1,€25 000 000
+486,Justin Kluivert,Half-Back,26,27,AFC Bournemouth,English Premier League,€25 000 000
+487,Guus Til,Half-Back,26,28,PSV Eindhoven,Dutch Eredivisie,€15 000 000
+488,Cody Gakpo,Attacker,26,27,Liverpool,English Premier League,€60 000 000
+489,Crysencio Summerville,Attacker,26,24,West Ham United,English Premier League,€35 000 000
+490,Noa Lang,Attacker,26,27,Galatasaray,Turkish Super League,€22 000 000
+491,Donyell Malen,Attacker,26,27,Roma,Italian Serie A,€45 000 000
+492,Brian Brobbey,Attacker,26,24,Sunderland,English Premier League,€30 000 000
+493,Memphis Depay,Attacker,26,32,Corinthians,Brazilian Serie A,€7 000 000
+494,Wout Weghorst,Attacker,26,33,Ajax,Dutch Eredivisie,€2 000 000
+495,Zion Suzuki,Goalkeeper,48,23,Parma,Italian Serie A,€20 000 000
+496,Keisuke Osako,Goalkeeper,48,26,Sanfrecce Hiroshima,J.League Japan,€2 000 000
+497,Tomoki Hayakawa,Goalkeeper,48,27,Kashima Antlers,J.League Japan,€2 000 000
+498,Hiroki Ito,Defender,48,27,Bayern München,Germany Bundesliga,€18 000 000
+499,Tsuyoshi Watanabe,Defender,48,29,Feyenoord,Dutch Eredivisie,€10 000 000
+500,Ko Itakura,Defender,48,29,Ajax,Dutch Eredivisie,€8 000 000
+501,Ayumu Seko,Defender,48,26,Le Havre,French Ligue 1,€5 000 000
+502,Takehiro Tomiyasu,Defender,48,27,Ajax,Dutch Eredivisie,€5 000 000
+503,Junnosuke Suzuki,Defender,48,22,FC København,Danish Super League,€3 500 000
+504,Shogo Taniguchi,Defender,48,34,St.Truiden,Belgian Jupiler Pro League,€750 000
+505,Yuto Nagatomo,Defender,48,39,FC Tokyo,J.League Japan,€100 000
+506,Yukinari Sugawara,Defender,48,25,Werder Bremen,Germany Bundesliga,€5 500 000
+507,Kaishu Sano,Half-Back,48,25,Mainz 05,Germany Bundesliga,€40 000 000
+508,Ao Tanaka,Half-Back,48,27,Leeds United,English Premier League,€13 000 000
+509,Daichi Kamada,Half-Back,48,29,Crystal Palace,English Premier League,€10 000 000
+510,Daizen Maeda,Attacker,48,28,Celtic,Scotland Premiership,€13 000 000
+511,Keito Nakamura,Attacker,48,25,Reims,French Ligue 2,€10 000 000
+512,Takefusa Kubo,Attacker,48,25,Real Sociedad,Spanish LaLiga,€20 000 000
+513,Ritsu Doan,Attacker,48,28,Eintracht Frankfurt,Germany Bundesliga,€17 000 000
+514,Junya Ito,Attacker,48,33,Genk,Belgian Jupiler Pro League,€3 000 000
+515,Yuito Suzuki,Attacker,48,24,Freiburg,Germany Bundesliga,€24 000 000
+516,Ayase Ueda,Attacker,48,27,Feyenoord,Dutch Eredivisie,€17 000 000
+517,Keisuke Goto,Attacker,48,21,Freiburg,Germany Bundesliga,€10 000 000
+518,Kento Shiogai,Attacker,48,21,Wolfsburg,Germany Bundesliga,€8 000 000
+519,Shuto Machino,Attacker,48,26,Borussia Mönchengladbach,Germany Bundesliga,€4 000 000
+520,Koki Ogawa,Attacker,48,28,NEC Nijmegen,Dutch Eredivisie,€2 000 000
+521,Yahia Fofana,Goalkeeper,22,25,Rizespor,Turkish Super League,€5 000 000
+522,Alban Lafont,Goalkeeper,22,27,Panathinaikos,Greek Super League 1,€3 000 000
+523,Mohamed Koné,Goalkeeper,22,24,Sporting Charleroi,Belgian Jupiler Pro League,€2 000 000
+524,Ousmane Diomande,Defender,22,22,Sporting CP,Liga Portugal,€42 000 000
+525,Evan Ndicka,Defender,22,26,Roma,Italian Serie A,€35 000 000
+526,Emmanuel Agbadou,Defender,22,29,Beşiktaş,Turkish Super League,€16 000 000
+527,Odilon Kossounou,Defender,22,25,Atalanta,Italian Serie A,€15 000 000
+528,Christopher Operi,Defender,22,29,Başakşehir,Turkish Super League,€4 000 000
+529,Gislain Konan,Defender,22,30,Gil Vicente,Liga Portugal,€3 000 000
+530,Wilfried Singo,Defender,22,25,Galatasaray,Turkish Super League,€23 000 000
+531,Guéla Doué,Defender,22,23,Strasbourg,French Ligue 1,€20 000 000
+532,Ibrahim Sangaré,Half-Back,22,28,Nottingham Forest,English Premier League,€20 000 000
+533,Jean Michaël Seri,Half-Back,22,34,Maribor,Slovenian Prva Liga,€100 000
+534,Christ Inao Oulaï,Half-Back,22,20,Trabzonspor,Turkish Super League,€23 000 000
+535,Franck Kessié,Half-Back,22,29,Al Ahli,Saudi Pro League,€12 000 000
+536,Seko Fofana,Half-Back,22,31,FC Porto,Liga Portugal,€8 000 000
+537,Yan Diomande,Attacker,22,19,RB Leipzig,Germany Bundesliga,€90 000 000
+538,Bazoumana Touré,Attacker,22,20,Hoffenheim,Germany Bundesliga,€40 000 000
+539,Simon Adingra,Attacker,22,24,Monaco,French Ligue 1,€22 000 000
+540,Parfait Guiagon,Attacker,22,25,Sporting Charleroi,Belgian Jupiler Pro League,€5 000 000
+541,Amad Diallo,Attacker,22,23,Manchester United,English Premier League,€45 000 000
+542,Evann Guessand,Attacker,22,24,Crystal Palace,English Premier League,€25 000 000
+543,Nicolas Pépé,Attacker,22,31,Villarreal,Spanish LaLiga,€6 000 000
+544,Ange-Yoan Bonny,Attacker,22,22,Inter,Italian Serie A,€35 000 000
+545,Elye Wahi,Attacker,22,23,Nice,French Ligue 1,€18 000 000
+546,Oumar Diakité,Attacker,22,22,Cercle Brugge,Belgian Jupiler Pro League,€5 000 000
+547,Gonzalo Valle,Goalkeeper,12,30,LDU de Quito,Ecuadorian Serie A,€1 800 000
+548,Moisés Ramírez,Goalkeeper,12,25,Kifisia FC,Greek Super League 1,€800 000
+549,Hernán Galíndez,Goalkeeper,12,39,Huracan,Argentinian Liga Profesional,€300 000
+550,Willian Pacho,Defender,12,24,Paris Saint-Germain,French Ligue 1,€80 000 000
+551,Piero Hincapié,Defender,12,24,Arsenal,English Premier League,€50 000 000
+552,Joel Ordóñez,Defender,12,22,Club Brugge,Belgian Jupiler Pro League,€33 000 000
+553,Jackson Porozo,Defender,12,25,Tijuana,Mexican League MX Apertura,€2 500 000
+554,Félix Torres,Defender,12,29,Internacional,Brazilian Serie A,€1 000 000
+555,Pervis Estupiñán,Defender,12,28,Milan,Italian Serie A,€12 000 000
+556,Yaimar Medina,Defender,12,21,Genk,Belgian Jupiler Pro League,€4 000 000
+557,Angelo Preciado,Defender,12,28,Atletico MG,Brazilian Serie A,€3 500 000
+558,Moisés Caicedo,Half-Back,12,24,Chelsea,English Premier League,€100 000 000
+559,Jordy Alcívar,Half-Back,12,26,Independiente del Valle,Ecuadorian Serie A,€2 000 000
+560,Denil Castillo,Half-Back,12,22,FC Midtjylland,Danish Super League,€7 000 000
+561,Alan Franco,Half-Back,12,27,Atletico MG,Brazilian Serie A,€4 500 000
+562,Kendry Páez,Half-Back,12,19,River Plate,Argentinian Liga Profesional,€8 000 000
+563,Pedro Vite,Half-Back,12,24,Pumas,Mexican League MX Apertura,€6 000 000
+564,Nilson Angulo,Attacker,12,23,Sunderland,English Premier League,€17 000 000
+565,Gonzalo Plata,Attacker,12,25,Flamengo,Brazilian Serie A,€9 000 000
+566,Alan Minda,Attacker,12,23,Atletico MG,Brazilian Serie A,€3 000 000
+567,Anthony Valencia,Attacker,12,22,Pachuca,Mexican League MX Apertura,€1 800 000
+568,John Yeboah,Attacker,12,26,Venezia,Italian Serie B,€5 500 000
+569,Jeremy Arévalo,Attacker,12,21,VfB Stuttgart II,Germany Bundesliga,€7 000 000
+570,Kevin Rodríguez,Attacker,12,26,Union St.Gilloise,Belgian Jupiler Pro League,€6 000 000
+571,Jordy Caicedo,Attacker,12,28,Huracan,Argentinian Liga Profesional,€2 000 000
+572,Enner Valencia,Attacker,12,36,Pachuca,Mexican League MX Apertura,€1 000 000
+573,Viktor Johansson,Goalkeeper,46,27,Stoke City,English Championship,€12 000 000
+574,Jacob Widell Zetterström,Goalkeeper,46,27,Derby County,English Championship,€2 500 000
+575,Kristoffer Nordfeldt,Goalkeeper,46,37,AIK,Swedish Allsvenskan,€175 000
+576,Isak Hien,Defender,46,27,Atalanta,Italian Serie A,€22 000 000
+577,Gustaf Lagerbielke,Defender,46,26,Braga,Liga Portugal,€10 000 000
+578,Victor Lindelöf,Defender,46,31,Aston Villa,English Premier League,€5 000 000
+579,Hjalmar Ekdal,Defender,46,27,Burnley,English Premier League,€5 000 000
+580,Eric Smith,Defender,46,29,St. Pauli,Germany Bundesliga,€5 000 000
+581,Carl Starfelt,Defender,46,31,Celta Vigo,Spanish LaLiga,€4 500 000
+582,Daniel Svensson,Defender,46,24,Borussia Dortmund,Germany Bundesliga,€22 000 000
+583,Gabriel Gudmundsson,Defender,46,27,Leeds United,English Premier League,€20 000 000
+584,Ken Sema,Defender,46,32,Pafos FC,Cyprus League,€800 000
+585,Jesper Karlström,Half-Back,46,31,Udinese,Italian Serie A,€4 000 000
+586,Lucas Bergvall,Half-Back,46,20,Tottenham Hotspur,English Premier League,€35 000 000
+587,Yasin Ayari,Half-Back,46,22,Brighton & Hove Albion,English Premier League,€35 000 000
+588,Mattias Svanberg,Half-Back,46,27,Wolfsburg,Germany Bundesliga,€8 000 000
+589,Besfort Zeneli,Half-Back,46,23,Union St.Gilloise,Belgian Jupiler Pro League,€6 000 000
+590,Herman Johansson,Half-Back,46,28,FC Dallas,American MLS,€1 800 000
+591,Elliot Stroud,Half-Back,46,24,Mjällby,Swedish Allsvenskan,€5 000 000
+592,Benjamin Nygren,Half-Back,46,24,Celtic,Scotland Premiership,€14 000 000
+593,Taha Ali,Attacker,46,27,Malmö FF,Swedish Allsvenskan,€1 500 000
+594,Anthony Elanga,Attacker,46,24,Newcastle United,English Premier League,€32 000 000
+595,Alexander Bernhardsson,Attacker,46,27,Holstein Kiel,Germany 2.Bundesliga,€3 000 000
+596,Alexander Isak,Attacker,46,26,Liverpool,English Premier League,€85 000 000
+597,Viktor Gyökeres,Attacker,46,28,Arsenal,English Premier League,€65 000 000
+598,Gustaf Nilsson,Attacker,46,29,Club Brugge,Belgian Jupiler Pro League,€1 800 000
+599,Abdelmouhib Chamakh,Goalkeeper,38,24,Club Africain,Tunisian Ligue 1,€800 000
+600,Aymen Dahmen,Goalkeeper,38,29,CS Sfaxien,Tunisian Ligue 1,€800 000
+601,Sabri Ben Hessen,Goalkeeper,38,30,Etoile du Sahel,Tunisian Ligue 1,€550 000
+602,Montassar Talbi,Defender,38,28,Lorient,French Ligue 1,€8 000 000
+603,Adem Arous,Defender,38,21,Kasımpaşa,Turkish Super League,€4 000 000
+604,Dylan Bronn,Defender,38,31,Servette,Swiss Super League,€600 000
+605,Raed Chikhaoui,Defender,38,22,US Monastir,Tunisian Ligue 1,€600 000
+606,Omar Rekik,Defender,38,24,Maribor,Slovenian Prva Liga,€500 000
+607,Ali Abdi,Defender,38,32,Nice,French Ligue 1,€2 000 000
+608,Mohamed Amine Ben Hamida,Defender,38,30,Espérance,Tunisian Ligue 1,€1 000 000
+609,Yan Valery,Defender,38,27,Young Boys,Swiss Super League,€1 500 000
+610,Moutaz Neffati,Defender,38,21,IFK Norrköping,Swedish Allsvenskan,€1 200 000
+611,Ellyes Skhiri,Half-Back,38,31,Eintracht Frankfurt,Germany Bundesliga,€5 000 000
+612,Rani Khedira,Half-Back,38,32,Union Berlin,Germany Bundesliga,€2 000 000
+613,Mohamed Belhadj Mahmoud,Half-Back,38,26,Lugano,Swiss Super League,€2 000 000
+614,Hannibal,Half-Back,38,23,Burnley,English Premier League,€15 000 000
+615,Anis Ben Slimane,Half-Back,38,25,Norwich City,English Championship,€4 000 000
+616,Ismaël Gharbi,Attacker,38,22,Augsburg,Germany Bundesliga,€5 000 000
+617,Sebastian Tounekti,Attacker,38,23,Celtic,Scotland Premiership,€5 000 000
+618,Elias Achouri,Attacker,38,27,FC København,Danish Super League,€3 000 000
+619,Elias Saad,Attacker,38,26,Hannover 96,Germany 2.Bundesliga,€2 000 000
+620,Mortadha Ben Ouanes,Attacker,38,31,Kasımpaşa,Turkish Super League,€1 500 000
+621,Khalil Ayari,Attacker,38,21,US Monastir,Tunisian Ligue 1,€1 000 000
+622,Firas Chaouat,Attacker,38,30,Club Africain,Tunisian Ligue 1,€1 200 000
+623,Hazem Mastouri,Attacker,38,29,Dynamo Makhachkala,Russian Premier League,€900 000
+624,Rayan Elloumi,Attacker,38,18,Vancouver Whitecaps,American MLS,€800 000
+625,Joan García,Goalkeeper,16,25,Barcelona,Spanish LaLiga,€45 000 000
+626,David Raya,Goalkeeper,16,30,Arsenal,English Premier League,€30 000 000
+627,Unai Simón,Goalkeeper,16,29,Athletic Club,Spanish LaLiga,€22 000 000
+628,Pau Cubarsí,Defender,16,19,Barcelona,Spanish LaLiga,€80 000 000
+629,Eric Garcia,Defender,16,25,Barcelona,Spanish LaLiga,€40 000 000
+630,Marc Pubill,Defender,16,23,Atletico Madrid,Spanish LaLiga,€35 000 000
+631,Aymeric Laporte,Defender,16,32,Athletic Club,Spanish LaLiga,€8 000 000
+632,Marc Cucurella,Defender,16,27,Real Madrid,Spanish LaLiga,€50 000 000
+633,Alejandro Grimaldo,Defender,16,30,Bayer Leverkusen,Germany Bundesliga,€20 000 000
+634,Pedro Porro,Defender,16,26,Tottenham Hotspur,English Premier League,€35 000 000
+635,Marcos Llorente,Defender,16,31,Atletico Madrid,Spanish LaLiga,€20 000 000
+636,Martín Zubimendi,Half-Back,16,27,Arsenal,English Premier League,€75 000 000
+637,Rodri,Half-Back,16,30,Manchester City,English Premier League,€50 000 000
+638,Pedri,Half-Back,16,23,Barcelona,Spanish LaLiga,€150 000
+639,Fabián Ruiz,Half-Back,16,30,Paris Saint-Germain,French Ligue 1,€30 000 000
+640,Gavi,Half-Back,16,21,Barcelona,Spanish LaLiga,€30 000 000
+641,Mikel Merino,Half-Back,16,30,Arsenal,English Premier League,€25 000 000
+642,Dani Olmo,Half-Back,16,28,Barcelona,Spanish LaLiga,€60 000 000
+643,Álex Baena,Attacker,16,24,Atletico Madrid,Spanish LaLiga,€40 000 000
+644,Nico Williams,Attacker,16,23,Athletic Club,Spanish LaLiga,€40 000 000
+645,Víctor Muñoz,Attacker,16,22,Liverpool,English Premier League,€30 000 000
+646,Lamine Yamal,Attacker,16,18,Barcelona,Spanish LaLiga,€200 000
+647,Yéremy Pino,Attacker,16,23,Crystal Palace,English Premier League,€30 000 000
+648,Ferran Torres,Attacker,16,26,Barcelona,Spanish LaLiga,€50 000 000
+649,Mikel Oyarzabal,Attacker,16,29,Real Sociedad,Spanish LaLiga,€25 000 000
+650,Borja Iglesias,Attacker,16,33,Celta Vigo,Spanish LaLiga,€2 800 000
+651,CJ dos Santos,Goalkeeper,18,25,San Diego FC,American MLS,€1 000 000
+652,Márcio Rosa,Goalkeeper,18,29,Montana,Bulgarian First Professional League,€350 000
+653,Vozinha,Goalkeeper,18,40,Chaves,Liga Portugal 2,€50 000 000
+654,Logan Costa,Defender,18,25,Villarreal,Spanish LaLiga,€15 000 000
+655,Diney Borges,Defender,18,31,Al Bataeh,UAE Pro League,€900 000
+656,Kelvin Pires,Defender,18,26,SJK,Finnish Veikkausliiga,€400 000
+657,Roberto Lopes,Defender,18,34,Shamrock Rovers,Irish Premier Division,€250 000
+658,Stopira,Defender,18,38,Torreense,Liga Portugal 2,€50 000
+659,Sidny Lopes Cabral,Defender,18,23,Trabzonspor,Turkish Super League,€4 000 000
+660,Wagner Pina,Defender,18,23,Trabzonspor,Turkish Super League,€11 000 000
+661,Steven Moreira,Defender,18,31,Columbus Crew,American MLS,€1 500 000
+662,Kevin Pina,Half-Back,18,29,FC Krasnodar,Russian Premier League,€5 000 000
+663,Laros Duarte,Half-Back,18,29,Puskas FC Academy,Hungarian Nemzeti Bajnokság I,€1 000 000
+664,João Paulo,Half-Back,18,28,FCSB,Romanian Liga I,€900 000
+665,Deroy Duarte,Half-Back,18,26,Ludogorets Razgrad,Hungarian Nemzeti Bajnokság I,€1 800 000
+666,Jamiro Monteiro,Half-Back,18,32,PEC Zwolle,Dutch Eredivisie,€650 000
+667,Yannick Semedo,Half-Back,18,30,Farense,Liga Portugal 2,€250 000
+668,Hélio Varela,Attacker,18,24,Maccabi Tel Aviv,Israeli Ligat ha'Al,€2 500 000
+669,Jovane Cabral,Attacker,18,28,Estrela da Amadora,Liga Portugal,€1 000 000
+670,Willy Semedo,Attacker,18,32,Omonia Nicosia,Cyprus League,€1 000 000
+671,Ryan Mendes,Attacker,18,36,Igdir FK,Turkish 1. League,€200 000
+672,Telmo Arcanjo,Attacker,18,25,Vitoria de Guimaraes,Liga Portugal,€3 000 000
+673,Garry Rodrigues,Attacker,18,35,Apollon Limassol,Cyprus League,€300 000
+674,Gilson Benchimol,Attacker,18,24,Akron Togliatti,Russian Premier League,€1 200 000
+675,Dailon Livramento,Attacker,18,25,Casa Pia AC,Liga Portugal,€800 000
+676,Nuno da Costa,Attacker,18,35,Başakşehir,Turkish Super League,€400 000
+677,Senne Lammens,Goalkeeper,6,23,Manchester United,English Premier League,€35 000 000
+678,Mike Penders,Goalkeeper,6,20,Strasbourg,French Ligue 1,€25 000 000
+679,Thibaut Courtois,Goalkeeper,6,34,Real Madrid,Spanish LaLiga,€15 000 000
+680,Zeno Debast,Defender,6,22,Sporting CP,Liga Portugal,€28 000 000
+681,Nathan Ngoy,Defender,6,23,Lille,French Ligue 1,€25 000 000
+682,Koni De Winter,Defender,6,24,Milan,Italian Serie A,€23 000 000
+683,Arthur Theate,Defender,6,26,Eintracht Frankfurt,Germany Bundesliga,€17 000 000
+684,Brandon Mechele,Defender,6,33,Club Brugge,Belgian Jupiler Pro League,€2 800 000
+685,Maxim De Cuyper,Defender,6,25,Brighton & Hove Albion,English Premier League,€22 000 000
+686,Joaquin Seys,Defender,6,21,Club Brugge,Belgian Jupiler Pro League,€20 000 000
+687,Timothy Castagne,Defender,6,30,Fulham,English Premier League,€8 000 000
+688,Thomas Meunier,Defender,6,34,Lille,French Ligue 1,€1 500 000
+689,Amadou Onana,Half-Back,6,24,Aston Villa,English Premier League,€45 000 000
+690,Nicolas Raskin,Half-Back,6,25,Rangers,Scotland Premiership,€12 000 000
+691,Axel Witsel,Half-Back,6,37,Girona,Spanish LaLiga,€1 200 000
+692,Youri Tielemans,Half-Back,6,29,Aston Villa,English Premier League,€30 000 000
+693,Alexis Saelemaekers,Half-Back,6,26,Milan,Italian Serie A,€20 000 000
+694,Diego Moreira,Half-Back,6,21,Strasbourg,French Ligue 1,€25 000 000
+695,Charles De Ketelaere,Half-Back,6,25,Atalanta,Italian Serie A,€30 000 000
+696,Kevin De Bruyne,Half-Back,6,34,Napoli,Italian Serie A,€8 000 000
+697,Hans Vanaken,Half-Back,6,33,Club Brugge,Belgian Jupiler Pro League,€5 000 000
+698,Jérémy Doku,Attacker,6,24,Manchester City,English Premier League,€75 000 000
+699,Leandro Trossard,Attacker,6,31,Arsenal,English Premier League,€18 000 000
+700,Dodi Lukébakio,Attacker,6,28,Benfica,Liga Portugal,€15 000 000
+701,Matias Fernandez-Pardo,Attacker,6,21,Lille,French Ligue 1,€35 000 000
+702,Romelu Lukaku,Attacker,6,33,Napoli,Italian Serie A,€6 000 000
+703,Oufa Shobeir,Goalkeeper,13,26,Al Ahly SC,Egyptian Premier League,€1 200 000
+704,Mohamed Alaa,Goalkeeper,13,26,El Gouna FC,Egyptian Premier League,€1 200 000
+705,Mohamed El Shenawy,Goalkeeper,13,37,Al Ahly SC,Egyptian Premier League,€500 000
+706,El Mahdi Soliman,Goalkeeper,13,39,Zamalek SC,Egyptian Premier League,€150 000
+707,Mohamed Abdelmonem,Defender,13,27,Nice,French Ligue 1,€2 500 000
+708,Hossam Abdelmaguid,Defender,13,25,Zamalek SC,Egyptian Premier League,€2 000 000
+709,Ramy Rabia,Defender,13,33,Al-Ain,UAE Pro League,€600 000
+710,Yasser Ibrahim,Defender,13,33,Al Ahly SC,Egyptian Premier League,€275 000
+711,Ahmed Fatouh,Defender,13,28,Zamalek SC,Egyptian Premier League,€1 000 000
+712,Karim Hafez,Defender,13,30,Pyramids FC,Egyptian Premier League,€700 000
+713,Mohamed Hany,Defender,13,30,Al Ahly SC,Egyptian Premier League,€1 500 000
+714,Tarek Alaa,Defender,13,24,ZED FC,Egyptian Premier League,€250 000
+715,Marwan Ateya,Half-Back,13,27,Al Ahly SC,Egyptian Premier League,€4 000 000
+716,Mohanad Lasheen,Half-Back,13,30,Pyramids FC,Egyptian Premier League,€3 000 000
+717,Hamdy Fathy,Half-Back,13,31,Al-Wakrah,Egyptian Premier League,€1 800 000
+718,Nabil Dunga,Half-Back,13,30,Al Najma,Egyptian Premier League,€1 000 000
+719,Emam Ashour,Half-Back,13,28,Al Ahly SC,Egyptian Premier League,€4 000 000
+720,Mahmoud Saber,Half-Back,13,24,ZED FC,Egyptian Premier League,€1 500 000
+721,Trezeguet,Attacker,13,31,Al Ahly SC,Egyptian Premier League,€4 500 000
+722,Ibrahim Adel,Attacker,13,25,Nordsjælland,Danish Super League,€2 500 000
+723,Mostafa Ziko,Attacker,13,29,Pyramids FC,Egyptian Premier League,€1 800 000
+724,Mohamed Salah,Attacker,13,34,Liverpool,English Premier League,€22 000 000
+725,Haissem Hassan,Attacker,13,24,Real Oviedo,Spanish LaLiga,€3 500 000
+726,Zizo,Attacker,13,30,Al Ahly SC,Egyptian Premier League,€3 500 000
+727,Omar Marmoush,Attacker,13,27,Manchester City,English Premier League,€50 000 000
+728,Hamza Abdelkarim,Attacker,13,18,Barcelona,Spanish LaLiga,€1 500 000
+729,Nawaf Al-Aqidi,Goalkeeper,35,26,Al Nassr FC,Saudi Pro League,€650 000
+730,Mohammed Al-Owais,Goalkeeper,35,34,Al-Ula FC,Saudi Pro League,€275 000
+731,Ahmed Al-Kassar,Goalkeeper,35,35,Al Qadsiah,Saudi Pro League,€175 000
+732,Hassan Tambakti,Defender,35,27,Al Hilal,Saudi Pro League,€1 800 000
+733,Abdulelah Al-Amri,Defender,35,29,Al Nassr FC,Saudi Pro League,€1 400 000
+734,Jehad Thakri,Defender,35,24,Al Qadsiah,Saudi Pro League,€1 200 000
+735,Ali Lajami,Defender,35,30,Al Hilal,Saudi Pro League,€750 000
+736,Moteb Al-Harbi,Defender,35,26,Al Hilal,Saudi Pro League,€1 400 000
+737,Ayman Yahya,Defender,35,25,Al Nassr FC,Saudi Pro League,€1 200 000
+738,Hassan Kadesh,Defender,35,33,Al Ittihad,Saudi Pro League,€275 000
+739,Saud Abdulhamid,Defender,35,26,Lens,French Ligue 1,€9 000 000
+740,Mohammed Abu Al-Shamat,Defender,35,23,Al Qadsiah,Saudi Pro League,€1 800 000
+741,Ali Majrashi,Defender,35,26,Al Ahli,Saudi Pro League,€1 400 000
+742,Nawaf Boushal,Defender,35,26,Al Nassr FC,Saudi Pro League,€1 400 000
+743,Ziyad Al-Johani,Half-Back,35,24,Al Ahli,Saudi Pro League,€800 000
+744,Abdullah Al-Khaibari,Half-Back,35,29,Al Nassr FC,Saudi Pro League,€750 000
+745,Musab Al-Juwayr,Half-Back,35,23,Al Qadsiah,Saudi Pro League,€6 000 000
+746,Nasser Al-Dawsari,Half-Back,35,27,Al Hilal,Saudi Pro League,€900 000
+747,Mohamed Kanno,Half-Back,35,31,Al Hilal,Saudi Pro League,€800 000
+748,Alaa Hejji,Half-Back,35,30,Neom SC,Saudi Pro League,€300 000
+749,Khalid Al-Ghannam,Attacker,35,25,Al-Ettifaq,Saudi Pro League,€2 500 000
+750,Salem Al-Dawsari,Attacker,35,34,Al Hilal,Saudi Pro League,€1 200 000
+751,Sultan Mandash,Attacker,35,31,Al Hilal,Saudi Pro League,€350 000
+752,Firas Al-Buraikan,Attacker,35,26,Al Ahli,Saudi Pro League,€3 500 000
+753,Saleh Al-Shehri,Attacker,35,32,Al Ittihad,Saudi Pro League,€500 000
+754,Abdullah Al-Hamdan,Attacker,35,26,Al Nassr FC,Saudi Pro League,€350 000
+755,Santiago Mele,Goalkeeper,41,28,Monterrey,Mexican League MX Apertura,€2 000 000
+756,Sergio Rochet,Goalkeeper,41,33,Internacional,Brazilian Serie A,€1 800 000
+757,Fernando Muslera,Goalkeeper,41,40,Estudiantes,Argentinian Liga Profesional,€700 000
+758,Ronald Araujo,Defender,41,27,Barcelona,Spanish LaLiga,€20 000 000
+759,Santiago Bueno,Defender,41,27,Wolverhampton Wanderers,English Premier League,€10 000 000
+760,José María Giménez,Defender,41,31,Atletico Madrid,Spanish LaLiga,€9 000 000
+761,Sebastián Cáceres,Defender,41,26,CF America,Mexican League MX Apertura,€4 500 000
+762,Maxi Araújo,Defender,41,26,Sporting CP,Liga Portugal,€35 000 000
+763,Mathías Olivera,Defender,41,28,Napoli,Italian Serie A,€15 000 000
+764,Joaquín Piquerez,Defender,41,27,Palmeiras,Brazilian Serie A,€12 000 000
+765,Juan Manuel Sanabria,Defender,41,26,Real Salt Lake,American MLS,€4 000 000
+766,Matías Viña,Defender,41,28,River Plate,Argentinian Liga Profesional,€3 500 000
+767,Guillermo Varela,Defender,41,33,Flamengo,Brazilian Serie A,€1 000 000
+768,Manuel Ugarte,Half-Back,41,25,Manchester United,English Premier League,€25 000 000
+769,Rodrigo Bentancur,Half-Back,41,28,Tottenham Hotspur,English Premier League,€20 000 000
+770,Emiliano Martínez,Half-Back,41,26,Palmeiras,Brazilian Serie A,€6 500 000
+771,Federico Valverde,Half-Back,41,27,Real Madrid,Spanish LaLiga,€90 000 000
+772,Nicolás de la Cruz,Half-Back,41,29,Flamengo,Brazilian Serie A,€8 000 000
+773,Rodrigo Zalazar,Half-Back,41,26,Braga,Liga Portugal,€30 000 000
+774,Giorgian de Arrascaeta,Half-Back,41,32,Flamengo,Brazilian Serie A,€14 000 000
+775,Brian Rodríguez,Attacker,41,26,CF America,Mexican League MX Apertura,€8 000 000
+776,Agustín Canobbio,Attacker,41,27,Fluminense,Brazilian Serie A,€8 000 000
+777,Facundo Pellistri,Attacker,41,24,Panathinaikos,Greek Super League 1,€5 000 000
+778,Darwin Núñez,Attacker,41,27,Al Hilal,Saudi Pro League,€20 000 000
+779,Federico Viñas,Attacker,41,27,Real Oviedo,Spanish LaLiga,€4 000 000
+780,Rodrigo Aguirre,Attacker,41,31,Tigres,Mexican League MX Apertura,€2 300 000
+781,Payam Niazmand,Goalkeeper,15,31,Persepolis,Iranian Persian Gulf,€700 000
+782,Alireza Beiranvand,Goalkeeper,15,33,Tractor,Iranian Persian Gulf,€650 000
+783,Seyed Hossein Hosseini,Goalkeeper,15,33,Sepahan,Iranian Persian Gulf,€500 000
+784,Hossein Kanaani,Defender,15,32,Persepolis,Iranian Persian Gulf,€1 600 000
+785,Danial Eiri,Defender,15,22,,,€1 000 000
+786,Ali Nemati,Defender,15,30,Foolad Khuzestan,Iranian Persian Gulf,€550 000
+787,Shoja Khalilzadeh,Defender,15,37,Tractor,Iranian Persian Gulf,€100 000
+788,Milad Mohammadi,Defender,15,32,Persepolis,Iranian Persian Gulf,€900 000
+789,Ehsan Hajsafi,Defender,15,36,Sepahan,Iranian Persian Gulf,€250 000
+790,Arya Yousefi,Defender,15,24,Sepahan,Iranian Persian Gulf,€1 500 000
+791,Saleh Hardani,Defender,15,27,Esteghlal,Iranian Persian Gulf,€800 000
+792,Ramin Rezaeian,Defender,15,36,Esteghlal,Iranian Persian Gulf,€250 000
+793,Saeed Ezatolahi,Half-Back,15,29,Shabab Al-Ahli Dubai FC,UAE Pro League,€1 800 000
+794,Mohammad Ghorbani,Half-Back,15,25,Al-Wahda,UAE Pro League,€1 200 000
+795,Roozbeh Cheshmi,Half-Back,15,32,Esteghlal,Iranian Persian Gulf,€450 000
+796,Amirmohammad Razzaghinia,Half-Back,15,20,Esteghlal,Iranian Persian Gulf,€1 200 000
+797,Saman Ghoddos,Half-Back,15,32,Al Ittihad Kalba,UAE Pro League,€1 200 000
+798,Mehdi Ghayedi,Attacker,15,27,Al-Nasr SC,UAE Pro League,€4 500 000
+799,Mohammad Mohebi,Attacker,15,27,FC Rostov,Russian Premier League,€2 500 000
+800,Mehdi Torabi,Attacker,15,31,Tractor,Iranian Persian Gulf,€1 200 000
+801,Alireza Jahanbakhsh,Attacker,15,32,FCV Dender EH,Belgian Jupiler Pro League,€500 000
+802,Amirhossein Hosseinzadeh,Attacker,15,25,Tractor,Iranian Persian Gulf,€2 200 000
+803,Mehdi Taremi,Attacker,15,33,Olympiacos,Greek Super League 1,€2 000 000
+804,Dennis Eckert Ayensa,Attacker,15,29,Standard Liege,Belgian Jupiler Pro League,€2 000 000
+805,Ali Alipour,Attacker,15,30,Persepolis,Iranian Persian Gulf,€1 700 000
+806,Shahriar Moghanlou,Attacker,15,31,Al Ittihad Kalba,UAE Pro League,€800 000
+807,Max Crocombe,Goalkeeper,28,32,Millwall,English Championship,€1 000 000
+808,Alex Paulsen,Goalkeeper,28,23,Lechia Gdańsk,Polish Ekstraklasa,€500 000
+809,Michael Woud,Goalkeeper,28,27,Auckland FC,New Zealand A-League,€400 000
+810,Tyler Bindon,Defender,28,21,Sheffield United,English Championship,€3 500 000
+811,Finn Surman,Defender,28,22,Portland Timbers,American MLS,€1 800 000
+812,Nando Pijnaker,Defender,28,27,Auckland FC,New Zealand A-League,€400 000
+813,Michael Boxall,Defender,28,37,Minnesota United,American MLS,€150 000
+814,Tommy Smith,Defender,28,36,Braintree Town,English National League,€50 000
+815,Liberato Cacace,Defender,28,25,Wrexham,English Championship,€2 500 000
+816,Ben Old,Defender,28,23,Saint-Etienne,French Ligue 2,€1 800 000
+817,Francis de Vries,Defender,28,31,Auckland FC,New Zealand A-League,€600 000
+818,Callan Elliot,Defender,28,26,Auckland FC,New Zealand A-League,€450 000
+819,Tim Payne,Defender,28,32,Wellington Phoenix,New Zealand A-League,€350 000
+820,Joe Bell,Half-Back,28,27,Viking,Norwegian Eliteserien,€3 500 000
+821,Ryan Thomas,Half-Back,28,31,PEC Zwolle,Dutch Eredivisie,€650 000
+822,Alex Rufer,Half-Back,28,30,Wellington Phoenix,New Zealand A-League,€600 000
+823,Marko Stamenić,Half-Back,28,24,Swansea City,English Championship,€3 000 000
+824,Lachlan Bayliss,Half-Back,28,23,Newcastle Jets,Australian A-League,€550 000
+825,Callum McCowatt,Half-Back,28,27,Silkeborg,Danish Super League,€2 500 000
+826,Sarpreet Singh,Half-Back,28,27,Wellington Phoenix,New Zealand A-League,€500 000
+827,Jesse Randall,Attacker,28,23,Auckland FC,New Zealand A-League,€900 000
+828,Elijah Just,Attacker,28,26,Motherwell,Scotland Premiership,€2 500 000
+829,Logan Rogerson,Attacker,28,28,Auckland FC,New Zealand A-League,€400 000
+830,Chris Wood,Attacker,28,34,Nottingham Forest,English Premier League,€5 000 000
+831,Ben Waine,Attacker,28,25,Port Vale,English League One,€400 000
+832,Kosta Barbarouses,Attacker,28,36,Western Sydney Wanderers FC,Australian A-League,€300 000
+833,Robin Risser,Goalkeeper,42,21,Lens,French Ligue 1,€30 000 000
+834,Mike Maignan,Goalkeeper,42,30,Milan,Italian Serie A,€20 000 000
+835,Brice Samba,Goalkeeper,42,32,Rennes,French Ligue 1,€7 000 000
+836,William Saliba,Defender,42,25,Arsenal,English Premier League,€100 000 000
+837,Dayot Upamecano,Defender,42,27,Bayern München,Germany Bundesliga,€70 000 000
+838,Maxence Lacroix,Defender,42,26,Crystal Palace,French Ligue 1,€50 000 000
+839,Ibrahima Konaté,Defender,42,27,Real Madrid,Spanish LaLiga,€45 000 000
+840,Theo Hernández,Defender,42,28,Al Hilal,Saudi Pro League,€20 000 000
+841,Lucas Hernández,Defender,42,30,Paris Saint-Germain,French Ligue 1,€18 000 000
+842,Lucas Digne,Defender,42,32,Aston Villa,English Premier League,€6 000 000
+843,Jules Koundé,Defender,42,27,Barcelona,Spanish LaLiga,€60 000 000
+844,Malo Gusto,Defender,42,23,Chelsea,English Premier League,€35 000 000
+845,Aurélien Tchouaméni,Half-Back,42,26,Real Madrid,Spanish LaLiga,€70 000 000
+846,N'Golo Kanté,Half-Back,42,35,Fenerbahçe,Turkish Super League,€4 000 000
+847,Warren Zaïre-Emery,Half-Back,42,20,Paris Saint-Germain,French Ligue 1,€80 000 000
+848,Manu Koné,Half-Back,42,25,Roma,Italian Serie A,€50 000 000
+849,Adrien Rabiot,Half-Back,42,31,Milan,Italian Serie A,€18 000 000
+850,Rayan Cherki,Half-Back,42,22,Manchester City,English Premier League,€90 000 000
+851,Bradley Barcola,Attacker,42,23,Paris Saint-Germain,French Ligue 1,€70 000 000
+852,Michael Olise,Attacker,42,24,Bayern München,Germany Bundesliga,€150 000 000
+853,Désiré Doué,Attacker,42,21,Paris Saint-Germain,French Ligue 1,€120 000 000
+854,Maghnes Akliouche,Attacker,42,24,Monaco,French Ligue 1,€50 000 000
+855,Kylian Mbappé,Attacker,42,27,Real Madrid,Spanish LaLiga,€180 000 000
+856,Ousmane Dembélé,Attacker,42,29,Paris Saint-Germain,French Ligue 1,€100 000 000
+857,Marcus Thuram,Attacker,42,28,Inter,Italian Serie A,€50 000 000
+858,Jean-Philippe Mateta,Attacker,42,28,Crystal Palace,French Ligue 1,€30 000 000
+859,Yehvann Diouf,Goalkeeper,36,26,Nice,French Ligue 1,€7 000 000
+860,Edouard Mendy,Goalkeeper,36,34,Al Ahli,Saudi Pro League,€4 000 000
+861,Mory Diaw,Goalkeeper,36,33,Le Havre,French Ligue 1,€900 000
+862,Mamadou Sarr,Defender,36,20,Chelsea,English Premier League,€22 000 000
+863,Moussa Niakhaté,Defender,36,30,Lyon,French Ligue 1,€15 000 000
+864,Antoine Mendy,Defender,36,22,Nice,French Ligue 1,€10 000 000
+865,Kalidou Koulibaly,Defender,36,35,Al Hilal,Saudi Pro League,€4 500 000
+866,Abdoulaye Seck,Defender,36,34,Maccabi Haifa,Israeli Ligat ha'Al,€400 000
+867,El Hadji Malick Diouf,Defender,36,21,West Ham United,English Premier League,€28 000 000
+868,Ismail Jakobs,Defender,36,26,Galatasaray,Turkish Super League,€8 000 000
+869,Idrissa Gueye,Half-Back,36,36,Everton,English Premier League,€500 000
+870,Lamine Camara,Half-Back,36,22,Monaco,French Ligue 1,€40 000 000
+871,Pape Gueye,Half-Back,36,27,Villarreal,Spanish LaLiga,€40 000 000
+872,Habib Diarra,Half-Back,36,22,Sunderland,English Premier League,€35 000 000
+873,Pape Matar Sarr,Half-Back,36,23,Tottenham Hotspur,English Premier League,€30 000 000
+874,Bara Sapoko Ndiaye,Half-Back,36,18,Everton,English Premier League,€4 000 000
+875,Pathé Ciss,Half-Back,36,32,Rayo Vallecano,Spanish LaLiga,€1 800 000
+876,Krépin Diatta,Half-Back,36,27,Monaco,French Ligue 1,€6 000 000
+877,Assane Diao,Attacker,36,20,Como,Italian Serie A,€30 000 000
+878,Sadio Mané,Attacker,36,34,Al Nassr FC,Saudi Pro League,€6 000 000
+879,Iliman Ndiaye,Attacker,36,26,Everton,English Premier League,€55 000 000
+880,Ismaïla Sarr,Attacker,36,28,Crystal Palace,English Premier League,€40 000 000
+881,Ibrahim Mbaye,Attacker,36,18,Paris Saint-Germain,French Ligue 1,€30 000 000
+882,Nicolas Jackson,Attacker,36,25,Bayern München,Germany Bundesliga,€40 000 000
+883,Bamba Dieng,Attacker,36,26,Lorient,French Ligue 1,€15 000 000
+884,Cherif Ndiaye,Attacker,36,30,Samsunspor,Turkish Super League,€5 000 000
+885,Ahmed Basil Fadhil,Goalkeeper,14,29,Al Shorta,Iraqi League Stars,€450 000
+886,Fahad Talib,Goalkeeper,14,31,Al-Talaba,Iraqi League Stars,€375 000
+887,Jalal Hassan,Goalkeeper,14,35,Al Zawraa,Iraqi League Stars,€250 000
+888,Akam Hashem,Defender,14,27,Al Zawraa,Iraqi League Stars,€700 000
+889,Zaid Tahseen,Defender,14,25,Pakhtakor Tashkent,Uzbekistan Superliga,€600 000
+890,Frans Putros,Defender,14,32,Persib Bandung,Indonesian Super League,€325 000
+891,Manaf Younis,Defender,14,29,Al Shorta,Iraqi League Stars,€300 000
+892,Rebin Sulaka,Defender,14,34,Port FC,Thai ASEAN Club Championship,€100 000
+893,Merchas Doski,Defender,14,26,Viktoria Plzen,Czech 1. Liga,€1 700 000
+894,Ahmed Maknzi,Defender,14,24,Al-Talaba,Iraqi League Stars,€450 000
+895,Hussein Ali,Defender,14,24,Pogoń Szczecin,Polish Ekstraklasa,€400 000
+896,Mustafa Saadoon,Defender,14,25,Al Shorta,Iraqi League Stars,€350 000
+897,Amir Al-Ammari,Half-Back,14,28,Cracovia,Polish Ekstraklasa,€1 000 000
+898,Zaid Ismail,Half-Back,14,24,Al-Talaba,Iraqi League Stars,€500 000
+899,Aimar Sher,Half-Back,14,23,Sarpsborg 08,Norwegian Eliteserien,€1 500 000
+900,Zidane Iqbal,Half-Back,14,23,FC Utrecht,Dutch Eredivisie,€1 000 000
+901,Kevin Yakob,Half-Back,14,25,AGF,Danish Super League,€850 000
+902,Marko Farji,Attacker,14,22,Venezia,Italian Serie B,€1 700 000
+903,Youssef Amyn,Attacker,14,22,AEK Larnaca,Cyprus League,€550 000
+904,Ali Jasim,Attacker,14,22,Al Najma,Saudi Pro League,€500 000
+905,Ahmed Qasem,Attacker,14,22,Nashville SC,American MLS,€3 500 000
+906,Ibrahim Bayesh,Attacker,14,26,Al-Dhafra,UAE Pro League,€800 000
+907,Ali Al-Hamadi,Attacker,14,24,Luton Town,English League One,€1 500 000
+908,Mohanad Ali,Attacker,14,26,Dibba Al Fujairah,UAE Pro League,€1 200 000
+909,Aymen Hussein,Attacker,14,30,Al-Karma,Iraqi League Stars,€400 000
+910,Ali Yousif,Attacker,14,30,Al-Talaba,Iraqi League Stars,€200 000
+911,Sander Tangvik,Goalkeeper,29,23,Hamburger SV,Germany Bundesliga,€3 000 000
+912,Egil Selvik,Goalkeeper,29,28,Watford,English Championship,€1 500 000
+913,Ørjan Nyland,Goalkeeper,29,35,Sevilla,Spanish LaLiga,€800 000
+914,Kristoffer Ajer,Defender,29,28,Brentford,English Premier League,€18 000 000
+915,Leo Østigård,Defender,29,26,Genoa,Italian Serie A,€13 000 000
+916,Torbjørn Heggem,Defender,29,27,Bologna,Italian Serie A,€13 000 000
+917,Henrik Falchener,Defender,29,23,Viking,Norwegian Eliteserien,€6 000 000
+918,Sondre Langås,Defender,29,25,Derby County,English Championship,€4 000 000
+919,David Møller Wolfe,Defender,29,24,Wolverhampton Wanderers,English Premier League,€8 000 000
+920,Fredrik Bjørkan,Defender,29,27,Bodø/Glimt,Norwegian Eliteserien,€3 500 000
+921,Julian Ryerson,Defender,29,28,Borussia Dortmund,Germany Bundesliga,€25 000 000
+922,Marcus Pedersen,Defender,29,25,Torino,Italian Serie A,€3 500 000
+923,Sander Berge,Half-Back,29,28,Fulham,English Premier League,€25 000 000
+924,Patrick Berg,Half-Back,29,28,Bodø/Glimt,Norwegian Eliteserien,€8 000 000
+925,Fredrik Aursnes,Half-Back,29,30,Benfica,Liga Portugal,€15 000 000
+926,Kristian Thorstvedt,Half-Back,29,27,Sassuolo,Italian Serie A,€12 000 000
+927,Morten Thorsby,Half-Back,29,30,Cremonese,Italian Serie A,€2 800 000
+928,Martin Ødegaard,Half-Back,29,27,Arsenal,English Premier League,€65 000 000
+929,Thelo Aasgaard,Half-Back,29,24,Rangers,Scotland Premiership,€2 800 000
+930,Antonio Nusa,Attacker,29,21,RB Leipzig,Germany Bundesliga,€32 000 000
+931,Andreas Schjelderup,Attacker,29,22,Benfica,Liga Portugal,€30 000 000
+932,Jens Petter Hauge,Attacker,29,26,Bodø/Glimt,Norwegian Eliteserien,€12 000 000
+933,Oscar Bobb,Attacker,29,22,Fulham,English Premier League,€28 000 000
+934,Erling Haaland,Attacker,29,25,Manchester City,English Premier League,€200 000 000
+935,Jørgen Strand Larsen,Attacker,29,26,Crystal Palace,English Premier League,€40 000 000
+936,Alexander Sørloth,Attacker,29,30,Atletico Madrid,Spanish LaLiga,€18 000 000
+937,Emiliano Martínez,Goalkeeper,5,33,Aston Villa,English Premier League,€12 000 000
+938,Gerónimo Rulli,Goalkeeper,5,34,Marseille,French Ligue 1,€6 000 000
+939,Juan Musso,Goalkeeper,5,32,Atletico Madrid,Spanish LaLiga,€3 000 000
+940,Cristian Romero,Defender,5,28,Tottenham Hotspur,English Premier League,€45 000 000
+941,Lisandro Martínez,Defender,5,28,Manchester United,English Premier League,€40 000 000
+942,Marcos Senesi,Defender,5,29,Tottenham Hotspur,English Premier League,€25 000 000
+943,Facundo Medina,Defender,5,27,Marseille,French Ligue 1,€18 000 000
+944,Nicolás Otamendi,Defender,5,38,River Plate,Argentinian Liga Profesional,€1 000 000
+945,Nicolás Tagliafico,Defender,5,33,Lyon,French Ligue 1,€4 000 000
+946,Nahuel Molina,Defender,5,28,Atletico Madrid,Spanish LaLiga,€15 000 000
+947,Gonzalo Montiel,Defender,5,29,River Plate,Argentinian Liga Profesional,€4 500 000
+948,Leandro Paredes,Half-Back,5,31,Boca Juniors,Argentinian Liga Profesional,€5 000 000
+949,Enzo Fernández,Half-Back,5,25,Chelsea,English Premier League,€90 000 000
+950,Alexis Mac Allister,Half-Back,5,27,Liverpool,English Premier League,€70 000 000
+951,Valentín Barco,Half-Back,5,21,Strasbourg,French Ligue 1,€40 000 000
+952,Exequiel Palacios,Half-Back,5,27,Bayer Leverkusen,Germany Bundesliga,€25 000 000
+953,Rodrigo De Paul,Half-Back,5,32,Inter Miami CF,American MLS,€14 000 000
+954,Nico Paz,Half-Back,5,21,Como,Italian Serie A,€80 000 000
+955,Giovani Lo Celso,Half-Back,5,30,Real Betis,Spanish LaLiga,€8 000 000
+956,Nico González,Attacker,5,28,Atletico Madrid,Spanish LaLiga,€22 000 000
+957,Thiago Almada,Attacker,5,25,Atletico Madrid,Spanish LaLiga,€15 000 000
+958,Giuliano Simeone,Attacker,5,23,Atletico Madrid,Spanish LaLiga,€40 000 000
+959,Lionel Messi,Attacker,5,39,Inter Miami CF,American MLS,€15 000 000
+960,Julián Alvarez,Attacker,5,26,Atletico Madrid,Spanish LaLiga,€100 000 000
+961,Lautaro Martínez,Attacker,5,28,Inter,Italian Serie A,€85 000 000
+962,Flaco López,Attacker,5,25,Palmeiras,Brazilian Serie A,€25 000 000
+963,Luca Zidane,Goalkeeper,3,28,Granada,Spanish LaLiga 2,€1 000 000
+964,Oussama Benbout,Goalkeeper,3,31,USM Alger,Algerian Ligue 1,€850 000
+965,Melvin Mastil,Goalkeeper,3,26,Stade Nyonnais,Swiss Super League,€250 000
+966,Ramy Bensebaini,Defender,3,31,Borussia Dortmund,Germany Bundesliga,€7 000 000
+967,Samir Chergui,Defender,3,27,Paris FC,French Ligue 1,€3 000 000
+968,Zineddine Belaid,Defender,3,27,JS Kabylie,Algerian Ligue 1,€1 800 000
+969,Mohamed Amine Tougai,Defender,3,26,Espérance,Tunisian Ligue 1,€1 300 000
+970,Aïssa Mandi,Defender,3,34,Lille,French Ligue 1,€1 000 000
+971,Achref Abada,Defender,3,27,USM Alger,Algerian Ligue 1,€1 000 000
+972,Rayan Aït-Nouri,Defender,3,25,Manchester City,English Premier League,€40 000 000
+973,Jaouen Hadjam,Defender,3,23,Young Boys,Swiss Super League,€7 000 000
+974,Rafik Belghali,Defender,3,24,Hellas Verona,Italian Serie A,€7 000 000
+975,Ramiz Zerrouki,Half-Back,3,28,FC Twente,Dutch Eredivisie,€6 500 000
+976,Nabil Bentaleb,Half-Back,3,31,Lille,French Ligue 1,€4 500 000
+977,Hicham Boudaoui,Half-Back,3,26,Nice,French Ligue 1,€12 000 000
+978,Yassine Titraoui,Half-Back,3,22,Sporting Charleroi,Belgian Jupiler Pro League,€7 000 000
+979,Ibrahim Maza,Half-Back,3,20,Bayer Leverkusen,Germany Bundesliga,€45 000 000
+980,Farès Chaïbi,Half-Back,3,23,Eintracht Frankfurt,Germany Bundesliga,€15 000 000
+981,Houssem Aouar,Half-Back,3,27,Al Ittihad,Saudi Pro League,€8 000 000
+982,Adil Boulbina,Attacker,3,23,Al-Duhail SC,Qatar Stars League,€3 000 000
+983,Anis Hadj Moussa,Attacker,3,24,Feyenoord,Dutch Eredivisie,€23 000 000
+984,Farès Ghedjemis,Attacker,3,23,Frosinone,Italian Serie B,€7 500 000
+985,Riyad Mahrez,Attacker,3,35,Al Ahli,Saudi Pro League,€5 000 000
+986,Amine Gouiri,Attacker,3,26,Marseille,French Ligue 1,€28 000 000
+987,Mohamed Amoura,Attacker,3,26,Wolfsburg,Germany Bundesliga,€20 000 000
+988,Nadhir Benbouali,Attacker,3,26,Györi ETO,Hungarian Nemzeti Bajnokság I,€1 200 000
+989,Florian Wiegele,Goalkeeper,2,25,Viktoria Plzen,Czech 1. Liga,€2 200 000
+990,Patrick Pentz,Goalkeeper,2,29,Brøndby IF,Danish Super League,€2 200 000
+991,Alexander Schlager,Goalkeeper,2,30,Salzburg,Austria Bundesliga,€2 000 000
+992,David Affengruber,Defender,2,25,Elche,Spanish LaLiga,€20 000 000
+993,Kevin Danso,Defender,2,27,Tottenham Hotspur,English Premier League,€20 000 000
+994,Philipp Lienhart,Defender,2,29,Freiburg,Germany Bundesliga,€10 000 000
+995,Marco Friedl,Defender,2,28,Werder Bremen,Germany Bundesliga,€10 000 000
+996,Stefan Posch,Defender,2,29,Mainz 05,Germany Bundesliga,€6 000 000
+997,Michael Svoboda,Defender,2,27,Venezia,Italian Serie B,€3 500 000
+998,David Alaba,Defender,2,34,Real Madrid,Spanish LaLiga,€3 000 000
+999,Phillipp Mwene,Defender,2,32,Mainz 05,Germany Bundesliga,€1 500 000
+1000,Konrad Laimer,Defender,2,29,Bayern München,Germany Bundesliga,€32 000 000
+1001,Nicolas Seiwald,Half-Back,2,25,RB Leipzig,Germany Bundesliga,€25 000 000
+1002,Dejan Ljubicic,Half-Back,2,28,Schalke 04,Germany Bundesliga,€3 000 000
+1003,Florian Grillitsch,Half-Back,2,30,Braga,Liga Portugal,€2 500 000
+1004,Paul Wanner,Half-Back,2,20,PSV Eindhoven,Dutch Eredivisie,€22 000 000
+1005,Carney Chukwuemeka,Half-Back,2,22,Borussia Dortmund,Germany Bundesliga,€20 000 000
+1006,Xaver Schlager,Half-Back,2,28,RB Leipzig,Germany Bundesliga,€10 000 000
+1007,Marcel Sabitzer,Half-Back,2,32,Borussia Dortmund,Germany Bundesliga,€6 000 000
+1008,Alessandro Schöpf,Half-Back,2,32,Wolfsberger AC,Austria Bundesliga,€800 000
+1009,Alexander Prass,Half-Back,2,25,Hoffenheim,Germany Bundesliga,€9 000 000
+1010,Romano Schmid,Half-Back,2,26,Werder Bremen,Germany Bundesliga,€15 000 000
+1011,Patrick Wimmer,Attacker,2,25,Hoffenheim,Germany Bundesliga,€12 000 000
+1012,Sasa Kalajdzic,Attacker,2,28,LASK,Austria Bundesliga,€4 000 000
+1013,Marko Arnautovic,Attacker,2,37,FK Crvena Zvezda,Serbian Super Liga,€2 000 000
+1014,Michael Gregoritsch,Attacker,2,32,Augsburg,Germany Bundesliga,€1 500 000
+1015,Yazeed Abulaila,Goalkeeper,17,33,Al-Hussein SC,Jordanian Pro League,€300 000
+1016,Noor Bane Ataya,Goalkeeper,17,33,Al-Faisaly,Jordanian Pro League,€250 000
+1017,Abdallah Al-Fakhouri,Goalkeeper,17,26,Al-Wehdat,Jordanian Pro League,€250 000
+1018,Yazan Al-Arab,Defender,17,30,FC Seoul,South Korean K-1 League,€1 000 000
+1019,Saed Al-Rousan,Defender,17,29,Al-Hussein SC,Jordanian Pro League,€450 000
+1020,Abdallah Nasib,Defender,17,32,Al Zawraa,Iraqi League Stars,€400 000
+1021,Husam Abu Dahab,Defender,17,26,Al-Faisaly,Jordanian Pro League,€350 000
+1022,Mohammad Abualnadi,Defender,17,25,Selangor,Malaysian Liga Super,€350 000
+1023,Saleem Obaid,Defender,17,34,Al-Hussein SC,Jordanian Pro League,€100 000
+1024,Mohannad Abu Taha,Defender,17,23,Al Quwa Al Jawiya,Jordanian Pro League,€550 000
+1025,Mohammad Abu Hasheesh,Defender,17,31,Al-Karma SC,Iraqi League Stars,€400 000
+1026,Mohammad Abu Ghoush,Defender,17,20,Al-Hussein SC,Jordanian Pro League,€300 000
+1027,Ehsan Haddad,Defender,17,32,Al-Hussein SC,Jordanian Pro League,€300 000
+1028,Anas Badawi,Defender,17,28,Al-Faisaly,Jordanian Pro League,€200 000
+1029,Nizar Al-Rashdan,Half-Back,17,27,Qatar SC,Qatar Stars League,€600 000
+1030,Amer Jamous,Half-Back,17,23,Al Zawraa,Iraqi League Stars,€500 000
+1031,Noor Al-Rawabdeh,Half-Back,17,29,Selangor,Malaysian Liga Super,€500 000
+1032,Ibrahim Saadeh,Half-Back,17,26,Al-Karma SC,Iraqi League Stars,€500 000
+1033,Rajaei Ayed,Half-Back,17,32,Al-Hussein SC,Jordanian Pro League,€325 000
+1034,Mohammad Al-Dawoud,Half-Back,17,33,Al-Wehdat,Jordanian Pro League,€150 000
+1035,Odeh Fakhoury,Attacker,17,20,Pyramids FC,Egyptian Premier League,€350 000
+1036,Mahmoud Al-Mardi,Attacker,17,32,Al-Hussein SC,Jordanian Pro League,€350 000
+1037,Mousa Tamari,Attacker,17,29,Rennes,French Ligue 1,€10 000 000
+1038,Mohammad Abu Zrayq,Attacker,17,28,Raja Casablanca,Moroccan Botola Pro,€700 000
+1039,Ali Azaizeh,Attacker,17,22,Al Shabab,Saudi Pro League,€325 000
+1040,Ali Olwan,Attacker,17,26,Al-Sailiya,Qatar Stars League,€800 000
+1041,Diogo Costa,Goalkeeper,34,26,FC Porto,Liga Portugal,€40 000 000
+1042,Rui Silva,Goalkeeper,34,32,Sporting CP,Liga Portugal,€7 000 000
+1043,José Sá,Goalkeeper,34,33,Wolverhampton Wanderers,English Premier League,€3 500 000
+1044,Ruben Dias,Defender,34,29,Manchester City,English Premier League,€55 000 000
+1045,Gonçalo Inácio,Defender,34,24,Sporting CP,Liga Portugal,€40 000 000
+1046,Tomás Araújo,Defender,34,24,Benfica,Liga Portugal,€30 000 000
+1047,Renato Veiga,Defender,34,22,Villarreal,Spanish LaLiga,€25 000 000
+1048,Nuno Mendes,Defender,34,24,Paris Saint-Germain,French Ligue 1,€80 000 000
+1049,Matheus Nunes,Defender,34,27,Manchester City,English Premier League,€50 000 000
+1050,Diogo Dalot,Defender,34,27,Manchester United,English Premier League,€30 000 000
+1051,João Cancelo,Defender,34,32,Barcelona,Spanish LaLiga,€8 000 000
+1052,Nelson Semedo,Defender,34,32,Fenerbahçe,Turkish Super League,€6 000 000
+1053,Vitinha,Half-Back,34,26,Paris Saint-Germain,French Ligue 1,€140 000 000
+1054,Ruben Neves,Half-Back,34,29,Al Hilal,Saudi Pro League,€25 000 000
+1055,Samú Costa,Half-Back,34,25,Mallorca,Spanish LaLiga,€15 000 000
+1056,João Neves,Half-Back,34,21,Paris Saint-Germain,French Ligue 1,€140 000 000
+1057,Francisco Trincão,Half-Back,34,26,Sporting CP,Liga Portugal,€40 000 000
+1058,Bruno Fernandes,Half-Back,34,31,Manchester United,English Premier League,€35 000 000
+1059,Bernardo Silva,Half-Back,34,31,Real Madrid,Spanish LaLiga,€22 000 000
+1060,Rafael Leão,Attacker,34,27,Milan,Italian Serie A,€50 000 000
+1061,Gonçalo Guedes,Attacker,34,29,Real Sociedad,Spanish LaLiga,€6 000 000
+1062,Pedro Neto,Attacker,34,26,Chelsea,English Premier League,€60 000 000
+1063,Francisco Conceição,Attacker,34,23,Juventus,Italian Serie A,€30 000 000
+1064,João Félix,Attacker,34,26,Al Nassr FC,Saudi Pro League,€28 000 000
+1065,Gonçalo Ramos,Attacker,34,25,Paris Saint-Germain,French Ligue 1,€30 000 000
+1066,Cristiano Ronaldo,Attacker,34,41,Al Nassr FC,Saudi Pro League,€10 000 000
+1067,Matthieu Epolo,Goalkeeper,11,21,Standard Liege,Belgian Jupiler Pro League,€8 000 000
+1068,Timothy Fayulu,Goalkeeper,11,26,FC Noah,Armenian Premier League,€800 000
+1069,Lionel Mpasi-Nzau,Goalkeeper,11,31,Le Havre,French Ligue 1,€400 000
+1070,Axel Tuanzebe,Defender,11,28,Burnley,English Premier League,€5 000 000
+1071,Steve Kapuadi,Defender,11,28,Widzew Łódź,Polish Ekstraklasa,€2 500 000
+1072,Chancel Mbemba,Defender,11,31,Lille,French Ligue 1,€2 000 000
+1073,Dylan Batubinsika,Defender,11,30,AE Larissa,Greek Super League 1,€600 000
+1074,Joris Kayembe,Defender,11,31,Genk,Belgian Jupiler Pro League,€2 000 000
+1075,Arthur Masuaku,Defender,11,32,Lens,French Ligue 1,€2 000 000
+1076,Aaron Wan-Bissaka,Defender,11,28,West Ham United,English Premier League,€15 000 000
+1077,Gédéon Kalulu,Defender,11,28,Aris Limassol,Cyprus League,€1 000 000
+1078,Ngal'ayel Mukau,Half-Back,11,21,Lille,French Ligue 1,€15 000 000
+1079,Charles Pickel,Half-Back,11,29,Espanyol,Spanish LaLiga,€2 500 000
+1080,Noah Sadiki,Half-Back,11,21,Sunderland,English Premier League,€35 000 000
+1081,Edo Kayembe,Half-Back,11,28,Watford,English Premier League,€4 000 000
+1082,Samuel Moutoussamy,Half-Back,11,29,Atromitos,Greek Super League 1,€1 200 000
+1083,Aaron Tshibola,Half-Back,11,31,Kilmarnock,Scotland Premiership,€150 000
+1084,Gaël Kakuta,Half-Back,11,35,AE Larissa,Greek Super League 1,€250 000
+1085,Nathanaël Mbuku,Attacker,11,24,Montpellier,French Ligue 2,€2 000 000
+1086,Brian Cipenga,Attacker,11,28,Almeria,Spanish LaLiga 2,€2 000 000
+1087,Théo Bongonda,Attacker,11,30,Spartak Moscow,Russian Premier League,€3 000 000
+1088,Yoane Wissa,Attacker,11,29,Newcastle United,English Premier League,€25 000 000
+1089,Simon Banza,Attacker,11,29,Al-Jazira,UAE Pro League,€10 000 000
+1090,Fiston Mayele,Attacker,11,32,Pyramids FC,Egyptian Premier League,€1 800 000
+1091,Meschack Elia,Attacker,11,28,Alanyaspor,Turkish Super League,€1 500 000
+1092,Cédric Bakambu,Attacker,11,35,Real Betis,Spanish LaLiga,€1 200 000
+1093,Dean Henderson,Goalkeeper,4,29,Crystal Palace,English Premier League,€28 000 000
+1094,James Trafford,Goalkeeper,4,23,Manchester City,English Premier League,€25 000 000
+1095,Jordan Pickford,Goalkeeper,4,32,Everton,English Premier League,€13 000 000
+1096,Marc Guéhi,Defender,4,25,Manchester City,English Premier League,€70 000 000
+1097,Jarell Quansah,Defender,4,23,Bayer Leverkusen,Germany Bundesliga,€45 000 000
+1098,Ezri Konsa,Defender,4,28,Aston Villa,English Premier League,€40 000 000
+1099,Trevoh Chalobah,Defender,4,26,Chelsea,English Premier League,€40 000 000
+1100,John Stones,Defender,4,32,Manchester City,English Premier League,€12 000 000
+1101,Dan Burn,Defender,4,34,Newcastle United,English Premier League,€4 000 000
+1102,Nico O'Reilly,Defender,4,21,Manchester City,English Premier League,€70 000 000
+1103,Djed Spence,Defender,4,25,Tottenham Hotspur,English Premier League,€30 000 000
+1104,Reece James,Defender,4,26,Chelsea,English Premier League,€60 000 000
+1105,Jordan Henderson,Half-Back,4,36,Brentford,English Premier League,€1 200 000
+1106,Declan Rice,Half-Back,4,27,Arsenal,English Premier League,€120 000 000
+1107,Elliot Anderson,Half-Back,4,23,Nottingham Forest,English Premier League,€75 000 000
+1108,Kobbie Mainoo,Half-Back,4,21,Manchester United,English Premier League,€70 000 000
+1109,Jude Bellingham,Half-Back,4,22,Real Madrid,Spanish LaLiga,€130 000 000
+1110,Morgan Rogers,Half-Back,4,23,Aston Villa,English Premier League,€90 000 000
+1111,Eberechi Eze,Half-Back,4,27,Arsenal,English Premier League,€65 000 000
+1112,Anthony Gordon,Attacker,4,25,Barcelona,Spanish LaLiga,€65 000 000
+1113,Marcus Rashford,Attacker,4,28,Barcelona,Spanish LaLiga,€40 000 000
+1114,Bukayo Saka,Attacker,4,24,Arsenal,English Premier League,€110 000 000
+1115,Noni Madueke,Attacker,4,24,Arsenal,English Premier League,€50 000 000
+1116,Harry Kane,Attacker,4,32,Bayern München,Germany Bundesliga,€60 000 000
+1117,Ollie Watkins,Attacker,4,30,Aston Villa,English Premier League,€25 000 000
+1118,Ivan Toney,Attacker,4,30,Al Ahli,Saudi Pro League,€20 000 000
+1119,Dominik Kotarski,Goalkeeper,43,26,FC København,Danish Super League,€5 000 000
+1120,Ivor Pandur,Goalkeeper,43,26,Hull City,English Premier League,€4 500 000
+1121,Dominik Livakovic,Goalkeeper,43,31,Dinamo Zagreb,Croatian NHL,€4 000 000
+1122,Josko Gvardiol,Defender,43,24,Manchester City,English Premier League,€70 000 000
+1123,Luka Vuskovic,Defender,43,19,Hamburger SV,Germany Bundesliga,€60 000 000
+1124,Josip Sutalo,Defender,43,26,Ajax,Dutch Eredivisie,€12 000 000
+1125,Marin Pongracic,Defender,43,28,Fiorentina,Italian Serie A,€6 500 000
+1126,Martin Erlić,Defender,43,28,FC Midtjylland,Danish Super League,€4 000 000
+1127,Duje Caleta-Car,Defender,43,29,Real Sociedad,Spanish LaLiga,€2 800 000
+1128,Josip Stanisic,Defender,43,26,Bayern München,Germany Bundesliga,€40 000 000
+1129,Nikola Moro,Half-Back,43,28,Bologna,Italian Serie A,€7 000 000
+1130,Kristijan Jakic,Half-Back,43,29,Augsburg,Germany Bundesliga,€6 000 000
+1131,Petar Sučić,Half-Back,43,22,Inter,Italian Serie A,€40 000 000
+1132,Mateo Kovacic,Half-Back,43,32,Manchester City,English Premier League,€10 000 000
+1133,Luka Sucic,Half-Back,43,23,Real Sociedad,Spanish LaLiga,€10 000 000
+1134,Mario Pašalić,Half-Back,43,31,Atalanta,Italian Serie A,€6 000 000
+1135,Luka Modrić,Half-Back,43,40,Milan,Italian Serie A,€3 500 000
+1136,Martin Baturina,Half-Back,43,23,Como,Italian Serie A,€30 000 000
+1137,Nikola Vlašić,Half-Back,43,28,Torino,Italian Serie A,€10 000 000
+1138,Toni Fruk,Half-Back,43,25,Rijeka,Croatian NHL,€9 000 000
+1139,Andrej Kramaric,Half-Back,43,35,Hoffenheim,Germany Bundesliga,€2 500 000
+1140,Ivan Perišić,Attacker,43,37,PSV Eindhoven,Dutch Eredivisie,€1 200 000
+1141,Marco Pašalić,Attacker,43,25,Orlando City,American MLS,€6 500 000
+1142,Igor Matanovic,Attacker,43,23,Freiburg,Germany Bundesliga,€22 000 000
+1143,Petar Musa,Attacker,43,28,FC Dallas,American MLS,€12 000 000
+1144,Ante Budimir,Attacker,43,34,Osasuna,Spanish LaLiga,€2 800 000
+1145,Lawrence Ati Zigi,Goalkeeper,10,29,St. Gallen,Swiss Super League,€1 500 000
+1146,Joseph Anang,Goalkeeper,10,26,St. Patrick's Athletic,Irish Premier Division,€350 000
+1147,Benjamin Asare,Goalkeeper,10,33,,,€100 000
+1148,Kojo Peprah Oppong,Defender,10,22,Nice,French Ligue 1,€10 000 000
+1149,Alidu Seidu,Defender,10,26,Rennes,French Ligue 1,€6 000 000
+1150,Jonas Adjetey,Defender,10,22,Wolfsburg,Germany Bundesliga,€6 000 000
+1151,Jerome Opoku,Defender,10,27,Başakşehir,Turkish Super League,€5 000 000
+1152,Abdul Mumin,Defender,10,28,Rayo Vallecano,Spanish LaLiga,€3 000 000
+1153,Derrick Luckassen,Defender,10,30,Pafos FC,Cyprus League,€1 000 000
+1154,Gideon Mensah,Defender,10,27,Auxerre,French Ligue 1,€4 000 000
+1155,Abdul Rahman Baba,Defender,10,31,PAOK Thessaloniki,Greek Super League 1,€2 000 000
+1156,Marvin Senaya,Defender,10,25,Auxerre,French Ligue 1,€3 000 000
+1157,Elisha Owusu,Half-Back,10,28,Auxerre,French Ligue 1,€4 000 000
+1158,Thomas Partey,Half-Back,10,33,Villarreal,Spanish LaLiga,€2 000 000
+1159,Caleb Yirenkyi,Half-Back,10,20,Nordsjælland,Danish Super League,€10 000 000
+1160,Kwasi Sibo,Half-Back,10,28,Real Oviedo,Spanish LaLiga,€1 400 000
+1161,Augustine Boakye,Half-Back,10,25,Saint-Etienne,French Ligue 1,€6 000 000
+1162,Kamaldeen Sulemana,Attacker,10,24,Atalanta,Italian Serie A,€17 000 000
+1163,Christopher Bonsu Baah,Attacker,10,21,Al Qadsiah,Saudi Pro League,€14 000 000
+1164,Antoine Semenyo,Attacker,10,26,Manchester City,English Premier League,€80 000 000
+1165,Abdul Fatawu,Attacker,10,22,Leicester City,English Premier League,€20 000 000
+1166,Ernest Nuamah,Attacker,10,22,Lyon,French Ligue 1,€10 000 000
+1167,Iñaki Williams,Attacker,10,32,Athletic Club,Spanish LaLiga,€8 000 000
+1168,Brandon Thomas-Asante,Attacker,10,27,Coventry City,English Premier League,€16 000 000
+1169,Prince Adu,Attacker,10,22,Viktoria Plzen,Czech 1. Liga,€3 000 000
+1170,Jordan Ayew,Attacker,10,34,Leicester City,English Premier League,€1 000 000
+1171,Orlando Mosquera,Goalkeeper,30,31,Al-Fayha,Saudi Pro League,€700 000
+1172,César Samudio,Goalkeeper,30,32,CD Marathon,Honduran Liga Nacional,€250 000
+1173,Luis Mejía,Goalkeeper,30,35,Nacional,Uruguayan Primera Division,€150 000
+1174,José Córdoba,Defender,30,25,Norwich City,English Premier League,€5 000 000
+1175,Andrés Andrade,Defender,30,27,LASK,Austria Bundesliga,€2 500 000
+1176,Edgardo Fariña,Defender,30,24,Nizhny Novgorod,Russian Premier League,€900 000
+1177,Jiovany Ramos,Defender,30,29,Academia Puerto Cabello,Venezuelan Primera División,€450 000
+1178,Fidel Escobar,Defender,30,31,Deportivo Saprissa,Costa Rican Primera División,€350 000
+1179,Roderick Miller,Defender,30,34,Turan Tovuz,Azerbaijan Premier League,€175 000
+1180,Jorge Gutiérrez,Defender,30,27,Deportivo La Guaira,Venezuelan Primera División,€800 000
+1181,Éric Davis,Defender,30,35,CD Plaza Amador,Panamanian LPF,€50 000
+1182,Amir Murillo,Defender,30,30,Beşiktaş,Turkish Super League,€7 000 000
+1183,César Blackman,Defender,30,28,Slovan Bratislava,Slovak 1. liga,€2 500 000
+1184,Cristian Martínez,Half-Back,30,29,Hapoel Ironi Kiryat Shmona,Israeli Ligat ha'Al,€800 000
+1185,Carlos Harvey,Half-Back,30,26,Minnesota United,American MLS,€600 000
+1186,Aníbal Godoy,Half-Back,30,36,San Diego FC,American MLS,€100 000
+1187,Adalberto Carrasquilla,Half-Back,30,27,Pumas,Mexican League MX Apertura,€4 000 000
+1188,José Luis Rodríguez,Attacker,30,28,FC Juarez,Mexican League MX Apertura,€2 500 000
+1189,Ismael Díaz,Attacker,30,29,Leon,Mexican League MX Apertura,€1 800 000
+1190,Yoel Bárcenas,Attacker,30,32,Mazatlan FC,Mexican League MX Apertura,€650 000
+1191,César Yanis,Attacker,30,30,Cobresal,Chilean Primera División,€400 000
+1192,Alberto Quintero,Attacker,30,38,CD Plaza Amador,Panamanian LPF,€75 000
+1193,Tomás Rodríguez,Attacker,30,27,Deportivo Saprissa,Costa Rican Primera División,€1 000 000
+1194,Azarías Londoño,Attacker,30,25,Universidad Catolica,Ecuadorian Serie A,€1 000 000
+1195,José Fajardo,Attacker,30,32,Universidad Catolica,Ecuadorian Serie A,€550 000
+1196,Cecilio Waterman,Attacker,30,35,Universidad de Concepcion,Chilean Primera División,€250 000
+1197,Abduvokhid Nematov,Goalkeeper,40,25,Nasaf Qarshi,Uzbekistan Superliga,€1 500 000
+1198,Utkir Yusupov,Goalkeeper,40,35,Foolad Khuzestan,Iranian Persian Gulf,€500 000
+1199,Botirali Ergashev,Goalkeeper,40,31,AGMK,Uzbekistan Superliga,€500 000
+1200,Abdukodir Khusanov,Defender,40,22,Manchester City,English Premier League,€50 000 000
+1201,Rustam Ashurmatov,Defender,40,29,Esteghlal,Iranian Persian Gulf,€750 000
+1202,Jakhongir Urozov,Defender,40,22,Dinamo Samarkand,Uzbekistan Superliga,€600 000
+1203,Avazbek Ulmasaliev,Defender,40,26,AGMK,Uzbekistan Superliga,€500 000
+1204,Umar Eshmurodov,Defender,40,33,Nasaf Qarshi,Uzbekistan Superliga,€450 000
+1205,Sherzod Nasrullaev,Defender,40,27,Nasaf Qarshi,Uzbekistan Superliga,€1 200 000
+1206,Farrukh Sayfiev,Defender,40,35,Navbahor Namangan,Uzbekistan Superliga,€225 000
+1207,Khozhiakbar Alizhonov,Defender,40,29,Pakhtakor Tashkent,Uzbekistan Superliga,€1 300 000
+1208,Bekhruz Karimov,Defender,40,18,Termez Surkhon,Uzbekistan Superliga,€350 000
+1209,Odildzhon Khamrobekov,Half-Back,40,30,Tractor,Iranian Persian Gulf,€1 000 000
+1210,Abdulla Abdullaev,Half-Back,40,28,Dibba Al Fujairah,UAE Pro League,€500 000
+1211,Aziz Ganiev,Half-Back,40,28,Al Bataeh,UAE Pro League,€2 000 000
+1212,Otabek Shukurov,Half-Back,40,30,Baniyas,UAE Pro League,€1 500 000
+1213,Akmal Mozgovoy,Half-Back,40,27,Baniyas,UAE Pro League,€1 400 000
+1214,Sherzod Esanov,Half-Back,40,23,Buxoro,Uzbekistan Superliga,€450 000
+1215,Jamshid Iskanderov,Half-Back,40,32,Neftchi Fargona,Uzbekistan Superliga,€1 000 000
+1216,Oston Urunov,Attacker,40,25,Persepolis,Iranian Persian Gulf,€2 000 000
+1217,Ruslanbek Jiyanov,Attacker,40,25,Navbahor Namangan,Uzbekistan Superliga,€800 000
+1218,Abbosbek Fayzullaev,Attacker,40,22,Başakşehir,Turkish Super League,€7 000 000
+1219,Dostonbek Khamdamov,Attacker,40,29,Pakhtakor Tashkent,Uzbekistan Superliga,€900 000
+1220,Eldor Shomurodov,Attacker,40,30,Başakşehir,Turkish Super League,€7 000 000
+1221,Igor Sergeev,Attacker,40,33,Persepolis,Iranian Persian Gulf,€1 200 000
+1222,Azizbek Amanov,Attacker,40,28,Dinamo Samarkand,Uzbekistan Superliga,€500 000
+1223,Álvaro Montero,Goalkeeper,21,31,Velez Sarsfield,Argentinian Liga Profesional,€2 500 000
+1224,Camilo Vargas,Goalkeeper,21,37,Atlas,Mexican League MX Apertura,€450 000
+1225,David Ospina,Goalkeeper,21,37,Atletico Nacional,Colombian Primera A,€100 000
+1226,Jhon Lucumí,Defender,21,28,Bologna,Italian Serie A,€22 000 000
+1227,Davinson Sánchez,Defender,21,30,Galatasaray,Turkish Super League,€16 000 000
+1228,Willer Ditta,Defender,21,28,Cruz Azul,Mexican League MX Apertura,€5 500 000
+1229,Yerry Mina,Defender,21,31,Cagliari,Italian Serie A,€2 500 000
+1230,Deiver Machado,Defender,21,32,Nantes,French Ligue 1,€1 800 000
+1231,Johan Mojica,Defender,21,33,Mallorca,Spanish LaLiga,€1 500 000
+1232,Daniel Muñoz,Defender,21,30,Crystal Palace,English Premier League,€22 000 000
+1233,Santiago Arias,Defender,21,34,Independiente,Argentinian Liga Profesional,€1 200 000
+1234,Richard Ríos,Half-Back,21,26,Benfica,Liga Portugal,€25 000 000
+1235,Jefferson Lerma,Half-Back,21,31,Crystal Palace,English Premier League,€6 000 000
+1236,Kevin Castaño,Half-Back,21,25,River Plate,Argentinian Liga Profesional,€5 000 000
+1237,Gustavo Puerta,Half-Back,21,22,Racing Santander,Spanish LaLiga 2,€10 000 000
+1238,Juan Portilla,Half-Back,21,27,Athletico Paranaense,Brazilian Serie A,€5 000 000
+1239,Jorge Carrascal,Half-Back,21,28,Flamengo,Brazilian Serie A,€13 000 000
+1240,Juan Fernando Quintero,Half-Back,21,33,River Plate,Argentinian Liga Profesional,€1 800 000
+1241,James Rodríguez,Half-Back,21,34,Minnesota United,American MLS,€1 500 000
+1242,Luis Díaz,Attacker,21,29,Bayern München,Germany Bundesliga,€70 000 000
+1243,Andrés Gómez,Attacker,21,23,Vasco da Gama,Brazilian Serie A,€11 000 000
+1244,Jaminton Campaz,Attacker,21,26,Rosario Central,Argentinian Liga Profesional,€5 500 000
+1245,Jhon Arias,Attacker,21,28,Palmeiras,Brazilian Serie A,€15 000 000
+1246,Luis Suárez,Attacker,21,28,Sporting CP,Liga Portugal,€30 000 000
+1247,Cucho Hernández,Attacker,21,27,Real Betis,Spanish LaLiga,€18 000 000
+1248,Jhon Córdoba,Attacker,21,33,FC Krasnodar,Russian Premier League,€10 000 000
