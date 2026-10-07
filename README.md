@@ -123,7 +123,9 @@ FIFA-World-Cup-2026-SQL-Analysis/
 ├── sql/
 │   ├── world_cup_analysis.sql
 │   └── README.md 
+** **
 
+```text
 ## Visualizations
 
 The following visualizations were created in Tableau based on the SQL analysis.
@@ -155,6 +157,5 @@ The following visualizations were created in Tableau based on the SQL analysis.
 ### 7. Goals-to-Players Ratio by League
 
 ![Goals-to-Players Ratio by League](images/07_goals_to_players_ratio_by_league.png)
-![Goals-to-Players Ratio by League](images/07_goals_to_players_ratio_by_league.png)
+
 │
-└── README.md
