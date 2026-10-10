@@ -1,5 +1,6 @@
-# Visualizations
+# Візуалізація
 
-This folder contains visualizations created in Tableau based on the SQL analysis.
+Ця папка містить легкі графіки, створені в Tableau на основі результатів SQL-аналізу.
 
-The visualizations are used to present key findings from the FIFA World Cup 2026 dataset.
+Візуалізація допомагає наочно представити ключові результати дослідження даних Чемпіонату світу з футболу 2026 року та продемонструвати основні закономірності у результативності гравців і команд.
+
