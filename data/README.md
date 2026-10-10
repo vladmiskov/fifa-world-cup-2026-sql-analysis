@@ -1,66 +1,109 @@
 # Data
 
-This folder contains the datasets used for the FIFA World Cup 2026 SQL analysis.
+# Дані про Чемпіонат світу з футболу 2026
 
-## Datasets
+Ця папка містить чотири набори даних, використані для SQL-аналізу Чемпіонату світу з футболу 2026 року: інформацію про збірні, гравців, забиті голи та матчі.
 
-### teams.csv
-Contains information about national teams participating in the tournament.
+## Структура даних
 
-Main fields include:
-- Team name
-- Team code
-- Confederation
-- FIFA ranking
-- Group
-- Team market value
+### 1. `teams.csv` — Збірні
 
-### matches.csv
-Contains match-level statistics.
+Містить інформацію про національні збірні, їхні рейтинги, конфедерації, групи та ринкову вартість.
 
-Main fields include:
-- Match date
-- Tournament stage
-- Teams
-- Goals
-- Expected goals (xG)
-- Possession
-- Shots
-- Corners
-- Fouls
-- Cards
-- Attendance
-- Stadium
-- City
-- Weather temperature
+**Колонки:**
 
-### players.csv
-Contains information about players participating in the tournament.
+| Колонка                 | Опис                                            |
+| ----------------------- | ----------------------------------------------- |
+| `team_id`               | Унікальний ідентифікатор збірної                |
+| `team_name`             | Назва збірної                                   |
+| `team_code`             | Код збірної                                     |
+| `confederation`         | Футбольна конфедерація                          |
+| `team_market_value_eur` | Сукупна ринкова вартість гравців збірної в євро |
+| `fifa_rank`             | Рейтинг збірної FIFA                            |
+| `group_name`            | Назва групи на турнірі                          |
 
-Main fields include:
-- Player name
-- Position
-- National team
-- Age
-- Club
-- League
-- Player market value
+### 2. `players.csv` — Гравці
 
-### goals.csv
-Contains individual goal records.
+Містить інформацію про гравців, їхні позиції, вік, клуби, ліги та ринкову вартість.
 
-Main fields include:
-- Goal
-- Player
-- Team
-- Assist information
+**Колонки:**
 
-## Data Sources
+| Колонка                   | Опис                                 |
+| ------------------------- | ------------------------------------ |
+| `player_id`               | Унікальний ідентифікатор гравця      |
+| `player_name`             | Ім'я гравця                          |
+| `position`                | Ігрова позиція                       |
+| `team_id`                 | Ідентифікатор національної збірної   |
+| `age`                     | Вік гравця                           |
+| `club`                    | Футбольний клуб гравця               |
+| `league`                  | Футбольна ліга, у якій виступає клуб |
+| `player_market_value_eur` | Ринкова вартість гравця в євро       |
 
-The datasets were compiled from multiple publicly available football data sources:
+### 3. `goals.csv` — Забиті голи
 
-- FIFA — tournament information, teams, fixtures and results
-- Transfermarkt — player and team market values
-- FotMob — match statistics and player-related statistics
+Містить інформацію про забиті голи, їхніх авторів, час забиття, тип гола та гольові передачі.
 
-The data was collected and prepared specifically for this portfolio project.
+**Колонки:**
+
+| Колонка              | Опис                                               |
+| -------------------- | -------------------------------------------------- |
+| `goal_id`            | Унікальний ідентифікатор гола                      |
+| `match_id`           | Ідентифікатор матчу                                |
+| `player_id`          | Ідентифікатор автора гола                          |
+| `player_name`        | Ім'я автора гола                                   |
+| `team_id`            | Ідентифікатор збірної автора гола                  |
+| `team_name`          | Назва збірної автора гола                          |
+| `minute`             | Хвилина, на якій забито гол                        |
+| `assist_player_name` | Ім'я гравця, який віддав гольову передачу          |
+| `assist_player_id`   | Ідентифікатор гравця, який віддав гольову передачу |
+| `goal_type`          | Тип гола                                           |
+| `body_part`          | Частина тіла, якою забито гол                      |
+
+### 4. `matches.csv` — Матчі
+
+Містить інформацію про матчі турніру, результати, очікувані голи (xG), ігрову статистику, відвідуваність та погодні умови.
+
+**Колонки:**
+
+| Колонка                | Опис                                        |
+| ---------------------- | ------------------------------------------- |
+| `match_id`             | Унікальний ідентифікатор матчу              |
+| `match_date`           | Дата матчу                                  |
+| `stage`                | Стадія турніру                              |
+| `group_round`          | Тур групового етапу                         |
+| `group`                | Група матчу                                 |
+| `home_team_id`         | Ідентифікатор команди-господаря             |
+| `away_team_id`         | Ідентифікатор команди-гостя                 |
+| `winner_team_id`       | Ідентифікатор команди-переможця             |
+| `match_result_type`    | Тип закінчення матчу                        |
+| `home_goals`           | Кількість голів команди-господаря           |
+| `away_goals`           | Кількість голів команди-гостя               |
+| `home_xg`              | Очікувані голи команди-господаря (xG)       |
+| `away_xg`              | Очікувані голи команди-гостя (xG)           |
+| `home_possession`      | Володіння м'ячем команди-господаря          |
+| `away_possession`      | Володіння м'ячем команди-гостя              |
+| `home_shots`           | Загальна кількість ударів команди-господаря |
+| `away_shots`           | Загальна кількість ударів команди-гостя     |
+| `home_shots_on_target` | Удари в площину воріт команди-господаря     |
+| `away_shots_on_target` | Удари в площину воріт команди-гостя         |
+| `home_corners`         | Кількість кутових команди-господаря         |
+| `away_corners`         | Кількість кутових команди-гостя             |
+| `home_fouls`           | Кількість фолів команди-господаря           |
+| `away_fouls`           | Кількість фолів команди-гостя               |
+| `home_yellow_cards`    | Жовті картки команди-господаря              |
+| `away_yellow_cards`    | Жовті картки команди-гостя                  |
+| `home_red_cards`       | Червоні картки команди-господаря            |
+| `away_red_cards`       | Червоні картки команди-гостя                |
+| `Capacity`             | Місткість стадіону                          |
+| `attendance`           | Кількість глядачів на матчі                 |
+| `stadium`              | Назва стадіону                              |
+| `city`                 | Місто проведення матчу                      |
+| `weather_temperature`  | Температура повітря під час матчу           |
+
+## Джерела даних
+
+Дані зібрано з кількох загальнодоступних джерел футбольної інформації:
+
+* **FIFA** — інформація про турнір, збірні, календар матчів і результати.
+* **Transfermarkt** — ринкова вартість гравців і збірних.
+* **FotMob** — статистика матчів і гравців.
