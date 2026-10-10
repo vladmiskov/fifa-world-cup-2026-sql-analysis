@@ -1,1 +1,1 @@
-Jupyter Notebook with SQL analysis of FIFA World Cup 2026.
+Jupyter Notebook із SQL-аналізом Чемпіонату світу з футболу 2026 року.
