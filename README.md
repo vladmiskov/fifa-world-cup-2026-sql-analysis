@@ -1,153 +1,149 @@
 # FIFA World Cup 2026 — SQL Data Analysis
 
-## Project Overview
+## Про проєкт
 
-This portfolio project analyzes FIFA World Cup 2026 data using PostgreSQL and SQL.
+Цей портфоліо-проєкт присвячений аналізу даних Чемпіонату світу з футболу 2026 року за допомогою PostgreSQL та SQL.
 
-The main goal is to explore team, player, goal, league and match performance and identify interesting patterns in the tournament data.
+Основна мета — дослідити результативність команд і гравців, голи, футбольні ліги та матчі, а також виявити цікаві закономірності в даних турніру.
 
-The analysis focuses on goals, expected goals (xG), player contribution, team market value and league performance.
+Аналіз зосереджений на голах, очікуваних голах (xG), внеску гравців, ринковій вартості команд і результативності футбольних ліг.
 
-## Key Analytical Questions
+## Основні аналітичні питання
 
-The project answers the following questions:
+Проєкт дає відповіді на такі питання:
 
-1. Which clubs had the most goals scored by their players?
-2. Which teams scored more goals than expected based on their xG?
-3. How much did the top scorer contribute to their team's total goals?
-4. Is team market value related to goal-scoring performance?
-5. Which football leagues contributed the most goals?
-6. How does the number of goals compare with the number of players from each league?
+1. Гравці яких футбольних клубів забили найбільше голів?
+2. Які команди забили більше голів, ніж очікувалося згідно з їхнім показником xG?
+3. Яку частку загальної кількості голів команди забив її найкращий бомбардир?
+4. Чи пов'язана ринкова вартість команди з її результативністю?
+5. Які футбольні ліги забезпечили найбільшу кількість голів?
+6. Як співвідносяться кількість голів і кількість гравців із кожної ліги?
 
-## Tools & Technologies
+## Інструменти та технології
 
-- PostgreSQL
-- SQL
-- DBeaver
-- Jupyter Notebook
-- Python — used to connect to the database and display SQL results
-- Tableau — used for data visualization
-- GitHub
+* PostgreSQL
+* SQL
+* DBeaver
+* Jupyter Notebook
+* Python — для підключення до бази даних і відображення результатів SQL-запитів
+* Tableau — для візуалізації даних
+* GitHub
 
-## SQL Skills Demonstrated
+## Продемонстровані навички SQL
 
-The project demonstrates practical use of:
+У проєкті продемонстровано практичне використання:
 
-- JOINs
-- LEFT JOIN
-- GROUP BY
-- Aggregations
-- CTEs
-- UNION ALL
-- Window functions
-- RANK()
-- ROW_NUMBER()
-- SUM() OVER
-- AVG() OVER
-- PARTITION BY
-- CASE expressions
-- HAVING
-- Data cleaning with REGEXP_REPLACE
-- Calculated metrics and ratios
+* `JOIN`
+* `LEFT JOIN`
+* `GROUP BY`
+* Агрегатних функцій
+* CTEs (Common Table Expressions)
+* `UNION ALL`
+* Віконних функцій
+* Виразів `CASE`
+* `HAVING`
+* Очищення даних за допомогою `REGEXP_REPLACE`
 
-## Key Analyses
+## Основні напрямки аналізу
 
-### Clubs with the Most Goals
+### Клуби з найбільшою кількістю голів
 
-Identifies clubs whose players scored the most goals during the tournament.
+Визначення футбольних клубів, гравці яких забили найбільше голів протягом турніру.
 
-The analysis also shows the number of different players who scored for each club.
+Також аналіз показує кількість різних гравців кожного клубу, які забивали голи.
 
-### Actual Goals vs Expected Goals
+### Фактичні голи проти очікуваних (xG)
 
-Compares actual goals with expected goals (xG) for each team.
+Порівняння фактичної кількості голів з очікуваною кількістю голів (xG) для кожної команди.
 
-This helps identify teams that converted their chances more effectively than expected.
+Це дає змогу визначити команди, які реалізовували свої гольові моменти ефективніше, ніж очікувалося.
 
-### Top Scorer's Contribution
+### Внесок найкращого бомбардира
 
-Measures how large a share of a team's total goals was scored by its top scorer.
+Визначення частки голів команди, забитих її найрезультативнішим гравцем.
 
-This helps identify teams that relied heavily on one main goalscorer.
+Це допомагає виявити команди, результативність яких значною мірою залежала від одного основного бомбардира.
 
-### Team Market Value vs Goals
 
-Compares national team market value with goals scored during the group stage.
+### Ринкова вартість команд і кількість голів
 
-The analysis also compares average market value and total goals between tournament groups.
+Порівняння ринкової вартості національних збірних із кількістю голів, забитих на груповому етапі.
 
-### Goal Contribution by League
+Також аналіз порівнює середню ринкову вартість команд і загальну кількість голів між групами турніру.
 
-Ranks football leagues by the number of goals scored by their players.
+### Внесок футбольних ліг у результативність
 
-The analysis also calculates goals per player to compare scoring productivity between leagues.
+Ранжування футбольних ліг за кількістю голів, забитих їхніми гравцями.
 
-## Visualizations
+Додатково розраховується кількість голів на одного гравця, щоб порівняти результативність гравців із різних ліг.
 
-The following visualizations were created in Tableau based on the SQL analysis.
 
-### 1. Top 10 Clubs by Goals
+## Візуалізації
 
-Shows the clubs whose players scored the most goals during the FIFA World Cup 2026.
+Наведені нижче візуалізації створені в Tableau на основі результатів SQL-аналізу.
+
+### 1. Топ-10 футбольних клубів за кількістю голів
+
+Показує футбольні клуби, гравці яких забили найбільше голів під час Чемпіонату світу з футболу 2026 року.
 
 ![Top 10 Clubs by Goals](./images/01_top_clubs_by_goals.png.png)
 
-### 2. Clubs with the Most Goal Scorers
+### 2. Клуби з найбільшою кількістю авторів голів
 
-Shows which clubs had the largest number of different players scoring goals.
+Показує, у яких клубах найбільша кількість різних гравців забивали голи.
 
 ![Clubs with the Most Goal Scorers](./images/02_clubs_with_most_goal_scorers.png.png)
 
-### 3. Goals-to-xG Ratio by Team
+### 3. Співвідношення голів до xG за командами
 
-Compares actual goals with expected goals (xG) and highlights teams that outperformed their expected scoring level.
+Порівнює фактичну кількість голів з очікуваними голами (xG) та визначає команди, які перевершили очікуваний рівень результативності.
 
 ![Goals-to-xG Ratio by Team](./images/03_goals_to_xg_ratio.png.png)
 
-### 4. Top Scorer's Contribution to Team Goals
+### 4. Внесок найкращого бомбардира в голи команди
 
-Shows the percentage of a team's goals scored by its top goalscorer.
+Показує, який відсоток голів команди забив її найкращий бомбардир.
 
 ![Top Scorer's Contribution to Team Goals](./images/04_top_scorer_contribution.png.png)
 
-### 5. World Cup Groups: Goals vs Team Market Value
+### 5. Групи чемпіонату світу: голи та ринкова вартість команд
 
-Compares total goals scored with the average team market value across World Cup groups.
+Порівнює загальну кількість забитих голів із середньою ринковою вартістю команд у кожній групі чемпіонату світу.
 
 ![World Cup Groups: Goals vs Team Market Value](./images/05_groups_goals_vs_market_value.png.png)
 
-### 6. Share of Total Goals by League
+### 6. Частка голів за лігами
 
-Shows how the goals scored by players are distributed across their domestic leagues.
+Показує, як розподіляються голи, забиті гравцями, між їхніми національними лігами.
 
 ![Share of Total Goals by League](./images/06_goals_share_by_league.png.png)
 
-### 7. Goals-to-Players Ratio by League
+### 7. Співвідношення голів до кількості гравців за лігами
 
-Compares the number of goals with the number of players represented by each league.
+Порівнює кількість забитих голів із кількістю представлених гравців у кожній лізі.
 
 ![Goals-to-Players Ratio by League](./images/07_goals_to_players_ratio_by_league.png.png)
 
-## Data
+## Дані
 
-The project uses four main datasets:
+У проєкті використовуються чотири основні набори даних:
 
 - `teams.csv` — national team information
 - `matches.csv` — match statistics
 - `players.csv` — player information
 - `goals.csv` — individual goal records
 
-### Data Sources
+### Джерела даних
 
-The data was compiled from publicly available football data sources:
+Дані зібрано з відкритих джерел футбольної статистики:
 
-- FIFA — tournament information, teams, fixtures and results
-- Transfermarkt — player and team market values
-- FotMob — match and player statistics
+- FIFA — інформація про турнір, команди, календар матчів і результати
+- Transfermarkt — ринкова вартість гравців і команд
+- FotMob — статистика матчів і гравців
 
-The datasets were collected and prepared specifically for this portfolio project.
+Набори даних було зібрано та підготовлено спеціально для цього портфоліо-проєкту.
 
-## Project Structure
+## Структура проєкту
 
 ```text
 FIFA-World-Cup-2026-SQL-Analysis/
